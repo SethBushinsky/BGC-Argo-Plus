@@ -14,3 +14,5 @@ intro:
   btn_label: "Button"
 btn_class: "btn-primary"
 ---
+
+{% include feature_row id="intro" type="center" %}
