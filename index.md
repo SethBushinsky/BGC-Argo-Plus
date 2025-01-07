@@ -5,11 +5,14 @@ hidden: true
 header:
   overlay_color: "#ffffff"
   overlay_image: /assets/images/Map_all_bgc_floats_no_legend.png
-  overlay_filter: rgba(0, 0, 0, 0.5)
+  overlay_filter: rgba(0, 0, 0, 0.6)
   caption: "BGC float locations globall"
-  excerpt: 
+  excerpt: A dataset containing all available biogeochemical Argo data with a secondary quality control applied. Data available as individual float files or in monthly 1x1 gridded options. Additional data adjustments coming over the next few months. 
+  actions:
+    - label: "Data download"
+    - url: "data-download/"
 ---
 # Biogeochemical Argo+
-A dataset containing all available biogeochemical Argo data with a secondary quality control applied. Data available as individual float files or in monthly 1x1 gridded options. Additional data adjustments coming over the next few months. 
+
 
 [Data download page](data-download/){: .btn .btn--primary }
