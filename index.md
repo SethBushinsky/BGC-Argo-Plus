@@ -5,6 +5,8 @@ hidden: true
 header:
   overlay_color: "#ffffff"
   overlay_image: /assets/images/Map_all_bgc_floats_no_legend.png
+  overlay_filter: rgba(0, 0, 0, 0.5)
+  caption: "BGC float locations globall"
   excerpt: 
 ---
 # Biogeochemical Argo+
