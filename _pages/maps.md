@@ -6,19 +6,19 @@ author_profile: false
 last_modified_at: 2025-01-06
 
 gallery2:
-  - url: /assets/images/_Map_all_bgc_floats_no_legend.png
-    image_path: /assets/images/_Map_all_bgc_floats_no_legend.png
+  - url: /assets/images/Logo_Mark_Backed.png
+    image_path: /assets/images/Logo_Mark_Backed.png
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/_Map_all_bgc_floats_no_legend.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo_Mark_Backed.png" alt="e">
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo_Mark_Backed.png" alt="">
 
 
 
-![image-center]("/assets/images/_Map_all_bgc_floats_no_legend.png"){: .align-center}
+![image-center]("/assets/images/Logo_Mark_Backed.png"){: .align-center}
 
 This post is for troubleshooting why my images are not rendering on the Minimal Mistakes site. 
 
@@ -40,20 +40,20 @@ baseurl	 : "/lab-book"
 **HTML:**
 
 ```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/_Map_all_bgc_floats_no_legend.png" alt="">{% endraw %}
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo_Mark_Backed.png" alt="">{% endraw %}
 ```
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/_Map_all_bgc_floats_no_legend.png" alt="">{% endraw %}
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo_Mark_Backed.png" alt="">{% endraw %}
 
 ... nothing 
 
 **Kramdown:**
 
 ```markdown
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/_Map_all_bgc_floats_no_legend.png){% endraw %}
+{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Logo_Mark_Backed.png){% endraw %}
 ```
 {% raw %}
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/_Map_all_bgc_floats_no_legend.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Logo_Mark_Backed.png)
 
 {% endraw %}
 
@@ -62,11 +62,11 @@ baseurl	 : "/lab-book"
 **Kramdown without '{% raw %} {% endraw %} wrap':**
 
 ```kramdown
-![img-png]({{ site.url }}{{ site.baseurl }}/assets/images/_Map_all_bgc_floats_no_legend.png)
+![img-png]({{ site.url }}{{ site.baseurl }}/assets/images/Logo_Mark_Backed.png)
 ```
 
-![img-png]({{ site.url }}{{ site.baseurl }}/assets/images/_Map_all_bgc_floats_no_legend.png)
+![img-png]({{ site.url }}{{ site.baseurl }}/assets/images/Logo_Mark_Backed.png)
 
 {% include gallery id="gallery2"  caption="This is a sample gallery with **Markdown support**." %}
 
-![img-jpg]({{ site.url }}{{ site.baseurl }}/assets/images/_Map_all_bgc_floats_no_legend.png)
+![img-jpg]({{ site.url }}{{ site.baseurl }}/assets/images/Logo_Mark_Backed.png)
