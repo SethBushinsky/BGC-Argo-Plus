@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Home"
-    url: https://sethbushinsky.github.io/BGC-Argo-Plus/
+    url: /home/
   - title: "About"
-    url: https://sethbushinsky.github.io/BGC-Argo-Plus/about/
+    url: /about/
   - title: "Data Download"
     url: /data-download/
   - title: "Maps"
-    url: https://sethbushinsky.github.io/BGC-Argo-Plus/maps/
+    url: /maps/
   # - title: "Sitemap"
   #   url: /sitemap/
