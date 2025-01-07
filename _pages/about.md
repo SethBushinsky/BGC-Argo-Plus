@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "BGC-Argo-Plus production information."
-
+author_profile: true
 last_modified_at: 2025-01-06
 ---
 
