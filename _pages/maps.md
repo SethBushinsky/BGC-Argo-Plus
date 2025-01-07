@@ -1,7 +1,9 @@
 ---
-title: "Rendering Images in Jekyll Minimal Mistakes"
-categories:
-  - blog
+permalink: /maps/
+title: "Maps "
+excerpt: "Map placeholder"
+author_profile: false
+last_modified_at: 2025-01-06
 ---
 This post is for troubleshooting why my images are not rendering on the Minimal Mistakes site. 
 
