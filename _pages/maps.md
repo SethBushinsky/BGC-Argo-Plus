@@ -12,7 +12,7 @@ gallery2:
     title: "Image 3 title caption"
 ---
 
-![image-center](/assets/images/_Map_all_bgc_floats_no_legend.png){: .align-center}
+![image-center]("/assets/images/_Map_all_bgc_floats_no_legend.png"){: .align-center}
 
 This post is for troubleshooting why my images are not rendering on the Minimal Mistakes site. 
 
