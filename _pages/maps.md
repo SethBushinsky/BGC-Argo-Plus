@@ -12,7 +12,9 @@ gallery2:
     title: "Image 3 title caption"
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images_Map_all_bgc_floats_no_legend.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/_Map_all_bgc_floats_no_legend.png" alt="">
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo_Mark_Backed.png" alt="">
 
 
 
