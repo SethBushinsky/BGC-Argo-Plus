@@ -2,6 +2,9 @@
 layout: splash
 permalink: /
 hidden: true
+classes:
+  - landing
+  - dark-theme
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/Map_all_bgc_floats_no_legend.png
