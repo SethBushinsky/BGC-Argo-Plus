@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#ffffff"
-  overlay_image: /assets/images/Map_all_bgc_floats_no_legend.pngimage: /assets/images/Map_all_bgc_floats_no_legend.png
+  overlay_image: /assets/images/Map_all_bgc_floats_no_legend.png
   excerpt: 
 ---
 # Biogeochemical Argo+
