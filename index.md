@@ -4,9 +4,8 @@ permalink: /
 hidden: true
 classes:
   - landing
-  - dark-theme
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#ffffff"
   overlay_image: /assets/images/Map_all_bgc_floats_no_legend.png
   actions:
     - label: "<i class='fas fa-download'></i> Download data"
