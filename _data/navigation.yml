@@ -7,6 +7,6 @@ main:
   - title: "Data Download"
     url: /data-download/
   - title: "Maps"
-    url: /maps/
+    url: https://sethbushinsky.github.io/BGC-Argo-Plus/maps/
   # - title: "Sitemap"
   #   url: /sitemap/
