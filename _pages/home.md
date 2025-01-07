@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/_Map_all_bgc_floats_no_legend.png
+  overlay_image: /BGC-Argo-Plus/assets/images/_Map_all_bgc_floats_no_legend.png
   actions:
     - label: "<i class='fas fa-download'></i> Download data"
       url: "/data-download/"
