@@ -4,7 +4,16 @@ title: "Maps "
 excerpt: "Map placeholder"
 author_profile: false
 last_modified_at: 2025-01-06
+
+gallery2:
+  - url: /assets/images/_Map_all_bgc_floats_no_legend.png
+    image_path: /assets/images/_Map_all_bgc_floats_no_legend.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
 ---
+
+![image-center](/assets/images/_Map_all_bgc_floats_no_legend.png){: .align-center}
+
 This post is for troubleshooting why my images are not rendering on the Minimal Mistakes site. 
 
 The minimal mistakes jekyll [assets/images](https://github.com/mmistakes/minimal-mistakes/tree/master/docs/assets/images) folder images are all either .png or .jpg files
@@ -25,20 +34,20 @@ baseurl	 : "/lab-book"
 **HTML:**
 
 ```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.svg" alt="">{% endraw %}
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/_Map_all_bgc_floats_no_legend.png" alt="">{% endraw %}
 ```
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/guthuboctocat.svg" alt="">{% endraw %}
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/_Map_all_bgc_floats_no_legend.png" alt="">{% endraw %}
 
 ... nothing 
 
 **Kramdown:**
 
 ```markdown
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.svg){% endraw %}
+{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/_Map_all_bgc_floats_no_legend.png){% endraw %}
 ```
 {% raw %}
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.svg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/_Map_all_bgc_floats_no_legend.png)
 
 {% endraw %}
 
@@ -51,5 +60,7 @@ baseurl	 : "/lab-book"
 ```
 
 ![img-png]({{ site.url }}{{ site.baseurl }}/assets/images/_Map_all_bgc_floats_no_legend.png)
+
+{% include gallery id="gallery2"  caption="This is a sample gallery with **Markdown support**." %}
 
 ![img-jpg]({{ site.url }}{{ site.baseurl }}/assets/images/_Map_all_bgc_floats_no_legend.png)
