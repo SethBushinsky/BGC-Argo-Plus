@@ -24,7 +24,7 @@ Indian | [BGC_Argo_Plus_Ind](https://ftp.soest.hawaii.edu/bgc_argo_plus/BGC_Argo
 All Floats | [FTP Directory](https://ftp.soest.hawaii.edu/bgc_argo_plus/Individual_Floats) | X files, Y GB total | 2025-05
 
 ## Gridded data 
-**(not mapped or interpolated)**
+**(X x Y x Z grid, not mapped or interpolated)**
 
 Region | Link | File Size | Date Updated
 --- | --- | --- | --- 
