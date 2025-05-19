@@ -16,7 +16,7 @@ search: false
 }
 
 .video-item {
-  flex: 1 1 calc(33.33% - 20px); /* 33.33% width for 3 items per row */
+  flex: 1 1 calc(95% - 20px); /* 33.33% width for 3 items per row */
   margin-bottom: 20px; /* Space between rows */
 }
 
