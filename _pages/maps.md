@@ -12,6 +12,18 @@ gallery2:
     title: "Image 3 title caption"
 ---
 
+<div class="video-gallery">
+  <div class="video-item">
+    <video width="560" height="315" controls>
+      <source src="/assets/videos/BGC_dep_map2.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <!-- Add more video items as needed -->
+</div>
+
+
+
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo_Mark_Backed.png" alt="">
 
 
