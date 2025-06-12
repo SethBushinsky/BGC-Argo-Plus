@@ -9,16 +9,25 @@ toc: false
 datatable: true
 ---
 
-<div class="datatable-begin"></div>
+<table id="Table1" class="display">
+    <thead>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Row 1 Data 1</td>
+            <td>Row 1 Data 2</td>
+        </tr>
+        <tr>
+            <td>Row 2 Data 1</td>
+            <td>Row 2 Data 2</td>
+        </tr>
+    </tbody>
+</table>
 
-Food    | Description                           | Category | Sample type
-------- | ------------------------------------- | -------- | -----------
-Apples  | A small, somewhat round ...           | Fruit    | Fuji
-Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
-Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
-Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
-
-<div class="datatable-end"></div>
 
 <table id="my-table">
   <thead>
@@ -41,6 +50,10 @@ Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
     </tr>
   </tbody>
 </table>
+
+$(document).ready( function () {
+    $('#Table1').DataTable();
+} );
 
 
 {% raw %}
