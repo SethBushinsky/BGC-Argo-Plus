@@ -6,8 +6,18 @@ author_profile: false
 last_modified_at: 2025-06-12
 classes: wide
 toc: false
+---
 
-<!-- Datatable plugin CSS file -->
+
+<html>
+
+<head>
+    <meta content="initial-scale=1, maximum-scale=1, 
+        user-scalable=0" name="viewport" />
+
+    <meta name="viewport" content="width=device-width" />
+
+    <!-- Datatable plugin CSS file -->
     <link rel="stylesheet" href=
 "https://cdn.datatables.net/1.10.22/css/jquery.dataTables.min.css" />
 
@@ -20,8 +30,7 @@ toc: false
      <script type="text/javascript" src=
 "https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js">
      </script>
-
----
+</head>
 
 <body>
     <h2>load data from JavaScript array using Datatables</h2>
