@@ -51,11 +51,9 @@ datatable: true
   </tbody>
 </table>
 
-{% raw %}
-$(document).ready( function () {
-    $('#Table1').DataTable();
-} );
-{% endraw %}
+let table = new DataTable('#Table1', {
+    // options
+});
 
 {% raw %}
 <script>
