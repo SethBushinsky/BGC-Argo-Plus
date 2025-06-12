@@ -9,56 +9,14 @@ toc: false
 datatable: true
 ---
 
-<table id="Table1" class="display">
-    <thead>
-        <tr>
-            <th>Column 1</th>
-            <th>Column 2</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Row 1 Data 1</td>
-            <td>Row 1 Data 2</td>
-        </tr>
-        <tr>
-            <td>Row 2 Data 1</td>
-            <td>Row 2 Data 2</td>
-        </tr>
-    </tbody>
-</table>
+<div class="datatable-begin"></div>
 
+Food    | Description                           | Category | Sample type
+------- | ------------------------------------- | -------- | -----------
+Apples  | A small, somewhat round ...           | Fruit    | Fuji
+Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
+Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
+Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
 
-<table id="my-table">
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Age</th>
-      <th>Position</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>30</td>
-      <td>Engineer</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>25</td>
-      <td>Designer</td>
-    </tr>
-  </tbody>
-</table>
+<div class="datatable-end"></div>
 
-let table = new DataTable('#Table1', {
-    // options
-});
-
-{% raw %}
-<script>
-  $(document).ready(function () {
-    $('#my-table').DataTable();
-  });
-</script>
-{% endraw %}
