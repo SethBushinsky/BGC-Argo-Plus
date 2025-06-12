@@ -32,3 +32,4 @@ Region | Link | File Size | Date Updated
 N/A | N/A | N/A | N/A
 
 ## Float file details
+[Link to float table for now:](https://www.bgc-argo-plus.info/float_table/)
