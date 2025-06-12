@@ -51,10 +51,11 @@ datatable: true
   </tbody>
 </table>
 
+{% raw %}
 $(document).ready( function () {
     $('#Table1').DataTable();
 } );
-
+{% endraw %}
 
 {% raw %}
 <script>
