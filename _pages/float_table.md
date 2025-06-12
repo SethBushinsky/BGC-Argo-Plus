@@ -43,8 +43,10 @@ Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
 </table>
 
 
+{% raw %}
 <script>
-  $(document).ready(function() {
+  $(document).ready(function () {
     $('#my-table').DataTable();
   });
 </script>
+{% endraw %}
