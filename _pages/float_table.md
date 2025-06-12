@@ -20,4 +20,31 @@ Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
 
 <div class="datatable-end"></div>
 
+<table id="my-table">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Age</th>
+      <th>Position</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Alice</td>
+      <td>30</td>
+      <td>Engineer</td>
+    </tr>
+    <tr>
+      <td>Bob</td>
+      <td>25</td>
+      <td>Designer</td>
+    </tr>
+  </tbody>
+</table>
 
+
+<script>
+  $(document).ready(function() {
+    $('#my-table').DataTable();
+  });
+</script>
