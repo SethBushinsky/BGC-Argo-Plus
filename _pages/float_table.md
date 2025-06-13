@@ -4,7 +4,6 @@ title: "Float information table "
 author_profile: false
 last_modified_at: 2025-06-12
 toc: false
-datatable: true
 ---
 
 <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
