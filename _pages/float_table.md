@@ -7,8 +7,6 @@ toc: false
 
 ---
 
-
-
 <div class="datatable-begin"></div>
 
 Food    | Description                           | Category | Sample type
