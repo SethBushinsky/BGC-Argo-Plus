@@ -1,7 +1,12 @@
-{% raw %}
+<!-- {% raw %}
 <script>
   $(document).ready(function () {
     $('#my-table').DataTable();
   });
 </script>
-{% endraw %}
+{% endraw %} -->
+
+<script>$(document).ready(function () {
+    $.noConflict();
+    var table = $('#my-table').DataTable();
+});</script>
