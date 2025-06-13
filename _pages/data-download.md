@@ -33,3 +33,5 @@ N/A | N/A | N/A | N/A
 
 ## Float file details
 [Float table:](https://www.bgc-argo-plus.info/test_table_4/)
+[Test float page:](https://www.bgc-argo-plus.info/float_pages/1901214/)
+

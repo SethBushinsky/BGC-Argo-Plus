@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 permalink: /test_table_4/
 title: "Float Table"
 author_profile: false
