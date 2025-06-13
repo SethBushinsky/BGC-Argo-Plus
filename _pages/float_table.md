@@ -4,11 +4,10 @@ title: "Float information table "
 author_profile: false
 last_modified_at: 2025-06-12
 toc: false
----
-
 <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
 <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/2.3.2/css/dataTables.dataTables.css">
 <script type="text/javascript" charset="utf8" src="//cdn.datatables.net/2.3.2/js/dataTables.js"></script>
+---
 
 
 <script>
