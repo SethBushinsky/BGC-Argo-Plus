@@ -32,4 +32,4 @@ Region | Link | File Size | Date Updated
 N/A | N/A | N/A | N/A
 
 ## Float file details
-[Float table:](https://www.bgc-argo-plus.info/test_table_3/)
+[Float table:](https://www.bgc-argo-plus.info/test_table_4/)
