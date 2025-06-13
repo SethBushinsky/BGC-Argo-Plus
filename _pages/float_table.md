@@ -1,10 +1,8 @@
 ---
 permalink: /float_table/
 title: "Float information table "
-excerpt: "Float Table"
 author_profile: false
 last_modified_at: 2025-06-12
-classes: wide
 toc: false
 datatable: true
 ---
