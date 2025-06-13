@@ -5,8 +5,8 @@ title: "Table"
 author_profile: false
 last_modified_at: 2025-06-12
 toc: false
-
 ---
+
 <table id="my-table">
   <thead>
     <tr>
