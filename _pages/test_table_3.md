@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /test_table_3/
 title: "Table"
 author_profile: false
@@ -24,11 +25,3 @@ toc: false
     </tr>
   </tbody>
 </table>
-
-{% raw %}
-<script>
-  $(document).ready(function () {
-    $('#my-table').DataTable();
-  });
-</script>
-{% endraw %}
