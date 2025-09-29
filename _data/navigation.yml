@@ -8,6 +8,8 @@ main:
     url: /data-download/
   - title: "Maps"
     url: /maps/
+  - title: "Float Table"
+    url: /float_meta_table/
   # to add - citation? 
   # - title: "Sitemap"
   #   url: /sitemap/
