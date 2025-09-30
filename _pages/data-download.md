@@ -32,6 +32,19 @@ Region | Link | File Size | Date Updated
 N/A | N/A | N/A | N/A
 
 ## Float file details
-[Float table:](https://www.bgc-argo-plus.info/float_meta_table/)
-<!-- [Test float page:](https://www.bgc-argo-plus.info/float_pages/1901214/) -->
+**Data variables contained in each file:**
+
+Variable name | Type | Description
+--- | --- | ---
+[VAR] | Unchanged | Raw variable copied directly from DAC
+[VAR]_ADJUSTED | Unchanged | ADJUSTED variable copied directly from DAC
+[VAR]_BGCAP | Biogeochemical Argo+ version | Variable modified from DAC according to the processing level description
+[VAR]_BGCAP_Processing_Level | Biogeochemical Argo+ version | Processing level flags
+
+**Flag descriptors:** \
+"M" - Mode filter applied (delayed mode only typically)\
+"F" - DAC QC flags applied (Bad data flagged as NaN)\
+"RO" - Outlier removed\
+"Corr" - O2 Bias correction applied (Bushinsky et al., 2025, Nachod et al., in prep)\
+"Thermo" - Thermodynamic correction applied to pK1/pK2 (Johnson et al., in prep)
 
