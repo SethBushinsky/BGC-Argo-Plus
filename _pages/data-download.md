@@ -32,19 +32,31 @@ Region | Link | File Size | Date Updated
 N/A | N/A | N/A | N/A
 
 ## Float file details
-**Data variables contained in each file:**
 
+### Variables originally included in the Sprof files that are modified:
 Variable name | Type | Description
 --- | --- | ---
 [VAR] | Unchanged | Raw variable copied directly from DAC
 [VAR]_ADJUSTED | Unchanged | ADJUSTED variable copied directly from DAC
-[VAR]_BGCAP | Biogeochemical Argo+ version | Variable modified from DAC according to the processing level description
-[VAR]_BGCAP_Processing_Level | Biogeochemical Argo+ version | Processing level flags
+[VAR]_BGCArgoPlus | Biogeochemical Argo+ version | Variable modified from DAC according to the processing level description
+[VAR]_BGCArgoPlus_ProcessingLevel | Biogeochemical Argo+ version | Processing level of variable
 
-**Flag descriptors:** \
-"M" - Mode filter applied (delayed mode only typically)\
+**Processing Level Descriptors:** \
+"RTA/DM" - Mode allowed (RTA = Real Time Adjusted and delayed mode allowed, DM = only delayed mode allowed)\
 "F" - DAC QC flags applied (Bad data flagged as NaN)\
 "RO" - Outlier removed\
-"Corr" - O2 Bias correction applied (Bushinsky et al., 2025, Nachod et al., in prep)\
+"O2Bias" - O2 Bias correction applied (Bushinsky et al., 2025, Nachod et al., in prep)\
 "Thermo" - Thermodynamic correction applied to pK1/pK2 (Johnson et al., in prep)
 
+### Newly calculated derived variables added to the BGCArgoPlus files:
+Variable name | Description
+--- | --- 
+TALK_BGCArgoPlus | Alkalinity estimated from ESPER Mixed, which is an average of ESPER neural network and ESPER multiple linear regression (Carter et al. 2023)
+DIC_BGCArgoPlus | DIC calculated from float pH and TALK_BGCArgoPlus. O2 Bias Correction applied where possible and the Johnson et al. XXXX adjustment to pk1 and pk2 used. 
+sigma0 | Potential Density calculated using gsw.SA_from_SP, gsw.CT_from_t, gsw.sigma0
+cons_temp | Conservative temperature calculated using gsw.CT_from_t
+spiciness0 | Spiciness calculated using using gsw.SA_from_SP, gsw.CT_from_t, gsw.spiciness0
+gamma | Neutral density calculated using Matlab eos80_legacy_gamma_n from **XXXX**
+depth | Depth calculated using gsw.conversions.z_from_p
+MLD | MLD calculated using De Boyer Montegue et al. 2004 (modified to work w/ under ice data as well)
+DOXY_SAT | The saturation concentration of oxygen using Garcia and Gordon 1992 (gsw.O2sol_SP_pt). Assumes standard atmospheric pressure. 
