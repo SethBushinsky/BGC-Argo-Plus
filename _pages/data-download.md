@@ -34,13 +34,13 @@ N/A | N/A | N/A | N/A
 ## Float file details
 
 ### Variables originally included in the Sprof files that are modified:
-Variable name | Type | Description
+Variable name | Type | Description 
 --- | --- | ---
-[VAR] | Unchanged | Raw variable copied directly from DAC
-[VAR]_ADJUSTED | Unchanged | ADJUSTED variable copied directly from DAC
-[VAR]_BGCArgoPlus | Biogeochemical Argo+ version | Variable modified from DAC according to the processing level description
-[VAR]_BGCArgoPlus_ProcessingLevel | Biogeochemical Argo+ version | Processing level of variable
-
+[VAR] | Unchanged | Raw variable copied directly from DAC 
+[VAR]_ADJUSTED | Unchanged | ADJUSTED variable copied directly from DAC 
+[VAR]_BGCArgoPlus | Biogeochemical Argo+ version | Variable modified from DAC according to the processing level description 
+[VAR]_BGCArgoPlus_ProcessingLevel | Biogeochemical Argo+ version | Processing level of variable 
+ 
 **Processing Level Descriptors:** \
 "RTA/DM" - Mode allowed (RTA = Real Time Adjusted and delayed mode allowed, DM = only delayed mode allowed)\
 "F" - DAC QC flags applied (Bad data flagged as NaN)\
