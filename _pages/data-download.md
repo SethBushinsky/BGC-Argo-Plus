@@ -34,6 +34,7 @@ N/A | N/A | N/A | N/A
 ## Float file details
 
 ### Variables originally included in the Sprof files that are modified:
+
 Variable name | Type | Description 
 --- | --- | ---
 [VAR] | Unchanged | Raw variable copied directly from DAC 
@@ -49,6 +50,7 @@ Variable name | Type | Description
 "Thermo" - Thermodynamic correction applied to pK1/pK2 (Johnson et al., in prep)
 
 ### Newly calculated derived variables added to the BGCArgoPlus files:
+
 Variable name | Description
 --- | --- 
 TALK_BGCArgoPlus | Alkalinity estimated from ESPER Mixed, which is an average of ESPER neural network and ESPER multiple linear regression (Carter et al. 2023)
