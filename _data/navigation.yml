@@ -10,6 +10,8 @@ main:
     url: /maps/
   - title: "Float Table"
     url: /float_meta_table/
+  - title: "Code Repository"
+    url: /code-repository/
   # to add - citation? 
   # - title: "Sitemap"
   #   url: /sitemap/
