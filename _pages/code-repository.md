@@ -14,7 +14,20 @@ As part of this dataset effort we would like to make it easy for people to get s
 https://github.com/Hi-Cycles/BGC_Argo_Plus_Code_Repository)
 
 ## Scripts and example output:
-Have a script that you think could be useful to the community? Send me an e-mail and we can add it to the repository or link to it here. Find a bug? Please let the author know.
+
+{% capture notice-2 %}
+**Investigate float and Glodap observation density in a given region**:
+[Float_Glodap_Obs_Density.ipynb](https://github.com/Hi-Cycles/BGC_Argo_Plus_Code_Repository/blob/main/Float_Glodap_Obs_Density.ipynb)
+- Requires: 
+  - some amount of float data
+  - Preprocessed Glodap netcdf file: 
+![image-left](https://www.bgc-argo-plus.info/assets/images/example_figures/Argo_GDAC_Sampling_Density and num_profiles_v_1.pdf){: .align-left "width: 80%;"}
+
+{% endcapture %}
+
+<div class="notice">{{ notice-2 | markdownify }}</div>
+
+**Have a script that you think could be useful to the community? Send me an e-mail and we can add it to the repository or link to it here. Find a bug? Please let the author know.**
 
 ## New to Python? Here are some links and recommendations for getting started:
 
