@@ -5,13 +5,22 @@ toc: True
 toc_label: "Main Sections"
 toc_icon: "cog"
 permalink: /code-repository/
-title: "Data Download"
+title: "Getting started with BGC Argo data"
 author_profile: false
 breadcrumbs: true
 ---
 ## Github repository
 As part of this dataset effort we would like to make it easy for people to get started with BGC Argo data. All scripts referenced on this page can be found in our [github repository](
 https://github.com/Hi-Cycles/BGC_Argo_Plus_Code_Repository)
+
+If you are brand new to Python, take a look at the "Getting started with Python section" below for tips on getting Python initially installed and some of the basics of working with environments, scripts, git, etc.
+
+## Lessons and activities
+As I develop lessons / data activities for working with BGC Argo data, I'll post them here. 
+
+### 1. Setting up your BGC Argo Python environment
+### 2. Download example example float data and make preliminary plots
+### 3. Calculate seasonal NCP via Nitrate Drawdown
 
 ## Scripts and example output:
 
