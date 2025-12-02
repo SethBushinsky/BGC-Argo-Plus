@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /bgc-argo-plus-env/
+permalink: /code-pages/bgc-argo-plus-env/
 title: "Creating a Python Environment for working with BGC Argo data"
 author_profile: false
 last_created_on: 2025-12-01
@@ -9,7 +9,9 @@ toc: true
  
 Maintaining different Python environments is key, as you will eventually install enough packages that conflicts will likely arise between some. If you do this all in your "base" environment, you'll probably be stuck reinstalling Python and (if you're like me) put off learning Python for a few more years. 
 
-Open terminal or equivalent. First, double check that conda is installed:
+Before you begin working on a new project, decide where you are going to keep the code for that project. I recommend learning to use version control software like github, but I'm not going to get into that here. Check out the Python Basics info on the code-repository page of this site to find some links to git resources. For now I'm going to assume you've some directory I'll refer to as "[PROJECT_DIRECTORY]/code/" where "PROJECT_DIRECTORY" is your project name and "code" is a subfolder where you have your (potentially git linked) code for your project work.
+
+Now, open terminal or equivalent. First, double check that conda is installed:
 
 ```
 (base) smb-uh@smb-uh BGC-Argo-Plus % conda -V
@@ -274,9 +276,35 @@ Executing transaction: done
 ## Option B - using a .yml file
 Instead of installing packages one at a time, you can try to install everything from a ".yml" file. This can be handy, especially if there are a certain set of package versions that work together. Sometimes Conda has a hard time getting everything to work well together and this fails and/or it takes forever. Either option A or B are fine as long as you get the packages you need installed. 
 
-First, download the .yml file from the BGC Argo+ code repository: https://github.com/Hi-Cycles/BGC_Argo_Plus_Code_Repository
+First, download the .yml file from the BGC Argo+ code repository: [](https://github.com/Hi-Cycles/BGC_Argo_Plus_Code_Repository/blob/main/bgc_argo_env.yml). Put this in the directory where you will store your code ("[PROJECT_DIRECTORY]/code/"). 
 
-## General tips for working with environments
+bgc_argo_env.yml should look like this:
+```
+name: bgc_argo_env
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+ - numpy # general numerical computing
+ - pandas # general data handling
+ - xarray # useful for working with model data or other multi-dimensional datasets, especially netcdf files
+ - netCDF4 # required for xarray and general use of netcdf files
+ - matplotlib # plotting package
+ - jupyter # needed for running notebooks
+ - python
+ - scipy # statistical functions
+ - gsw # for calculating different seawater properties
+ - cartopy # a mapping package
+ - tqdm # for helpful progress bars
+ - pip # install packages that are not available through conda
+ - pip:
+   - PyCO2SYS # for calculating carbonate system parameters
+```
+
+To create a new Python environment with the name in the .yml file (note that this is NOT the name of the file, but what comes after "name: " in the first link of the file).
+
+
+## General tips for working with Python environments
 
 ### List all installed environments
 Forget whether you already made an environment to work on a specific project? Use `conda info --envs`
