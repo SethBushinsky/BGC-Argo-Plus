@@ -1,10 +1,14 @@
 ---
-layout: splash
+layout: single
 permalink: /code-pages/bgc-argo-plus-env/
 title: "Creating a Python Environment for working with BGC Argo data"
 author_profile: false
 last_created_on: 2025-12-01
-toc: true
+toc: True
+toc_label: "Contents"
+toc_icon: "cog"
+breadcrumbs: true
+
 ---
  
 Maintaining different Python environments is key, as you will eventually install enough packages that conflicts will likely arise between some. If you do this all in your "base" environment, you'll probably be stuck reinstalling Python and (if you're like me) put off learning Python for a few more years. 
@@ -301,8 +305,15 @@ dependencies:
    - PyCO2SYS # for calculating carbonate system parameters
 ```
 
-To create a new Python environment with the name in the .yml file (note that this is NOT the name of the file, but what comes after "name: " in the first link of the file).
+This file will be used to create a new Python environment with the name in the .yml file (note that this is NOT the name of the file, but what comes after "name: " in the first link of the file). After entering the next command you might want to go for a walk, get a cup of coffee, or pet your cat - it will likely take a long time for Conda to sort out the various dependencies here. If you'd rather actively be working on things, then you can go back to Option A, but work down this list of packages one by one. Note that after you install "pip" using `conda install pip`, you'll then use "pip" to install PyCO2SYS. PyCO2SYS cannot be installed through conda, so we use PIP (`pip install PyCO2SYS`). Don't ask me why. 
 
+If you're continuing with the .yml file:
+```
+(base) smb-uh@smb-uh code % conda env create -f bgc_argo_env.yml   
+Collecting package metadata (repodata.json): done
+Solving environment: / 
+```
+It'll likely sit spinning for a while. 
 
 ## General tips for working with Python environments
 
