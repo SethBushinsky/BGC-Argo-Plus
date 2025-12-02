@@ -272,7 +272,9 @@ Executing transaction: done
 (bgc_argo_env) smb-uh@smb-uh BGC-Argo-Plus % 
 ```
 ## Option B - using a .yml file
+Instead of installing packages one at a time, you can try to install everything from a ".yml" file. This can be handy, especially if there are a certain set of package versions that work together. Sometimes Conda has a hard time getting everything to work well together and this fails and/or it takes forever. Either option A or B are fine as long as you get the packages you need installed. 
 
+First, download the .yml file from the BGC Argo+ code repository: https://github.com/Hi-Cycles/BGC_Argo_Plus_Code_Repository
 
 ## General tips for working with environments
 
