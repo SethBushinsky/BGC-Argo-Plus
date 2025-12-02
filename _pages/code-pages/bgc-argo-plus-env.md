@@ -38,21 +38,6 @@ Retrieving notices: ...working... done
 Collecting package metadata (current_repodata.json): done
 Solving environment: done
 
-
-==> WARNING: A newer version of conda exists. <==
-  current version: 23.3.1
-  latest version: 25.7.0
-
-Please update conda by running
-
-    $ conda update -n base -c defaults conda
-
-Or to minimize the number of packages updated during conda update use
-
-     conda install conda=25.7.0
-
-
-
 Package Plan
 
   environment location: /Users/smb-uh/opt/anaconda3/envs/bgc_argo_env
@@ -422,3 +407,5 @@ zlib-ng                   2.3.1                h53ec75d_1    conda-forge
 zstd                      1.5.7                h281d3d1_5    conda-forge
 (bgc_argo_env) smb-uh@smb-uh BGC-Argo-Plus % 
 ```
+
+[Back to top](https://www.bgc-argo-plus.info/code-pages/bgc-argo-plus-env/)
