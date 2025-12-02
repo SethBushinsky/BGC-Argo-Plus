@@ -17,12 +17,8 @@ breadcrumbs: true
 
 Region | Link | File Size | Date Updated
 --- | --- | --- | --- 
-Global | [BGC_Argo_Plus_Global](https://ftp.soest.hawaii.edu/bgc_argo_plus/BGC_Argo_Plus_Global_v0_2025_09.tar.gz) | 15.0 GB | 2025-05-13
-Southern Ocean | [BGC_Argo_Plus_SO](https://ftp.soest.hawaii.edu/bgc_argo_plus/Basins/BGC_Argo_Plus_SO.tgz) | X GB | 2025-05-13
-Atlantic | [BGC_Argo_Plus_Atl](https://ftp.soest.hawaii.edu/bgc_argo_plus/Basins/BGC_Argo_Plus_Atl.tgz) | X GB | 2025-05-13
-Pacific | [BGC_Argo_Plus_Pac](https://ftp.soest.hawaii.edu/bgc_argo_plus/Basins/BGC_Argo_Plus_Pac.tgz) | X GB | 2025-05-13
-Indian | [BGC_Argo_Plus_Ind](https://ftp.soest.hawaii.edu/bgc_argo_plus/Basins/BGC_Argo_Plus_Ind.tgz) | X GB | 2025-05-13
-All Floats | [FTP Directory](https://ftp.soest.hawaii.edu/bgc_argo_plus/Individual_Floats) | 1934 files, 29.8 GB total | 2025-05
+Global dataset| [BGC_Argo_Plus_Global](https://ftp.soest.hawaii.edu/bgc_argo_plus/BGC_Argo_Plus_Global_v0_2025_09.tar.gz) | 15.0 GB | 2025-05-13
+Individual Floats | [FTP Directory](https://ftp.soest.hawaii.edu/bgc_argo_plus/Individual_Floats/outliers_removed/v0.1_2025_12/) | 2,228 files, 29.9 GB total | 2025-05
 
 ## Gridded data 
 **(X x Y x Z grid, not mapped or interpolated)**
