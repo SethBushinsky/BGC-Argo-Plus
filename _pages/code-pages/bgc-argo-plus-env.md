@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /bgcargo_plus_env/
+permalink: /bgc-argo-plus-env/
 title: "Creating a Python Environment for working with BGC Argo data"
 author_profile: false
 last_created_on: 2025-12-01
@@ -272,6 +272,7 @@ Executing transaction: done
 (bgc_argo_env) smb-uh@smb-uh BGC-Argo-Plus % 
 ```
 ## Option B - using a .yml file
+
 
 ## General tips for working with environments
 
