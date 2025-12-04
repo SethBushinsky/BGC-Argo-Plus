@@ -12,13 +12,13 @@ breadcrumbs: true
 
 **This is a preliminary dataset that is undergoing changes and is not currently meant for public use**
 
-## Float data files - version 0.0
+## Float data files - version 0.1_2025_12
 **Grouped by region or individually. One file per float, similar format as GDAC files (details below)**
 
 Region | Link | File Size | Date Updated
 --- | --- | --- | --- 
 Global dataset| [BGC_Argo_Plus_Global](https://ftp.soest.hawaii.edu/bgc_argo_plus/BGC_Argo_Plus_Global_v0_2025_09.tar.gz) | 15.0 GB | 2025-05-13
-Individual Floats | [FTP Directory](https://ftp.soest.hawaii.edu/bgc_argo_plus/Individual_Floats/outliers_removed/v0.1_2025_12/) | 2,228 files, 29.9 GB total | 2025-05
+Individual Float Files | [FTP Directory](https://ftp.soest.hawaii.edu/bgc_argo_plus/Individual_Floats/outliers_removed/v0.1_2025_12/) | 2,228 files, 29.9 GB total | 2025-05
 
 ## Gridded data 
 **(X x Y x Z grid, not mapped or interpolated)**
@@ -58,3 +58,7 @@ gamma | Neutral density calculated using Matlab eos80_legacy_gamma_n from **XXXX
 depth | Depth calculated using gsw.conversions.z_from_p
 MLD | MLD calculated using De Boyer Montegue et al. 2004 (modified to work w/ under ice data as well)
 DOXY_SAT | The saturation concentration of oxygen using Garcia and Gordon 1992 (gsw.O2sol_SP_pt). Assumes standard atmospheric pressure. 
+
+## Version notes
+v0.1_2025_12 - Changed to "BGCArgoPlus" variable suffixes. 
+v0.0 - Preliminary upload. 

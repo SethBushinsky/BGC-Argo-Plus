@@ -298,7 +298,58 @@ If you're continuing with the .yml file:
 Collecting package metadata (repodata.json): done
 Solving environment: / 
 ```
-It'll likely sit spinning for a while. 
+It'll likely sit spinning for a while. I left my computer overnight and came back to: 
+```
+Solving environment: done
+
+
+==> WARNING: A newer version of conda exists. <==
+  current version: 23.3.1
+  latest version: 25.7.0
+
+Please update conda by running
+
+    $ conda update -n base -c defaults conda
+
+Or to minimize the number of packages updated during conda update use
+
+     conda install conda=25.7.0
+
+
+
+Downloading and Extracting Packages
+                                                                                                                                                                                                                                                
+Preparing transaction: done                                                                                                                                                                                                                     
+Verifying transaction: done                                                                                                                                                                                                                     
+Executing transaction: done                                                                                                                                                                                                                     
+Installing pip dependencies: | Ran pip subprocess with arguments:                                                                                                                                                                               
+['/Users/smb-uh/opt/anaconda3/envs/bgc_argo_env/bin/python', '-m', 'pip', 'install', '-U', '-r', '/Users/smb-uh/UHM_Ocean_BGC_Group Dropbox/Seth Bushinsky/Work/Projects/2025_10_BGC_Argo_Plus_Code_examples/code/condaenv.xsfzidnd.requirements.txt', '--exists-action=b']                                                                                                                                                                                                                     
+Pip subprocess output:                                                                                                                                                                                                                          
+Collecting PyCO2SYS (from -r /Users/smb-uh/UHM_Ocean_BGC_Group Dropbox/Seth Bushinsky/Work/Projects/2025_10_BGC_Argo_Plus_Code_examples/code/condaenv.xsfzidnd.requirements.txt (line 1))                                                       
+  Downloading PyCO2SYS-1.8.3.4-py3-none-any.whl.metadata (6.4 kB)                                                                                                                                                                               
+Collecting autograd (from PyCO2SYS->-r /Users/smb-uh/UHM_Ocean_BGC_Group Dropbox/Seth Bushinsky/Work/Projects/2025_10_BGC_Argo_Plus_Code_examples/code/condaenv.xsfzidnd.requirements.txt (line 1))                                             
+  Downloading autograd-1.8.0-py3-none-any.whl.metadata (7.5 kB)                                                                                                                                                                                 
+Requirement already satisfied: numpy in /Users/smb-uh/opt/anaconda3/envs/bgc_argo_env/lib/python3.14/site-packages (from PyCO2SYS->-r /Users/smb-uh/UHM_Ocean_BGC_Group Dropbox/Seth Bushinsky/Work/Projects/2025_10_BGC_Argo_Plus_Code_examples/code/condaenv.xsfzidnd.requirements.txt (line 1)) (2.3.5)                                                                                                                                                                                      
+Downloading PyCO2SYS-1.8.3.4-py3-none-any.whl (110 kB)                                                                                                                                                                                          
+Downloading autograd-1.8.0-py3-none-any.whl (51 kB)                                                                                                                                                                                             
+Installing collected packages: autograd, PyCO2SYS                                                                                                                                                                                               
+                                                                                                                                                                                                                                                
+Successfully installed PyCO2SYS-1.8.3.4 autograd-1.8.0                                                                                                                                                                                          
+                                                                                                                                                                                                                                                
+done                                                                                                                                                                                                                                            
+#                                                                                                                                                                                                                                               
+# To activate this environment, use                                                                                                                                                                                                             
+#                                                                                                                                                                                                                                               
+#     $ conda activate bgc_argo_env                                                                                                                                                                                                             
+#                                                                                                                                                                                                                                               
+# To deactivate an active environment, use                                                                                                                                                                                                      
+#                                                                                                                                                                                                                                               
+#     $ conda deactivate                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                
+(base) smb-uh@smb-uh code % 
+```
+
+At this point you're ready to work with a Python script or a Jupyter notebook. 
 
 ## General tips for working with Python environments
 
