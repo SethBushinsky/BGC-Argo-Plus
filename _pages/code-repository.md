@@ -18,8 +18,8 @@ If you are brand new to Python, take a look at the "Getting started with Python 
 ## Lessons and activities
 As I develop lessons / data activities for working with BGC Argo data, I'll post them here. 
 
-### 1. [Setting up your BGC Argo Python environment](https://www.bgc-argo-plus.info/code-pages/bgc-argo-plus-env)
-### 2. Download example example float data and make preliminary plots
+### [1. Setting up your BGC Argo Python environment](https://www.bgc-argo-plus.info/code-pages/bgc-argo-plus-env)
+### [2. Download example example float data and make preliminary plots](https://www.bgc-argo-plus.info/code-pages/Float_file_exploration/)
 ### 3. Calculate seasonal NCP via Nitrate Drawdown
 
 ## Scripts and example output:
