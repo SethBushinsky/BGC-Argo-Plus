@@ -21,9 +21,9 @@ breadcrumbs: true
 ----
 Material by Seth Bushinsky
 
-This material is all in the Jupyter Notebook titled "Float_file_exploration.ipynb" which can be found in the https://github.com/Hi-Cycles/BGC_Argo_Plus_Code_Repository. To run the code yourself, download the script or download/fork/clone the repository. 
+This material is all in the Jupyter Notebook titled "Float_file_exploration.ipynb" which can be found in the [Hi-Cycles/BGC_Argo_Plus_Code_Repository](https://github.com/Hi-Cycles/BGC_Argo_Plus_Code_Repository). To run the code yourself, download the script or download/fork/clone the repository. 
 
-You will also need to choose a float file to work with. You can explore float data here: https://www.bgc-argo-plus.info/float_meta_table/ .  Within each individual page there is a link to download the .nc file for the float, or you can access the entire dataset, plus some information about what we've done/changed in the files here: https://www.bgc-argo-plus.info/data-download/ . As of December 2025 this is still an unpublished dataset in testing, so please let me know if you find any issues or have any questions: smb4@hawaii.edu. 
+You will also need to choose a float file to work with. You can explore float data here: [https://www.bgc-argo-plus.info/float_meta_table/](https://www.bgc-argo-plus.info/float_meta_table/).  Within each individual page there is a link to download the .nc file for the float, or you can access the entire dataset, plus some information about what we've done/changed in the files here: [https://www.bgc-argo-plus.info/data-download/](https://www.bgc-argo-plus.info/data-download/). As of December 2025 this is still an unpublished dataset in testing, so please let me know if you find any issues or have any questions: [seth.bushinsky at hawaii.edu](mailto:seth.bushinsky@hawaii.edu). 
 
 # 1. Setting up your notebook: packages and directories
 One of the main differences I found when switching from Matlab to Python was that you had to import packages that you needed for each project. You can either import an entire package (like "import numpy as np") or part of a package (import matplotlib.ticker as mticker). I've commented out some packages that are not currently in use here that I often do use. 
