@@ -17,8 +17,8 @@ breadcrumbs: true
 
 Region | Link | File Size | Date Updated
 --- | --- | --- | --- 
-Global dataset| [BGC_Argo_Plus_Global](https://ftp.soest.hawaii.edu/bgc_argo_plus/BGC_Argo_Plus_Global_v0_2025_09.tar.gz) | 15.0 GB | 2025-05-13
-Individual Float Files | [FTP Directory](https://ftp.soest.hawaii.edu/bgc_argo_plus/Individual_Floats/outliers_removed/v0.1_2025_12/) | 2,228 files, 29.9 GB total | 2025-05
+Global dataset| [BGC_Argo_Plus_Global](https://ftp.soest.hawaii.edu/bgc_argo_plus/BGC_Argo_Plus_Global_v0.1_2025_12.tar.gz) | 13.0 GB | 2025-12
+Individual Float Files | [FTP Directory](https://ftp.soest.hawaii.edu/bgc_argo_plus/Individual_Floats/outliers_removed/v0.1_2025_12/) | 2,228 files, 29.9 GB total | 2025-12
 
 ## Gridded data 
 **(X x Y x Z grid, not mapped or interpolated)**
