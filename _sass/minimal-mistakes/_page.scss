@@ -34,16 +34,16 @@ body {
 }
 
 .page {
-  @include breakpoint($large) {
-    float: inline-end;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-inline-end: $right-sidebar-width-narrow;
-  }
+  // @include breakpoint($large) {
+  //   float: inline-end;
+  //   width: calc(100% - #{$right-sidebar-width-narrow});
+  //   padding-inline-end: $right-sidebar-width-narrow;
+  // }
 
-  @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-inline-end: $right-sidebar-width;
-  }
+  // @include breakpoint($x-large) {
+  //   width: calc(100% - #{$right-sidebar-width});
+  //   padding-inline-end: $right-sidebar-width;
+  // }
 
   .page__inner-wrap {
     float: inline-start;
@@ -523,14 +523,14 @@ body {
   padding-top: 1em;
   border-top: 1px solid $border-color;
 
-  @include breakpoint($large) {
-    float: inline-end;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-  }
+  // @include breakpoint($large) {
+  //   float: inline-end;
+  //   width: calc(100% - #{$right-sidebar-width-narrow});
+  // }
 
-  @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-  }
+  // @include breakpoint($x-large) {
+  //   width: calc(100% - #{$right-sidebar-width});
+  // }
 
   a {
     color: inherit;
@@ -549,46 +549,13 @@ body {
    ========================================================================== */
 
 .wide {
-  .page {
+  .page, .page__related {
     @include breakpoint($large) {
-      float: inline-start;  // Change from inline-end (right) to inline-start (left)
-      width: 100%;          // Use full width
-      padding-inline-end: 0; // Remove right padding
+      padding-inline-end: 0;
     }
 
     @include breakpoint($x-large) {
-      float: inline-start;  // Change from inline-end (right) to inline-start (left)
-      width: 100%;          // Use full width
-      padding-inline-end: 0; // Remove right padding
-    }
-  }
-  
-  .page__related {
-    @include breakpoint($large) {
-      float: inline-start;  // Change from inline-end (right) to inline-start (left)
-      width: 100%;          // Use full width
-      padding-inline-end: 0; // Remove right padding
-    }
-
-    @include breakpoint($x-large) {
-      float: inline-start;  // Change from inline-end (right) to inline-start (left)
-      width: 100%;          // Use full width
-      padding-inline-end: 0; // Remove right padding
-    }
-  }
-
-  // Ensure TOC stays sticky and positioned properly on wide pages
-  .page__content {
-    @include breakpoint($large) {
-      width: calc(75% - 1em);
-      float: inline-start;
-      padding-inline-end: 1em;
-    }
-    
-    @include breakpoint($x-large) {
-      width: calc(75% - 1em);
-      float: inline-start;
-      padding-inline-end: 1em;
+      padding-inline-end: 0;
     }
   }
 }
