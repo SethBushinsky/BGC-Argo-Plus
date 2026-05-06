@@ -7,9 +7,6 @@ toc_sticky: true
 toc_label: "Main Sections"
 toc_icon: "cog"
 permalink: /code-repository/
-author_profile: false
-breadcrumbs: true
-sidebar: false
 ---
 ## Github repository
 As part of this dataset effort we would like to make it easy for people to get started with BGC Argo data. All scripts referenced on this page can be found in our [github repository](
