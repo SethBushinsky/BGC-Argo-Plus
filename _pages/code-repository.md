@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Getting started with BGC Argo data"
-classes: wide
 toc: true
 toc_sticky: true
 toc_label: "Main Sections"

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Data Download
+# title: Data Download
 toc: True
 toc_sticky: true
 toc_label: "Main Sections"
@@ -8,7 +8,7 @@ toc_icon: "cog"
 permalink: /data-download/
 title: "Data Download"
 author_profile: false
-breadcrumbs: true
+# breadcrumbs: true
 ---
 
 **We have submitted the BGC-Argo+ manuscript to ESSD.**\

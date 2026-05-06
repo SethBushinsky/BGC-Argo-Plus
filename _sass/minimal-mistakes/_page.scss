@@ -37,12 +37,12 @@ body {
   @include breakpoint($large) {
     float: inline-start;
     width: 100%;
-    padding-inline-end: $right-sidebar-width-narrow;
+    padding-inline-start: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
     width: 100%;
-    padding-inline-end: $right-sidebar-width;
+    padding-inline-start: $right-sidebar-width;
   }
 
   .page__inner-wrap {
