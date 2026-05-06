@@ -1,0 +1,27 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.video-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px; /* Space between the videos */
+  justify-content: space-between;
+}
+
+.video-item {
+  flex: 1 1 calc(95% - 20px); /* 33.33% width for 3 items per row */
+  margin-bottom: 20px; /* Space between rows */
+}
+
+.video-item video {
+  width: 100%; /* Make videos responsive */
+  height: auto;
+}
+
