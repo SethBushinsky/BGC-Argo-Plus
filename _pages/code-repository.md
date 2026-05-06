@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Code Repository
+classes: wide
 toc: True
 toc_label: "Main Sections"
 toc_icon: "cog"
