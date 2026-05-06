@@ -14,11 +14,6 @@ breadcrumbs: true
 **- Submitted [dataset archive](https://doi.org/10.5281/zenodo.19709012)**\
 **- Submitted [code archive](https://doi.org/10.5281/zenodo.19705310)**
 
-
-
-<a href="https://forms.gle/FFHy8kGoGW8W2Vit5" target="_blank" style="display: inline-block; background-color: #0073e6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 10px 0;">📧 Click here for emails about future updates. </a>\
-*We'll only send updates about new data releases, important corrections, and publication announcements.*
-
 ## Float data files - version 0.1_2026_04
 **Grouped by region or individually. One file per float, similar format as GDAC files (details below)**
 
@@ -35,6 +30,11 @@ Variable | Link | File Size | Date Updated
 Oxygen | [Tar.gz file](https://ftp.soest.hawaii.edu/bgc_argo_plus/outliers_removed/v0.1_2026_04/Gridded/BGC_Argo_monthly_gridded_DOXY_ADJUSTED_BGCArgoPlus_v0.1_2026_04.nc) | 116 MB | 2026-04
 Nitrate | [Tar.gz file](https://ftp.soest.hawaii.edu/bgc_argo_plus/outliers_removed/v0.1_2026_04/Gridded/BGC_Argo_monthly_gridded_NITRATE_ADJUSTED_BGCArgoPlus_v0.1_2026_04.nc) | 293 MB | 2026-04
 DIC | [Tar.gz file](https://ftp.soest.hawaii.edu/bgc_argo_plus/outliers_removed/v0.1_2026_04/Gridded/BGC_Argo_monthly_gridded_DIC_BGCArgoPlus_v0.1_2026_04.nc) | 65 MB | 2026-04
+
+
+<a href="https://forms.gle/FFHy8kGoGW8W2Vit5" target="_blank" style="display: inline-block; background-color: #0073e6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 10px 0;">📧 Click here for emails about future updates. </a>\
+*We'll only send updates about new data releases, important corrections, and publication announcements.*
+
 
 ## Float file details
 
