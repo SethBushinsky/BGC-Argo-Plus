@@ -1,14 +1,15 @@
 ---
 layout: single
-title: Code Repository
+title: "Getting started with BGC Argo data"
 classes: wide
-toc: True
+toc: true
+toc_sticky: true
 toc_label: "Main Sections"
 toc_icon: "cog"
 permalink: /code-repository/
-title: "Getting started with BGC Argo data"
 author_profile: false
 breadcrumbs: true
+sidebar: false
 ---
 ## Github repository
 As part of this dataset effort we would like to make it easy for people to get started with BGC Argo data. All scripts referenced on this page can be found in our [github repository](

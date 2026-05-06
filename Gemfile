@@ -1,16 +1,7 @@
 source "https://rubygems.org"
 
-# GitHub Pages gem for Jekyll hosting
+# GitHub Pages gem for Jekyll hosting (includes most plugins)
 gem "github-pages", group: :jekyll_plugins
-
-# Additional plugins that may be needed
-group :jekyll_plugins do
-  gem "jekyll-feed"
-  gem "jekyll-sitemap"
-  gem "jekyll-paginate"
-  gem "jekyll-seo-tag"
-  gem "faraday-retry"  # Eliminates faraday warning
-end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
