@@ -5,7 +5,9 @@ excerpt: "Map placeholder"
 author_profile: false
 last_modified_at: 2025-01-06
 classes: wide
-toc: false
+toc: true
+toc_sticky: true
+toc_label: "Map types"
 
 gallery2:
   - url: /assets/images/Logo_Mark_Backed.png
@@ -15,6 +17,7 @@ gallery2:
 ---
 <!-- Note, movies need to be formatted using ffmpeg: ffmpeg -i video1.mov -vcodec h264 -acodec aac video1.mp4 -->
 
+# BGC array evolution
 <div class="video-gallery">
   <div class="video-item">
     <video width="560" height="315" controls>

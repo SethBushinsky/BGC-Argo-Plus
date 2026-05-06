@@ -1,10 +1,13 @@
 ---
 layout: splash
-permalink: /code-pages/NCP_nitrate_drawdown/
+permalink: /code-repository/NCP_nitrate_drawdown/
 title: "Perform example calculations of nitrate drawdown using a simplified approach"
 author_profile: false
 last_modified_at: 2025-12-11
-toc: false
+toc: True
+toc_sticky: true
+toc_label: "Contents"
+toc_icon: "cog"
 breadcrumbs: true
 ---
 

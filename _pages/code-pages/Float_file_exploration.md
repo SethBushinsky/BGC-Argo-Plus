@@ -1,10 +1,13 @@
 ---
 layout: splash
-permalink: /code-pages/Float_file_exploration/
+permalink: /code-repository/Float_file_exploration/
 title: "Explore a BGC Argo netcdf file"
 author_profile: false
 last_modified_at: 2025-12-01
-toc: false
+toc: True
+toc_sticky: true
+toc_label: "Contents"
+toc_icon: "cog"
 breadcrumbs: true
 ---
 

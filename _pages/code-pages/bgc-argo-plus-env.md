@@ -1,10 +1,11 @@
 ---
 layout: single
-permalink: /code-pages/bgc-argo-plus-env/
+permalink: /code-repository/bgc-argo-plus-env/
 title: "Creating a Python Environment for working with BGC Argo data"
 author_profile: false
 last_created_on: 2025-12-01
 toc: True
+toc_sticky: true
 toc_label: "Contents"
 toc_icon: "cog"
 breadcrumbs: true
