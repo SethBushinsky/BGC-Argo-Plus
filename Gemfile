@@ -9,6 +9,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-paginate"
   gem "jekyll-seo-tag"
+  gem "faraday-retry"  # Eliminates faraday warning
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
