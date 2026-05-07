@@ -4,7 +4,7 @@ title: "Maps "
 excerpt: "Map placeholder"
 author_profile: false
 last_modified_at: 2025-01-06
-classes: wide
+classes: single
 toc: true
 toc_sticky: true
 toc_label: "Map types"
@@ -21,7 +21,7 @@ gallery2:
 <div class="video-gallery">
   <div class="video-item">
     <video width="560" height="315" controls>
-      <source src="/assets/videos/BGC_dep_map2v2.mp4" type="video/mp4">
+      <source src="{{ site.float_image_base_url }}videos/BGC_dep_map2v2.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
