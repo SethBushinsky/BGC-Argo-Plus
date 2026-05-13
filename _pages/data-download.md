@@ -11,7 +11,8 @@ author_profile: false
 # breadcrumbs: true
 ---
 
-**We have submitted the BGC-Argo+ manuscript to ESSD.**\
+**We have submitted the BGC-Argo+ manuscript to ESSD:**\
+**- Manuscript [Preprint](https://doi.org/10.5194/essd-2026-311)**\
 **- Submitted [dataset archive](https://doi.org/10.5281/zenodo.19709012)**\
 **- Submitted [code archive](https://doi.org/10.5281/zenodo.19705310)**
 

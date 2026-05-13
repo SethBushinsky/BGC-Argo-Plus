@@ -3,7 +3,6 @@ permalink: /maps/
 title: "Maps "
 excerpt: "Map placeholder"
 author_profile: false
-last_modified_at: 2025-01-06
 classes: single
 toc: true
 toc_sticky: true
