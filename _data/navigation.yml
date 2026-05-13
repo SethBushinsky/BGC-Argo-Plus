@@ -6,7 +6,7 @@ main:
   #   url: /about/
   - title: "Data Download"
     url: /data-download/
-    - title: "Float Table"
+  - title: "Float Table"
     url: /float_meta_table/
   - title: "Code Repository"
     url: /code-repository/
