@@ -24,6 +24,7 @@ Region | Link | File Size | Date Updated
 Global dataset| [BGC_Argo_Plus_Global](https://ftp.soest.hawaii.edu/bgc_argo_plus/outliers_removed/v0.1_2026_04/BGC_Argo_Plus_Global_v0.1_2026_04.tar.gz) | 14.2 GB | 2026-04
 Individual Float Files | [FTP Directory](https://ftp.soest.hawaii.edu/bgc_argo_plus/outliers_removed/v0.1_2026_04/Individual_Floats/) | 2,427 files, 32.8 GB total | 2026-04
 
+*When using these data, in addition to citing this work please make sure to follow the [Argo](https://argo.ucsd.edu/data/acknowledging-argo/), [GO-BGC](https://www.go-bgc.org/data/citing-go-bgc), or [SOCCOM](https://soccom.org/about-us/acknowledgment-text/) acknowledgments as appropriate. 
 ## Gridded data 
 **(X x Y x Z grid, not mapped or interpolated)**
 
