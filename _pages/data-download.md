@@ -47,7 +47,7 @@ Variable name | Type | Description
 --- | --- | ---
 [VAR] | Unchanged | Raw variable copied directly from DAC 
 [VAR]_ADJUSTED | Unchanged | ADJUSTED variable copied directly from DAC 
-[VAR]_BGCArgoPlus | Biogeochemical Argo+ version | Variable modified from DAC according to the processing level description 
+[VAR]_ADJUSTED_BGCArgoPlus | Biogeochemical Argo+ version | Variable modified from DAC according to the processing level description 
 [VAR]_BGCArgoPlus_ProcessingLevel | Biogeochemical Argo+ version | Processing level of variable 
  
 **Processing Level Descriptors:** \
