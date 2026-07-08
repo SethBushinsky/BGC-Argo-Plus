@@ -33,7 +33,7 @@ datatable: true
       <td>2010-03-12T00:23</td>
       <td>130</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1900651/">1900651</a></td>
@@ -44,7 +44,7 @@ datatable: true
       <td>2009-11-19T20:29</td>
       <td>121</td>
       <td>PSAL TEMP DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1900652/">1900652</a></td>
@@ -55,7 +55,7 @@ datatable: true
       <td>2010-04-12T20:53</td>
       <td>128</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1900722/">1900722</a></td>
@@ -66,7 +66,7 @@ datatable: true
       <td>2010-07-15T11:19</td>
       <td>135</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1900943/">1900943</a></td>
@@ -77,7 +77,7 @@ datatable: true
       <td>2007-12-27T09:19</td>
       <td>65</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901134/">1901134</a></td>
@@ -88,7 +88,7 @@ datatable: true
       <td>2015-11-09T01:38</td>
       <td>255</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901135/">1901135</a></td>
@@ -99,7 +99,7 @@ datatable: true
       <td>2013-08-23T01:13</td>
       <td>173</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901152/">1901152</a></td>
@@ -110,7 +110,7 @@ datatable: true
       <td>2015-12-15T05:19</td>
       <td>180</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901153/">1901153</a></td>
@@ -121,7 +121,7 @@ datatable: true
       <td>2019-06-29T03:19</td>
       <td>309</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901154/">1901154</a></td>
@@ -132,7 +132,7 @@ datatable: true
       <td>2020-04-24T15:41</td>
       <td>339</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901155/">1901155</a></td>
@@ -143,7 +143,7 @@ datatable: true
       <td>2020-10-02T05:19</td>
       <td>355</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P, A</td>
+      <td>Indian, Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901156/">1901156</a></td>
@@ -154,7 +154,7 @@ datatable: true
       <td>2012-08-26T03:55</td>
       <td>56</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901157/">1901157</a></td>
@@ -165,7 +165,7 @@ datatable: true
       <td>2019-11-28T14:14</td>
       <td>322</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901158/">1901158</a></td>
@@ -176,7 +176,7 @@ datatable: true
       <td>2015-01-13T22:50</td>
       <td>141</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901159/">1901159</a></td>
@@ -187,7 +187,7 @@ datatable: true
       <td>2016-06-17T03:20</td>
       <td>196</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901205/">1901205</a></td>
@@ -198,7 +198,7 @@ datatable: true
       <td>2016-11-12T23:35</td>
       <td>196</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901206/">1901206</a></td>
@@ -209,7 +209,7 @@ datatable: true
       <td>2016-12-24T22:51</td>
       <td>200</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901207/">1901207</a></td>
@@ -220,7 +220,7 @@ datatable: true
       <td>2016-02-23T20:33</td>
       <td>198</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901208/">1901208</a></td>
@@ -231,7 +231,7 @@ datatable: true
       <td>2017-04-05T23:37</td>
       <td>210</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901209/">1901209</a></td>
@@ -242,7 +242,7 @@ datatable: true
       <td>2012-03-30T20:34</td>
       <td>25</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901210/">1901210</a></td>
@@ -253,7 +253,7 @@ datatable: true
       <td>2017-05-28T23:47</td>
       <td>213</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901211/">1901211</a></td>
@@ -264,7 +264,7 @@ datatable: true
       <td>2014-12-31T20:34</td>
       <td>130</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901212/">1901212</a></td>
@@ -275,7 +275,7 @@ datatable: true
       <td>2016-12-21T23:02</td>
       <td>202</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901213/">1901213</a></td>
@@ -286,7 +286,7 @@ datatable: true
       <td>2011-12-13T21:27</td>
       <td>18</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901214/">1901214</a></td>
@@ -297,7 +297,7 @@ datatable: true
       <td>2017-02-10T23:19</td>
       <td>205</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901215/">1901215</a></td>
@@ -308,7 +308,7 @@ datatable: true
       <td>2015-09-20T20:50</td>
       <td>154</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901217/">1901217</a></td>
@@ -319,7 +319,7 @@ datatable: true
       <td>2017-01-16T23:43</td>
       <td>202</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901218/">1901218</a></td>
@@ -330,7 +330,7 @@ datatable: true
       <td>2016-10-01T21:36</td>
       <td>191</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901329/">1901329</a></td>
@@ -341,7 +341,7 @@ datatable: true
       <td>2013-04-14T09:21</td>
       <td>695</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901338/">1901338</a></td>
@@ -352,7 +352,7 @@ datatable: true
       <td>2014-09-05T07:00</td>
       <td>701</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901339/">1901339</a></td>
@@ -363,7 +363,7 @@ datatable: true
       <td>2014-09-15T04:21</td>
       <td>725</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901347/">1901347</a></td>
@@ -374,7 +374,7 @@ datatable: true
       <td>2016-10-18T18:51</td>
       <td>281</td>
       <td>TEMP PSAL DOXY CHLA BBP700 BBP532 NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901348/">1901348</a></td>
@@ -385,7 +385,7 @@ datatable: true
       <td>2016-06-02T06:02</td>
       <td>228</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM CP660 BBP700_2 BBP532 BBP470 DOWN_IRRADIANCE412 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 UP_RADIANCE412 UP_RADIANCE443 UP_RADIANCE490 UP_RADIANCE555</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901360/">1901360</a></td>
@@ -396,7 +396,7 @@ datatable: true
       <td>2017-05-29T20:57</td>
       <td>108</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901361/">1901361</a></td>
@@ -407,7 +407,7 @@ datatable: true
       <td>2017-09-16T20:16</td>
       <td>119</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901362/">1901362</a></td>
@@ -418,7 +418,7 @@ datatable: true
       <td>2014-12-11T22:19</td>
       <td>18</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901363/">1901363</a></td>
@@ -429,7 +429,7 @@ datatable: true
       <td>2017-11-05T23:34</td>
       <td>124</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901364/">1901364</a></td>
@@ -440,7 +440,7 @@ datatable: true
       <td>2016-01-31T22:27</td>
       <td>61</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901365/">1901365</a></td>
@@ -451,7 +451,7 @@ datatable: true
       <td>2017-09-22T20:27</td>
       <td>121</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901378/">1901378</a></td>
@@ -462,7 +462,7 @@ datatable: true
       <td>2013-05-07T00:40</td>
       <td>265</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901379/">1901379</a></td>
@@ -473,7 +473,7 @@ datatable: true
       <td>2013-11-05T03:35</td>
       <td>293</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901466/">1901466</a></td>
@@ -484,7 +484,7 @@ datatable: true
       <td>2017-05-06T00:34</td>
       <td>231</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901467/">1901467</a></td>
@@ -495,7 +495,7 @@ datatable: true
       <td>2017-05-16T00:04</td>
       <td>246</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901468/">1901468</a></td>
@@ -506,7 +506,7 @@ datatable: true
       <td>2011-05-10T20:13</td>
       <td>35</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901498/">1901498</a></td>
@@ -517,7 +517,7 @@ datatable: true
       <td>2017-05-11T00:00</td>
       <td>187</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901499/">1901499</a></td>
@@ -528,7 +528,7 @@ datatable: true
       <td>2015-03-09T07:39</td>
       <td>138</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901501/">1901501</a></td>
@@ -539,7 +539,7 @@ datatable: true
       <td>2018-04-24T00:24</td>
       <td>229</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1901668/">1901668</a></td>
@@ -550,7 +550,7 @@ datatable: true
       <td>2018-10-21T09:02</td>
       <td>197</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902303/">1902303</a></td>
@@ -561,7 +561,7 @@ datatable: true
       <td>2023-05-10T22:02</td>
       <td>109</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902304/">1902304</a></td>
@@ -572,7 +572,7 @@ datatable: true
       <td>2024-12-11T21:37</td>
       <td>182</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902332/">1902332</a></td>
@@ -583,7 +583,7 @@ datatable: true
       <td>2022-01-25T04:13</td>
       <td>202</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902368/">1902368</a></td>
@@ -594,7 +594,7 @@ datatable: true
       <td>2024-12-18T20:30</td>
       <td>30</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902369/">1902369</a></td>
@@ -605,7 +605,7 @@ datatable: true
       <td>2024-12-12T21:50</td>
       <td>39</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902370/">1902370</a></td>
@@ -616,7 +616,7 @@ datatable: true
       <td>2024-12-14T04:28</td>
       <td>27</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902371/">1902371</a></td>
@@ -627,7 +627,7 @@ datatable: true
       <td>2024-12-12T21:06</td>
       <td>44</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902374/">1902374</a></td>
@@ -638,7 +638,7 @@ datatable: true
       <td>2024-12-14T17:44</td>
       <td>28</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902380/">1902380</a></td>
@@ -649,7 +649,7 @@ datatable: true
       <td>2024-12-12T22:20</td>
       <td>107</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902381/">1902381</a></td>
@@ -660,7 +660,7 @@ datatable: true
       <td>2024-12-22T07:38</td>
       <td>108</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902382/">1902382</a></td>
@@ -671,7 +671,7 @@ datatable: true
       <td>2024-12-21T06:04</td>
       <td>107</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902383/">1902383</a></td>
@@ -682,7 +682,7 @@ datatable: true
       <td>2024-12-17T19:58</td>
       <td>107</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902384/">1902384</a></td>
@@ -693,7 +693,7 @@ datatable: true
       <td>2024-12-25T16:19</td>
       <td>108</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902385/">1902385</a></td>
@@ -704,7 +704,7 @@ datatable: true
       <td>2024-12-19T10:12</td>
       <td>107</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902453/">1902453</a></td>
@@ -715,7 +715,7 @@ datatable: true
       <td>2024-12-13T11:04</td>
       <td>56</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902454/">1902454</a></td>
@@ -726,7 +726,7 @@ datatable: true
       <td>2024-12-24T23:09</td>
       <td>57</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902455/">1902455</a></td>
@@ -737,7 +737,7 @@ datatable: true
       <td>2024-12-13T15:03</td>
       <td>57</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902456/">1902456</a></td>
@@ -748,7 +748,7 @@ datatable: true
       <td>2024-12-18T11:24</td>
       <td>57</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902457/">1902457</a></td>
@@ -759,7 +759,7 @@ datatable: true
       <td>2024-12-24T20:05</td>
       <td>58</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902458/">1902458</a></td>
@@ -770,7 +770,7 @@ datatable: true
       <td>2024-12-25T20:32</td>
       <td>57</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902459/">1902459</a></td>
@@ -781,7 +781,7 @@ datatable: true
       <td>2023-09-27T17:13</td>
       <td>17</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902489/">1902489</a></td>
@@ -792,7 +792,7 @@ datatable: true
       <td>2024-12-17T14:13</td>
       <td>22</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902490/">1902490</a></td>
@@ -803,7 +803,7 @@ datatable: true
       <td>2024-12-25T12:47</td>
       <td>31</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902491/">1902491</a></td>
@@ -814,7 +814,7 @@ datatable: true
       <td>2024-12-13T10:55</td>
       <td>28</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902492/">1902492</a></td>
@@ -825,7 +825,7 @@ datatable: true
       <td>2024-12-18T01:43</td>
       <td>31</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902493/">1902493</a></td>
@@ -836,7 +836,7 @@ datatable: true
       <td>2024-12-18T10:27</td>
       <td>30</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902494/">1902494</a></td>
@@ -847,7 +847,7 @@ datatable: true
       <td>2024-12-26T00:17</td>
       <td>29</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902495/">1902495</a></td>
@@ -858,7 +858,7 @@ datatable: true
       <td>2024-12-20T18:58</td>
       <td>31</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902496/">1902496</a></td>
@@ -869,7 +869,7 @@ datatable: true
       <td>2024-12-18T15:43</td>
       <td>30</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902497/">1902497</a></td>
@@ -880,7 +880,7 @@ datatable: true
       <td>2024-12-06T12:52</td>
       <td>29</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902498/">1902498</a></td>
@@ -891,7 +891,7 @@ datatable: true
       <td>2024-12-14T01:20</td>
       <td>30</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902499/">1902499</a></td>
@@ -902,7 +902,7 @@ datatable: true
       <td>2024-12-11T21:45</td>
       <td>30</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902500/">1902500</a></td>
@@ -913,7 +913,7 @@ datatable: true
       <td>2024-12-12T14:44</td>
       <td>30</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902501/">1902501</a></td>
@@ -924,7 +924,7 @@ datatable: true
       <td>2024-12-18T14:50</td>
       <td>22</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902578/">1902578</a></td>
@@ -935,7 +935,7 @@ datatable: true
       <td>2023-03-31T14:17</td>
       <td>37</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660 DOXY PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902593/">1902593</a></td>
@@ -946,7 +946,7 @@ datatable: true
       <td>2024-12-21T03:21</td>
       <td>73</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660 DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902594/">1902594</a></td>
@@ -957,7 +957,7 @@ datatable: true
       <td>2024-12-17T20:11</td>
       <td>66</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902601/">1902601</a></td>
@@ -968,7 +968,7 @@ datatable: true
       <td>2024-12-24T13:18</td>
       <td>92</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CP660 DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902602/">1902602</a></td>
@@ -979,7 +979,7 @@ datatable: true
       <td>2024-12-25T11:27</td>
       <td>117</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902603/">1902603</a></td>
@@ -990,7 +990,7 @@ datatable: true
       <td>2023-10-19T11:01</td>
       <td>28</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902604/">1902604</a></td>
@@ -1001,7 +1001,7 @@ datatable: true
       <td>2024-12-24T18:44</td>
       <td>61</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902605/">1902605</a></td>
@@ -1012,7 +1012,7 @@ datatable: true
       <td>2024-12-26T11:27</td>
       <td>434</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902621/">1902621</a></td>
@@ -1023,7 +1023,7 @@ datatable: true
       <td>2024-12-19T13:07</td>
       <td>56</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902637/">1902637</a></td>
@@ -1034,7 +1034,7 @@ datatable: true
       <td>2024-12-22T13:21</td>
       <td>84</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CP660 DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902643/">1902643</a></td>
@@ -1045,7 +1045,7 @@ datatable: true
       <td>2024-12-26T08:00</td>
       <td>31</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902644/">1902644</a></td>
@@ -1056,7 +1056,7 @@ datatable: true
       <td>2024-12-12T13:12</td>
       <td>36</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902646/">1902646</a></td>
@@ -1067,7 +1067,7 @@ datatable: true
       <td>2024-12-25T19:46</td>
       <td>42</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902647/">1902647</a></td>
@@ -1078,7 +1078,7 @@ datatable: true
       <td>2024-11-23T04:06</td>
       <td>1</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902648/">1902648</a></td>
@@ -1089,7 +1089,7 @@ datatable: true
       <td>2024-12-22T20:55</td>
       <td>19</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902650/">1902650</a></td>
@@ -1100,7 +1100,7 @@ datatable: true
       <td>2024-12-24T03:29</td>
       <td>30</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902651/">1902651</a></td>
@@ -1111,7 +1111,7 @@ datatable: true
       <td>2024-12-19T03:42</td>
       <td>30</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902656/">1902656</a></td>
@@ -1122,7 +1122,7 @@ datatable: true
       <td>2024-12-18T19:51</td>
       <td>4</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902657/">1902657</a></td>
@@ -1133,7 +1133,7 @@ datatable: true
       <td>2024-12-21T14:47</td>
       <td>5</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902659/">1902659</a></td>
@@ -1144,7 +1144,7 @@ datatable: true
       <td>2023-09-04T09:24</td>
       <td>14</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902662/">1902662</a></td>
@@ -1155,7 +1155,7 @@ datatable: true
       <td>2024-12-18T11:44</td>
       <td>34</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902663/">1902663</a></td>
@@ -1166,7 +1166,7 @@ datatable: true
       <td>2024-12-25T07:01</td>
       <td>16</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902666/">1902666</a></td>
@@ -1177,7 +1177,7 @@ datatable: true
       <td>2024-12-23T22:12</td>
       <td>28</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902681/">1902681</a></td>
@@ -1188,7 +1188,7 @@ datatable: true
       <td>2024-12-20T06:02</td>
       <td>26</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902682/">1902682</a></td>
@@ -1199,7 +1199,7 @@ datatable: true
       <td>2024-02-23T20:25</td>
       <td>164</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902683/">1902683</a></td>
@@ -1210,7 +1210,7 @@ datatable: true
       <td>2024-12-25T12:11</td>
       <td>554</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902685/">1902685</a></td>
@@ -1221,7 +1221,7 @@ datatable: true
       <td>2024-12-24T21:51</td>
       <td>80</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CP660 DOXY PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902686/">1902686</a></td>
@@ -1232,7 +1232,7 @@ datatable: true
       <td>2024-12-27T05:33</td>
       <td>50</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902695/">1902695</a></td>
@@ -1243,7 +1243,7 @@ datatable: true
       <td>2024-12-22T12:57</td>
       <td>30</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CP660 DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902698/">1902698</a></td>
@@ -1254,7 +1254,7 @@ datatable: true
       <td>2024-12-22T11:27</td>
       <td>80</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902718/">1902718</a></td>
@@ -1265,7 +1265,7 @@ datatable: true
       <td>2025-02-05T03:08</td>
       <td>4</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902719/">1902719</a></td>
@@ -1276,7 +1276,7 @@ datatable: true
       <td>2024-12-19T08:47</td>
       <td>4</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902740/">1902740</a></td>
@@ -1287,7 +1287,7 @@ datatable: true
       <td>2024-12-26T00:04</td>
       <td>11</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE TURBIDITY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902741/">1902741</a></td>
@@ -1298,7 +1298,7 @@ datatable: true
       <td>2025-02-05T01:59</td>
       <td>4</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900114/">2900114</a></td>
@@ -1309,7 +1309,7 @@ datatable: true
       <td>2011-11-16T22:07</td>
       <td>216</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900115/">2900115</a></td>
@@ -1320,7 +1320,7 @@ datatable: true
       <td>2009-12-16T04:54</td>
       <td>118</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900116/">2900116</a></td>
@@ -1331,7 +1331,7 @@ datatable: true
       <td>2012-04-30T19:05</td>
       <td>239</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900117/">2900117</a></td>
@@ -1342,7 +1342,7 @@ datatable: true
       <td>2012-03-23T09:17</td>
       <td>236</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900118/">2900118</a></td>
@@ -1353,7 +1353,7 @@ datatable: true
       <td>2010-03-26T15:27</td>
       <td>130</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900119/">2900119</a></td>
@@ -1364,7 +1364,7 @@ datatable: true
       <td>2009-05-12T19:21</td>
       <td>84</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900120/">2900120</a></td>
@@ -1375,7 +1375,7 @@ datatable: true
       <td>2011-11-28T14:28</td>
       <td>217</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900123/">2900123</a></td>
@@ -1386,7 +1386,7 @@ datatable: true
       <td>2011-02-14T14:10</td>
       <td>176</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900124/">2900124</a></td>
@@ -1397,7 +1397,7 @@ datatable: true
       <td>2009-02-05T15:32</td>
       <td>64</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900125/">2900125</a></td>
@@ -1408,7 +1408,7 @@ datatable: true
       <td>2011-10-29T01:35</td>
       <td>213</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900126/">2900126</a></td>
@@ -1419,7 +1419,7 @@ datatable: true
       <td>2012-04-30T04:33</td>
       <td>236</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900127/">2900127</a></td>
@@ -1430,7 +1430,7 @@ datatable: true
       <td>2011-05-19T21:44</td>
       <td>193</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900128/">2900128</a></td>
@@ -1441,7 +1441,7 @@ datatable: true
       <td>2012-01-21T07:11</td>
       <td>224</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900129/">2900129</a></td>
@@ -1452,7 +1452,7 @@ datatable: true
       <td>2012-01-16T15:17</td>
       <td>199</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900446/">2900446</a></td>
@@ -1463,7 +1463,7 @@ datatable: true
       <td>2004-10-31T03:26</td>
       <td>7</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900447/">2900447</a></td>
@@ -1474,7 +1474,7 @@ datatable: true
       <td>2007-11-15T03:44</td>
       <td>100</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900448/">2900448</a></td>
@@ -1485,7 +1485,7 @@ datatable: true
       <td>2007-05-20T01:30</td>
       <td>95</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900449/">2900449</a></td>
@@ -1496,7 +1496,7 @@ datatable: true
       <td>2005-09-07T01:56</td>
       <td>37</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900460/">2900460</a></td>
@@ -1507,7 +1507,7 @@ datatable: true
       <td>2007-04-25T09:08</td>
       <td>106</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900514/">2900514</a></td>
@@ -1518,7 +1518,7 @@ datatable: true
       <td>2008-09-05T14:43</td>
       <td>117</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900540/">2900540</a></td>
@@ -1529,7 +1529,7 @@ datatable: true
       <td>2007-11-01T03:55</td>
       <td>86</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900541/">2900541</a></td>
@@ -1540,7 +1540,7 @@ datatable: true
       <td>2008-11-15T06:11</td>
       <td>124</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900542/">2900542</a></td>
@@ -1551,7 +1551,7 @@ datatable: true
       <td>2008-10-06T12:57</td>
       <td>120</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900603/">2900603</a></td>
@@ -1562,7 +1562,7 @@ datatable: true
       <td>2006-07-06T19:28</td>
       <td>7</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900604/">2900604</a></td>
@@ -1573,7 +1573,7 @@ datatable: true
       <td>2009-04-12T02:48</td>
       <td>107</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900605/">2900605</a></td>
@@ -1584,7 +1584,7 @@ datatable: true
       <td>2008-12-13T05:27</td>
       <td>61</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900606/">2900606</a></td>
@@ -1595,7 +1595,7 @@ datatable: true
       <td>2006-10-04T12:07</td>
       <td>16</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900607/">2900607</a></td>
@@ -1606,7 +1606,7 @@ datatable: true
       <td>2006-04-27T15:17</td>
       <td>1</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900608/">2900608</a></td>
@@ -1617,7 +1617,7 @@ datatable: true
       <td>2009-12-17T19:01</td>
       <td>118</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900609/">2900609</a></td>
@@ -1628,7 +1628,7 @@ datatable: true
       <td>2010-02-25T01:44</td>
       <td>154</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900610/">2900610</a></td>
@@ -1639,7 +1639,7 @@ datatable: true
       <td>2010-07-15T07:11</td>
       <td>158</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900616/">2900616</a></td>
@@ -1650,7 +1650,7 @@ datatable: true
       <td>2007-12-27T17:11</td>
       <td>123</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900727/">2900727</a></td>
@@ -1661,7 +1661,7 @@ datatable: true
       <td>2010-09-06T14:41</td>
       <td>172</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900728/">2900728</a></td>
@@ -1672,7 +1672,7 @@ datatable: true
       <td>2012-04-14T17:27</td>
       <td>289</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900730/">2900730</a></td>
@@ -1683,7 +1683,7 @@ datatable: true
       <td>2008-06-17T12:23</td>
       <td>29</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900731/">2900731</a></td>
@@ -1694,7 +1694,7 @@ datatable: true
       <td>2011-02-05T12:33</td>
       <td>355</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900732/">2900732</a></td>
@@ -1705,7 +1705,7 @@ datatable: true
       <td>2008-05-09T12:23</td>
       <td>21</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900733/">2900733</a></td>
@@ -1716,7 +1716,7 @@ datatable: true
       <td>2008-05-24T12:30</td>
       <td>26</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900734/">2900734</a></td>
@@ -1727,7 +1727,7 @@ datatable: true
       <td>2011-05-12T07:07</td>
       <td>167</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900735/">2900735</a></td>
@@ -1738,7 +1738,7 @@ datatable: true
       <td>2010-10-21T06:32</td>
       <td>138</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900736/">2900736</a></td>
@@ -1749,7 +1749,7 @@ datatable: true
       <td>2008-06-26T16:33</td>
       <td>17</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900737/">2900737</a></td>
@@ -1760,7 +1760,7 @@ datatable: true
       <td>2010-09-23T18:02</td>
       <td>134</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900765/">2900765</a></td>
@@ -1771,7 +1771,7 @@ datatable: true
       <td>2007-12-12T21:28</td>
       <td>81</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900784/">2900784</a></td>
@@ -1782,7 +1782,7 @@ datatable: true
       <td>2011-07-29T22:30</td>
       <td>186</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900785/">2900785</a></td>
@@ -1793,7 +1793,7 @@ datatable: true
       <td>2008-12-01T20:14</td>
       <td>71</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900786/">2900786</a></td>
@@ -1804,7 +1804,7 @@ datatable: true
       <td>2012-09-11T19:20</td>
       <td>212</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900787/">2900787</a></td>
@@ -1815,7 +1815,7 @@ datatable: true
       <td>2007-02-04T20:02</td>
       <td>12</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900788/">2900788</a></td>
@@ -1826,7 +1826,7 @@ datatable: true
       <td>2011-08-22T22:20</td>
       <td>96</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900789/">2900789</a></td>
@@ -1837,7 +1837,7 @@ datatable: true
       <td>2007-05-25T22:36</td>
       <td>15</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900790/">2900790</a></td>
@@ -1848,7 +1848,7 @@ datatable: true
       <td>2011-01-05T07:25</td>
       <td>85</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900791/">2900791</a></td>
@@ -1859,7 +1859,7 @@ datatable: true
       <td>2015-03-07T09:24</td>
       <td>260</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900792/">2900792</a></td>
@@ -1870,7 +1870,7 @@ datatable: true
       <td>2008-04-12T13:38</td>
       <td>54</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900794/">2900794</a></td>
@@ -1881,7 +1881,7 @@ datatable: true
       <td>2009-01-19T09:06</td>
       <td>64</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900795/">2900795</a></td>
@@ -1892,7 +1892,7 @@ datatable: true
       <td>2008-03-11T19:33</td>
       <td>51</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900884/">2900884</a></td>
@@ -1903,7 +1903,7 @@ datatable: true
       <td>2007-12-15T14:35</td>
       <td>1</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900886/">2900886</a></td>
@@ -1914,7 +1914,7 @@ datatable: true
       <td>2008-04-04T06:33</td>
       <td>28</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900914/">2900914</a></td>
@@ -1925,7 +1925,7 @@ datatable: true
       <td>2007-09-30T04:48</td>
       <td>2</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900915/">2900915</a></td>
@@ -1936,7 +1936,7 @@ datatable: true
       <td>2009-09-29T06:52</td>
       <td>73</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900916/">2900916</a></td>
@@ -1947,7 +1947,7 @@ datatable: true
       <td>2011-06-11T07:41</td>
       <td>134</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900917/">2900917</a></td>
@@ -1958,7 +1958,7 @@ datatable: true
       <td>2011-12-16T02:45</td>
       <td>131</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900918/">2900918</a></td>
@@ -1969,7 +1969,7 @@ datatable: true
       <td>2012-10-23T07:23</td>
       <td>182</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900919/">2900919</a></td>
@@ -1980,7 +1980,7 @@ datatable: true
       <td>2011-03-13T05:44</td>
       <td>115</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900923/">2900923</a></td>
@@ -2024,7 +2024,7 @@ datatable: true
       <td>2010-02-24T22:49</td>
       <td>204</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900940/">2900940</a></td>
@@ -2035,7 +2035,7 @@ datatable: true
       <td>2009-12-19T18:37</td>
       <td>66</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900961/">2900961</a></td>
@@ -2046,7 +2046,7 @@ datatable: true
       <td>2010-10-11T03:21</td>
       <td>120</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900962/">2900962</a></td>
@@ -2057,7 +2057,7 @@ datatable: true
       <td>2009-10-05T18:05</td>
       <td>47</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900993/">2900993</a></td>
@@ -2068,7 +2068,7 @@ datatable: true
       <td>2013-06-10T18:57</td>
       <td>140</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900997/">2900997</a></td>
@@ -2079,7 +2079,7 @@ datatable: true
       <td>2011-10-05T05:28</td>
       <td>133</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900998/">2900998</a></td>
@@ -2090,7 +2090,7 @@ datatable: true
       <td>2011-07-12T07:29</td>
       <td>93</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2900999/">2900999</a></td>
@@ -2101,7 +2101,7 @@ datatable: true
       <td>2011-03-08T10:28</td>
       <td>52</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901041/">2901041</a></td>
@@ -2112,7 +2112,7 @@ datatable: true
       <td>2011-03-07T15:15</td>
       <td>6</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901042/">2901042</a></td>
@@ -2123,7 +2123,7 @@ datatable: true
       <td>2011-05-07T14:29</td>
       <td>62</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901043/">2901043</a></td>
@@ -2134,7 +2134,7 @@ datatable: true
       <td>2012-05-21T13:18</td>
       <td>166</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901177/">2901177</a></td>
@@ -2145,7 +2145,7 @@ datatable: true
       <td>2014-10-11T22:18</td>
       <td>176</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901178/">2901178</a></td>
@@ -2156,7 +2156,7 @@ datatable: true
       <td>2013-06-29T11:30</td>
       <td>139</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901208/">2901208</a></td>
@@ -2167,7 +2167,7 @@ datatable: true
       <td>2014-03-22T02:23</td>
       <td>189</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901209/">2901209</a></td>
@@ -2178,7 +2178,7 @@ datatable: true
       <td>2013-01-09T22:22</td>
       <td>135</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901210/">2901210</a></td>
@@ -2189,7 +2189,7 @@ datatable: true
       <td>2017-01-28T06:14</td>
       <td>294</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901211/">2901211</a></td>
@@ -2200,7 +2200,7 @@ datatable: true
       <td>2014-04-21T19:03</td>
       <td>172</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901212/">2901212</a></td>
@@ -2211,7 +2211,7 @@ datatable: true
       <td>2009-11-16T01:43</td>
       <td>22</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901527/">2901527</a></td>
@@ -2222,7 +2222,7 @@ datatable: true
       <td>2015-09-28T22:47</td>
       <td>184</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901528/">2901528</a></td>
@@ -2233,7 +2233,7 @@ datatable: true
       <td>2014-01-24T13:18</td>
       <td>187</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901550/">2901550</a></td>
@@ -2244,7 +2244,7 @@ datatable: true
       <td>2015-05-08T03:00</td>
       <td>402</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901551/">2901551</a></td>
@@ -2255,7 +2255,7 @@ datatable: true
       <td>2016-02-06T02:43</td>
       <td>257</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901552/">2901552</a></td>
@@ -2266,7 +2266,7 @@ datatable: true
       <td>2015-05-29T03:12</td>
       <td>423</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901553/">2901553</a></td>
@@ -2277,7 +2277,7 @@ datatable: true
       <td>2015-05-26T03:03</td>
       <td>421</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901554/">2901554</a></td>
@@ -2288,7 +2288,7 @@ datatable: true
       <td>2015-05-20T03:11</td>
       <td>415</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901555/">2901555</a></td>
@@ -2299,7 +2299,7 @@ datatable: true
       <td>2016-02-06T03:00</td>
       <td>259</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901556/">2901556</a></td>
@@ -2310,7 +2310,7 @@ datatable: true
       <td>2015-05-25T03:08</td>
       <td>420</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901557/">2901557</a></td>
@@ -2321,7 +2321,7 @@ datatable: true
       <td>2015-06-08T02:57</td>
       <td>431</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901558/">2901558</a></td>
@@ -2332,7 +2332,7 @@ datatable: true
       <td>2015-05-27T02:58</td>
       <td>421</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901559/">2901559</a></td>
@@ -2343,7 +2343,7 @@ datatable: true
       <td>2016-03-07T02:43</td>
       <td>260</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901560/">2901560</a></td>
@@ -2354,7 +2354,7 @@ datatable: true
       <td>2016-04-06T02:42</td>
       <td>264</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901561/">2901561</a></td>
@@ -2365,7 +2365,7 @@ datatable: true
       <td>2016-01-27T02:45</td>
       <td>257</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901562/">2901562</a></td>
@@ -2376,7 +2376,7 @@ datatable: true
       <td>2016-03-17T02:40</td>
       <td>261</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901563/">2901563</a></td>
@@ -2387,7 +2387,7 @@ datatable: true
       <td>2016-03-17T02:50</td>
       <td>261</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901564/">2901564</a></td>
@@ -2398,7 +2398,7 @@ datatable: true
       <td>2016-02-26T02:41</td>
       <td>260</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901565/">2901565</a></td>
@@ -2409,7 +2409,7 @@ datatable: true
       <td>2015-05-04T11:28</td>
       <td>400</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901566/">2901566</a></td>
@@ -2420,7 +2420,7 @@ datatable: true
       <td>2016-02-16T03:14</td>
       <td>259</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901705/">2901705</a></td>
@@ -2431,7 +2431,7 @@ datatable: true
       <td>2017-05-25T09:53</td>
       <td>1</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901744/">2901744</a></td>
@@ -2442,7 +2442,7 @@ datatable: true
       <td>2019-10-10T01:22</td>
       <td>52</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2901755/">2901755</a></td>
@@ -2453,7 +2453,7 @@ datatable: true
       <td>2018-01-27T06:02</td>
       <td>53</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902086/">2902086</a></td>
@@ -2464,7 +2464,7 @@ datatable: true
       <td>2016-02-16T03:56</td>
       <td>244</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902087/">2902087</a></td>
@@ -2475,7 +2475,7 @@ datatable: true
       <td>2016-08-09T03:44</td>
       <td>319</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902088/">2902088</a></td>
@@ -2486,7 +2486,7 @@ datatable: true
       <td>2019-03-10T03:49</td>
       <td>228</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902089/">2902089</a></td>
@@ -2508,7 +2508,7 @@ datatable: true
       <td>2013-05-13T03:27</td>
       <td>16</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902091/">2902091</a></td>
@@ -2519,7 +2519,7 @@ datatable: true
       <td>2013-03-15T03:28</td>
       <td>13</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902092/">2902092</a></td>
@@ -2530,7 +2530,7 @@ datatable: true
       <td>2016-12-14T03:49</td>
       <td>148</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902093/">2902093</a></td>
@@ -2541,7 +2541,7 @@ datatable: true
       <td>2019-04-23T03:51</td>
       <td>213</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902113/">2902113</a></td>
@@ -2552,7 +2552,7 @@ datatable: true
       <td>2013-11-23T13:04</td>
       <td>2</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902114/">2902114</a></td>
@@ -2563,7 +2563,7 @@ datatable: true
       <td>2017-10-09T11:54</td>
       <td>284</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902115/">2902115</a></td>
@@ -2574,7 +2574,7 @@ datatable: true
       <td>2020-05-16T11:53</td>
       <td>238</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902118/">2902118</a></td>
@@ -2585,7 +2585,7 @@ datatable: true
       <td>2021-04-21T11:49</td>
       <td>261</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902120/">2902120</a></td>
@@ -2596,7 +2596,7 @@ datatable: true
       <td>2021-05-02T11:43</td>
       <td>262</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902123/">2902123</a></td>
@@ -2607,7 +2607,7 @@ datatable: true
       <td>2019-08-31T11:39</td>
       <td>201</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902124/">2902124</a></td>
@@ -2618,7 +2618,7 @@ datatable: true
       <td>2017-10-11T11:29</td>
       <td>132</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902129/">2902129</a></td>
@@ -2629,7 +2629,7 @@ datatable: true
       <td>2014-09-03T11:26</td>
       <td>26</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902130/">2902130</a></td>
@@ -2640,7 +2640,7 @@ datatable: true
       <td>2019-02-19T11:25</td>
       <td>189</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902131/">2902131</a></td>
@@ -2651,7 +2651,7 @@ datatable: true
       <td>2016-08-23T11:10</td>
       <td>97</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902156/">2902156</a></td>
@@ -2662,7 +2662,7 @@ datatable: true
       <td>2020-08-14T20:50</td>
       <td>212</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902158/">2902158</a></td>
@@ -2673,7 +2673,7 @@ datatable: true
       <td>2018-02-02T22:20</td>
       <td>238</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902160/">2902160</a></td>
@@ -2684,7 +2684,7 @@ datatable: true
       <td>2018-01-31T14:17</td>
       <td>200</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902161/">2902161</a></td>
@@ -2695,7 +2695,7 @@ datatable: true
       <td>2017-08-12T09:57</td>
       <td>294</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902174/">2902174</a></td>
@@ -2706,7 +2706,7 @@ datatable: true
       <td>2021-03-21T20:56</td>
       <td>371</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902175/">2902175</a></td>
@@ -2717,7 +2717,7 @@ datatable: true
       <td>2020-07-11T23:21</td>
       <td>344</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902177/">2902177</a></td>
@@ -2728,7 +2728,7 @@ datatable: true
       <td>2015-09-12T19:45</td>
       <td>18</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902178/">2902178</a></td>
@@ -2739,7 +2739,7 @@ datatable: true
       <td>2020-07-27T21:02</td>
       <td>190</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902179/">2902179</a></td>
@@ -2750,7 +2750,7 @@ datatable: true
       <td>2020-07-23T10:02</td>
       <td>150</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902189/">2902189</a></td>
@@ -2761,7 +2761,7 @@ datatable: true
       <td>2018-05-05T03:02</td>
       <td>153</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902193/">2902193</a></td>
@@ -2772,7 +2772,7 @@ datatable: true
       <td>2018-07-04T04:40</td>
       <td>174</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902195/">2902195</a></td>
@@ -2783,7 +2783,7 @@ datatable: true
       <td>2018-06-05T08:10</td>
       <td>168</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902196/">2902196</a></td>
@@ -2794,7 +2794,7 @@ datatable: true
       <td>2018-04-14T07:10</td>
       <td>167</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902199/">2902199</a></td>
@@ -2805,7 +2805,7 @@ datatable: true
       <td>2021-09-16T10:44</td>
       <td>244</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902202/">2902202</a></td>
@@ -2816,7 +2816,7 @@ datatable: true
       <td>2020-11-08T23:03</td>
       <td>298</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902204/">2902204</a></td>
@@ -2827,7 +2827,7 @@ datatable: true
       <td>2020-04-22T22:11</td>
       <td>215</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902205/">2902205</a></td>
@@ -2838,7 +2838,7 @@ datatable: true
       <td>2021-12-23T23:10</td>
       <td>265</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902209/">2902209</a></td>
@@ -2849,7 +2849,7 @@ datatable: true
       <td>2023-07-08T08:05</td>
       <td>197</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902210/">2902210</a></td>
@@ -2860,7 +2860,7 @@ datatable: true
       <td>2022-08-10T23:04</td>
       <td>247</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902211/">2902211</a></td>
@@ -2871,7 +2871,7 @@ datatable: true
       <td>2022-12-08T21:33</td>
       <td>252</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902215/">2902215</a></td>
@@ -2882,7 +2882,7 @@ datatable: true
       <td>2023-06-16T18:22</td>
       <td>227</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902216/">2902216</a></td>
@@ -2893,7 +2893,7 @@ datatable: true
       <td>2023-07-24T02:33</td>
       <td>166</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902217/">2902217</a></td>
@@ -2904,7 +2904,7 @@ datatable: true
       <td>2017-10-03T08:44</td>
       <td>55</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902218/">2902218</a></td>
@@ -2915,7 +2915,7 @@ datatable: true
       <td>2017-04-07T14:57</td>
       <td>10</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902238/">2902238</a></td>
@@ -2926,7 +2926,7 @@ datatable: true
       <td>2023-01-17T17:36</td>
       <td>296</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902239/">2902239</a></td>
@@ -2937,7 +2937,7 @@ datatable: true
       <td>2022-08-12T17:55</td>
       <td>284</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902240/">2902240</a></td>
@@ -2948,7 +2948,7 @@ datatable: true
       <td>2022-08-01T17:54</td>
       <td>287</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902241/">2902241</a></td>
@@ -2959,7 +2959,7 @@ datatable: true
       <td>2022-02-22T17:44</td>
       <td>267</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902242/">2902242</a></td>
@@ -2970,7 +2970,7 @@ datatable: true
       <td>2022-01-13T17:50</td>
       <td>258</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902243/">2902243</a></td>
@@ -2981,7 +2981,7 @@ datatable: true
       <td>2022-08-19T17:51</td>
       <td>281</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902244/">2902244</a></td>
@@ -2992,7 +2992,7 @@ datatable: true
       <td>2022-05-31T17:39</td>
       <td>273</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902245/">2902245</a></td>
@@ -3003,7 +3003,7 @@ datatable: true
       <td>2022-08-09T17:53</td>
       <td>282</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902263/">2902263</a></td>
@@ -3014,7 +3014,7 @@ datatable: true
       <td>2024-04-02T17:44</td>
       <td>317</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CHLA_FLUORESCENCE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902264/">2902264</a></td>
@@ -3025,7 +3025,7 @@ datatable: true
       <td>2023-04-19T17:45</td>
       <td>268</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CHLA_FLUORESCENCE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902270/">2902270</a></td>
@@ -3036,7 +3036,7 @@ datatable: true
       <td>2024-05-21T18:38</td>
       <td>182</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902271/">2902271</a></td>
@@ -3047,7 +3047,7 @@ datatable: true
       <td>2024-12-14T05:15</td>
       <td>199</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902272/">2902272</a></td>
@@ -3058,7 +3058,7 @@ datatable: true
       <td>2024-12-23T08:19</td>
       <td>191</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902273/">2902273</a></td>
@@ -3069,7 +3069,7 @@ datatable: true
       <td>2024-12-24T08:34</td>
       <td>188</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902274/">2902274</a></td>
@@ -3080,7 +3080,7 @@ datatable: true
       <td>2020-11-26T00:25</td>
       <td>54</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902275/">2902275</a></td>
@@ -3091,7 +3091,7 @@ datatable: true
       <td>2023-03-08T18:48</td>
       <td>199</td>
       <td>TEMP PSAL DOXY NITRATE CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902276/">2902276</a></td>
@@ -3102,7 +3102,7 @@ datatable: true
       <td>2023-10-24T22:22</td>
       <td>122</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902277/">2902277</a></td>
@@ -3113,7 +3113,7 @@ datatable: true
       <td>2023-12-17T12:23</td>
       <td>153</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902294/">2902294</a></td>
@@ -3124,7 +3124,7 @@ datatable: true
       <td>2023-03-27T09:33</td>
       <td>134</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902295/">2902295</a></td>
@@ -3135,7 +3135,7 @@ datatable: true
       <td>2024-12-26T07:36</td>
       <td>148</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902296/">2902296</a></td>
@@ -3146,7 +3146,7 @@ datatable: true
       <td>2024-12-19T20:39</td>
       <td>154</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902297/">2902297</a></td>
@@ -3157,7 +3157,7 @@ datatable: true
       <td>2023-07-31T06:36</td>
       <td>65</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902298/">2902298</a></td>
@@ -3168,7 +3168,7 @@ datatable: true
       <td>2020-07-12T16:45</td>
       <td>15</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902299/">2902299</a></td>
@@ -3179,7 +3179,7 @@ datatable: true
       <td>2024-02-20T18:19</td>
       <td>13</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902306/">2902306</a></td>
@@ -3190,7 +3190,7 @@ datatable: true
       <td>2024-12-23T21:36</td>
       <td>23</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL DOXY CHLA BBP700 NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902431/">2902431</a></td>
@@ -3201,7 +3201,7 @@ datatable: true
       <td>2012-04-15T19:22</td>
       <td>146</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902432/">2902432</a></td>
@@ -3212,7 +3212,7 @@ datatable: true
       <td>2013-04-02T19:21</td>
       <td>191</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902433/">2902433</a></td>
@@ -3223,7 +3223,7 @@ datatable: true
       <td>2013-10-19T15:27</td>
       <td>201</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902434/">2902434</a></td>
@@ -3234,7 +3234,7 @@ datatable: true
       <td>2012-03-16T14:30</td>
       <td>85</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902435/">2902435</a></td>
@@ -3245,7 +3245,7 @@ datatable: true
       <td>2012-06-27T15:24</td>
       <td>156</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902436/">2902436</a></td>
@@ -3256,7 +3256,7 @@ datatable: true
       <td>2012-11-13T17:32</td>
       <td>156</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902437/">2902437</a></td>
@@ -3267,7 +3267,7 @@ datatable: true
       <td>2012-04-19T15:53</td>
       <td>136</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902438/">2902438</a></td>
@@ -3278,7 +3278,7 @@ datatable: true
       <td>2012-07-16T15:30</td>
       <td>156</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902439/">2902439</a></td>
@@ -3289,7 +3289,7 @@ datatable: true
       <td>2012-08-05T15:52</td>
       <td>159</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902440/">2902440</a></td>
@@ -3300,7 +3300,7 @@ datatable: true
       <td>2012-04-13T19:07</td>
       <td>133</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902441/">2902441</a></td>
@@ -3311,7 +3311,7 @@ datatable: true
       <td>2013-12-18T15:24</td>
       <td>207</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902442/">2902442</a></td>
@@ -3322,7 +3322,7 @@ datatable: true
       <td>2012-10-24T16:18</td>
       <td>166</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902443/">2902443</a></td>
@@ -3333,7 +3333,7 @@ datatable: true
       <td>2013-07-11T16:20</td>
       <td>192</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902444/">2902444</a></td>
@@ -3344,7 +3344,7 @@ datatable: true
       <td>2012-05-17T15:37</td>
       <td>150</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902445/">2902445</a></td>
@@ -3355,7 +3355,7 @@ datatable: true
       <td>2014-01-07T18:24</td>
       <td>207</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902446/">2902446</a></td>
@@ -3366,7 +3366,7 @@ datatable: true
       <td>2012-11-03T16:02</td>
       <td>162</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902447/">2902447</a></td>
@@ -3377,7 +3377,7 @@ datatable: true
       <td>2013-11-08T15:49</td>
       <td>198</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902448/">2902448</a></td>
@@ -3388,7 +3388,7 @@ datatable: true
       <td>2013-11-08T16:45</td>
       <td>199</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902449/">2902449</a></td>
@@ -3399,7 +3399,7 @@ datatable: true
       <td>2012-10-04T14:59</td>
       <td>160</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902450/">2902450</a></td>
@@ -3410,7 +3410,7 @@ datatable: true
       <td>2012-05-11T14:23</td>
       <td>114</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902529/">2902529</a></td>
@@ -3421,7 +3421,7 @@ datatable: true
       <td>2014-12-08T02:25</td>
       <td>28</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902530/">2902530</a></td>
@@ -3432,7 +3432,7 @@ datatable: true
       <td>2016-01-21T08:26</td>
       <td>107</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902701/">2902701</a></td>
@@ -3443,7 +3443,7 @@ datatable: true
       <td>2020-07-22T03:38</td>
       <td>94</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902731/">2902731</a></td>
@@ -3454,7 +3454,7 @@ datatable: true
       <td>2017-02-20T08:28</td>
       <td>47</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902732/">2902732</a></td>
@@ -3465,7 +3465,7 @@ datatable: true
       <td>2017-03-02T00:28</td>
       <td>47</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902733/">2902733</a></td>
@@ -3476,7 +3476,7 @@ datatable: true
       <td>2017-07-16T07:36</td>
       <td>61</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902734/">2902734</a></td>
@@ -3487,7 +3487,7 @@ datatable: true
       <td>2017-01-31T12:19</td>
       <td>45</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902735/">2902735</a></td>
@@ -3498,7 +3498,7 @@ datatable: true
       <td>2017-06-08T05:32</td>
       <td>55</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902736/">2902736</a></td>
@@ -3509,7 +3509,7 @@ datatable: true
       <td>2017-05-09T16:26</td>
       <td>54</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902746/">2902746</a></td>
@@ -3520,7 +3520,7 @@ datatable: true
       <td>2022-01-03T06:17</td>
       <td>133</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902747/">2902747</a></td>
@@ -3531,7 +3531,7 @@ datatable: true
       <td>2021-09-11T03:30</td>
       <td>121</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902748/">2902748</a></td>
@@ -3575,7 +3575,7 @@ datatable: true
       <td>2020-12-17T04:26</td>
       <td>188</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM DOWN_IRRADIANCE412 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902754/">2902754</a></td>
@@ -3586,7 +3586,7 @@ datatable: true
       <td>2024-02-22T03:11</td>
       <td>358</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM DOWN_IRRADIANCE412 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902755/">2902755</a></td>
@@ -3597,7 +3597,7 @@ datatable: true
       <td>2023-08-14T00:12</td>
       <td>381</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM DOWN_IRRADIANCE412 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902756/">2902756</a></td>
@@ -3608,7 +3608,7 @@ datatable: true
       <td>2020-12-02T04:07</td>
       <td>184</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM DOWN_IRRADIANCE412 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902757/">2902757</a></td>
@@ -3619,7 +3619,7 @@ datatable: true
       <td>2023-06-03T15:05</td>
       <td>139</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902758/">2902758</a></td>
@@ -3630,7 +3630,7 @@ datatable: true
       <td>2023-03-07T12:17</td>
       <td>141</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902762/">2902762</a></td>
@@ -3641,7 +3641,7 @@ datatable: true
       <td>2022-04-25T12:37</td>
       <td>206</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902764/">2902764</a></td>
@@ -3652,7 +3652,7 @@ datatable: true
       <td>2024-12-24T09:52</td>
       <td>183</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902822/">2902822</a></td>
@@ -3663,7 +3663,7 @@ datatable: true
       <td>2022-08-16T02:07</td>
       <td>199</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM DOWN_IRRADIANCE412 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902823/">2902823</a></td>
@@ -3674,7 +3674,7 @@ datatable: true
       <td>2022-08-04T02:17</td>
       <td>190</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM DOWN_IRRADIANCE412 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902824/">2902824</a></td>
@@ -3696,7 +3696,7 @@ datatable: true
       <td>2024-12-21T06:12</td>
       <td>111</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902826/">2902826</a></td>
@@ -3707,7 +3707,7 @@ datatable: true
       <td>2024-11-01T05:30</td>
       <td>106</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902827/">2902827</a></td>
@@ -3718,7 +3718,7 @@ datatable: true
       <td>2024-12-21T05:55</td>
       <td>111</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902829/">2902829</a></td>
@@ -3729,7 +3729,7 @@ datatable: true
       <td>2024-12-21T05:36</td>
       <td>111</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902830/">2902830</a></td>
@@ -3740,7 +3740,7 @@ datatable: true
       <td>2024-12-21T05:38</td>
       <td>111</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902831/">2902831</a></td>
@@ -3751,7 +3751,7 @@ datatable: true
       <td>2024-12-21T06:04</td>
       <td>111</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902832/">2902832</a></td>
@@ -3762,7 +3762,7 @@ datatable: true
       <td>2024-12-21T05:31</td>
       <td>111</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902833/">2902833</a></td>
@@ -3773,7 +3773,7 @@ datatable: true
       <td>2024-12-21T05:30</td>
       <td>111</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902834/">2902834</a></td>
@@ -3784,7 +3784,7 @@ datatable: true
       <td>2024-12-21T05:35</td>
       <td>111</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902835/">2902835</a></td>
@@ -3795,7 +3795,7 @@ datatable: true
       <td>2024-12-21T05:30</td>
       <td>111</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902836/">2902836</a></td>
@@ -3806,7 +3806,7 @@ datatable: true
       <td>2023-03-02T05:37</td>
       <td>46</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902857/">2902857</a></td>
@@ -3828,7 +3828,7 @@ datatable: true
       <td>2024-12-20T00:09</td>
       <td>171</td>
       <td>TEMP PSAL DOXY CHLA BBP700 BBP532 DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902881/">2902881</a></td>
@@ -3839,7 +3839,7 @@ datatable: true
       <td>2024-08-21T19:58</td>
       <td>135</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902882/">2902882</a></td>
@@ -3850,7 +3850,7 @@ datatable: true
       <td>2024-12-26T02:08</td>
       <td>177</td>
       <td>TEMP PSAL DOXY CHLA BBP532 BBP700 DOWN_IRRADIANCE412 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902883/">2902883</a></td>
@@ -3861,7 +3861,7 @@ datatable: true
       <td>2024-12-25T16:02</td>
       <td>118</td>
       <td>TEMP PSAL DOXY CHLA BBP532 BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902884/">2902884</a></td>
@@ -3872,7 +3872,7 @@ datatable: true
       <td>2024-12-24T23:32</td>
       <td>104</td>
       <td>TEMP PSAL DOXY CHLA BBP532 BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902885/">2902885</a></td>
@@ -3883,7 +3883,7 @@ datatable: true
       <td>2024-12-25T22:02</td>
       <td>56</td>
       <td>TEMP PSAL DOXY CHLA BBP700 BBP532 DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902886/">2902886</a></td>
@@ -3894,7 +3894,7 @@ datatable: true
       <td>2024-12-16T17:31</td>
       <td>54</td>
       <td>TEMP PSAL DOXY CHLA BBP700 BBP532 DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902887/">2902887</a></td>
@@ -3916,7 +3916,7 @@ datatable: true
       <td>2024-12-27T04:53</td>
       <td>256</td>
       <td>TEMP PSAL DOXY CHLA BBP532 BBP700 PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902912/">2902912</a></td>
@@ -3927,7 +3927,7 @@ datatable: true
       <td>2024-12-01T19:15</td>
       <td>209</td>
       <td>TEMP PSAL DOXY CHLA BBP532 BBP700 PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902913/">2902913</a></td>
@@ -3938,7 +3938,7 @@ datatable: true
       <td>2024-12-27T03:10</td>
       <td>32</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM DOWN_IRRADIANCE412 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902914/">2902914</a></td>
@@ -3949,7 +3949,7 @@ datatable: true
       <td>2024-12-27T03:10</td>
       <td>48</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM DOWN_IRRADIANCE412 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903006/">2903006</a></td>
@@ -3960,7 +3960,7 @@ datatable: true
       <td>2015-07-25T16:26</td>
       <td>316</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903007/">2903007</a></td>
@@ -3971,7 +3971,7 @@ datatable: true
       <td>2013-08-08T15:06</td>
       <td>423</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903008/">2903008</a></td>
@@ -3982,7 +3982,7 @@ datatable: true
       <td>2015-03-30T16:34</td>
       <td>356</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903009/">2903009</a></td>
@@ -3993,7 +3993,7 @@ datatable: true
       <td>2015-09-19T16:38</td>
       <td>358</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903010/">2903010</a></td>
@@ -4004,7 +4004,7 @@ datatable: true
       <td>2015-03-14T16:23</td>
       <td>358</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903011/">2903011</a></td>
@@ -4015,7 +4015,7 @@ datatable: true
       <td>2013-08-30T14:02</td>
       <td>375</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903012/">2903012</a></td>
@@ -4026,7 +4026,7 @@ datatable: true
       <td>2015-01-23T18:53</td>
       <td>515</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903013/">2903013</a></td>
@@ -4037,7 +4037,7 @@ datatable: true
       <td>2013-03-29T18:03</td>
       <td>270</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903014/">2903014</a></td>
@@ -4048,7 +4048,7 @@ datatable: true
       <td>2017-02-12T15:55</td>
       <td>274</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903165/">2903165</a></td>
@@ -4059,7 +4059,7 @@ datatable: true
       <td>2017-04-29T16:30</td>
       <td>266</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903166/">2903166</a></td>
@@ -4070,7 +4070,7 @@ datatable: true
       <td>2017-03-16T16:31</td>
       <td>293</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903167/">2903167</a></td>
@@ -4081,7 +4081,7 @@ datatable: true
       <td>2017-02-19T16:07</td>
       <td>243</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903168/">2903168</a></td>
@@ -4092,7 +4092,7 @@ datatable: true
       <td>2014-06-07T18:00</td>
       <td>274</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903169/">2903169</a></td>
@@ -4103,7 +4103,7 @@ datatable: true
       <td>2018-02-11T16:06</td>
       <td>259</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903170/">2903170</a></td>
@@ -4114,7 +4114,7 @@ datatable: true
       <td>2016-11-05T16:32</td>
       <td>392</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903171/">2903171</a></td>
@@ -4125,7 +4125,7 @@ datatable: true
       <td>2016-09-21T16:38</td>
       <td>420</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903172/">2903172</a></td>
@@ -4136,7 +4136,7 @@ datatable: true
       <td>2016-05-05T16:25</td>
       <td>427</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903173/">2903173</a></td>
@@ -4147,7 +4147,7 @@ datatable: true
       <td>2015-07-30T18:21</td>
       <td>272</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903174/">2903174</a></td>
@@ -4158,7 +4158,7 @@ datatable: true
       <td>2017-04-28T16:23</td>
       <td>386</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903175/">2903175</a></td>
@@ -4169,7 +4169,7 @@ datatable: true
       <td>2014-08-09T17:50</td>
       <td>491</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903176/">2903176</a></td>
@@ -4180,7 +4180,7 @@ datatable: true
       <td>2015-04-19T16:57</td>
       <td>487</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903209/">2903209</a></td>
@@ -4191,7 +4191,7 @@ datatable: true
       <td>2017-10-13T13:33</td>
       <td>9</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903210/">2903210</a></td>
@@ -4202,7 +4202,7 @@ datatable: true
       <td>2020-04-16T12:24</td>
       <td>212</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903212/">2903212</a></td>
@@ -4213,7 +4213,7 @@ datatable: true
       <td>2022-02-14T05:03</td>
       <td>151</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903213/">2903213</a></td>
@@ -4224,7 +4224,7 @@ datatable: true
       <td>2018-03-20T05:06</td>
       <td>6</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903329/">2903329</a></td>
@@ -4235,7 +4235,7 @@ datatable: true
       <td>2018-04-20T12:41</td>
       <td>82</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903330/">2903330</a></td>
@@ -4246,7 +4246,7 @@ datatable: true
       <td>2018-04-20T13:26</td>
       <td>82</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903353/">2903353</a></td>
@@ -4257,7 +4257,7 @@ datatable: true
       <td>2019-06-18T06:36</td>
       <td>123</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903354/">2903354</a></td>
@@ -4268,7 +4268,7 @@ datatable: true
       <td>2021-01-26T11:32</td>
       <td>271</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903392/">2903392</a></td>
@@ -4279,7 +4279,7 @@ datatable: true
       <td>2022-09-25T13:21</td>
       <td>165</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903393/">2903393</a></td>
@@ -4290,7 +4290,7 @@ datatable: true
       <td>2022-09-26T13:40</td>
       <td>166</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903394/">2903394</a></td>
@@ -4301,7 +4301,7 @@ datatable: true
       <td>2022-04-07T12:19</td>
       <td>218</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903395/">2903395</a></td>
@@ -4312,7 +4312,7 @@ datatable: true
       <td>2021-06-24T13:36</td>
       <td>171</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903396/">2903396</a></td>
@@ -4323,7 +4323,7 @@ datatable: true
       <td>2020-09-23T10:18</td>
       <td>79</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903439/">2903439</a></td>
@@ -4334,7 +4334,7 @@ datatable: true
       <td>2024-12-21T11:08</td>
       <td>7</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903440/">2903440</a></td>
@@ -4345,7 +4345,7 @@ datatable: true
       <td>2024-12-12T20:11</td>
       <td>6</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903441/">2903441</a></td>
@@ -4356,7 +4356,7 @@ datatable: true
       <td>2024-12-24T13:58</td>
       <td>7</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903442/">2903442</a></td>
@@ -4367,7 +4367,7 @@ datatable: true
       <td>2024-12-25T15:48</td>
       <td>7</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903451/">2903451</a></td>
@@ -4378,7 +4378,7 @@ datatable: true
       <td>2024-12-16T15:51</td>
       <td>66</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903453/">2903453</a></td>
@@ -4389,7 +4389,7 @@ datatable: true
       <td>2024-12-19T01:45</td>
       <td>62</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903454/">2903454</a></td>
@@ -4400,7 +4400,7 @@ datatable: true
       <td>2024-04-07T22:27</td>
       <td>37</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903455/">2903455</a></td>
@@ -4411,7 +4411,7 @@ datatable: true
       <td>2024-12-18T08:38</td>
       <td>55</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903456/">2903456</a></td>
@@ -4422,7 +4422,7 @@ datatable: true
       <td>2024-12-17T16:48</td>
       <td>54</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903457/">2903457</a></td>
@@ -4433,7 +4433,7 @@ datatable: true
       <td>2024-12-24T13:20</td>
       <td>56</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903458/">2903458</a></td>
@@ -4444,7 +4444,7 @@ datatable: true
       <td>2024-12-26T01:58</td>
       <td>57</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903459/">2903459</a></td>
@@ -4455,7 +4455,7 @@ datatable: true
       <td>2024-12-17T04:23</td>
       <td>56</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903461/">2903461</a></td>
@@ -4466,7 +4466,7 @@ datatable: true
       <td>2024-12-26T04:56</td>
       <td>56</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903462/">2903462</a></td>
@@ -4477,7 +4477,7 @@ datatable: true
       <td>2024-12-07T12:46</td>
       <td>57</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903463/">2903463</a></td>
@@ -4488,7 +4488,7 @@ datatable: true
       <td>2024-12-19T17:58</td>
       <td>58</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903464/">2903464</a></td>
@@ -4499,7 +4499,7 @@ datatable: true
       <td>2024-12-16T20:58</td>
       <td>53</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903465/">2903465</a></td>
@@ -4510,7 +4510,7 @@ datatable: true
       <td>2024-12-12T00:00</td>
       <td>55</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903466/">2903466</a></td>
@@ -4521,7 +4521,7 @@ datatable: true
       <td>2024-12-16T20:25</td>
       <td>53</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903467/">2903467</a></td>
@@ -4532,7 +4532,7 @@ datatable: true
       <td>2024-12-20T17:09</td>
       <td>52</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903468/">2903468</a></td>
@@ -4543,7 +4543,7 @@ datatable: true
       <td>2024-12-13T03:56</td>
       <td>51</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903469/">2903469</a></td>
@@ -4554,7 +4554,7 @@ datatable: true
       <td>2024-12-23T12:54</td>
       <td>45</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903470/">2903470</a></td>
@@ -4565,7 +4565,7 @@ datatable: true
       <td>2024-12-16T17:10</td>
       <td>43</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903471/">2903471</a></td>
@@ -4576,7 +4576,7 @@ datatable: true
       <td>2024-12-11T12:54</td>
       <td>23</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903472/">2903472</a></td>
@@ -4587,7 +4587,7 @@ datatable: true
       <td>2024-12-18T13:57</td>
       <td>45</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903473/">2903473</a></td>
@@ -4598,7 +4598,7 @@ datatable: true
       <td>2024-12-16T08:14</td>
       <td>44</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903474/">2903474</a></td>
@@ -4609,7 +4609,7 @@ datatable: true
       <td>2024-12-19T21:44</td>
       <td>44</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903613/">2903613</a></td>
@@ -4620,7 +4620,7 @@ datatable: true
       <td>2023-05-27T10:44</td>
       <td>201</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903614/">2903614</a></td>
@@ -4631,7 +4631,7 @@ datatable: true
       <td>2022-11-28T10:32</td>
       <td>164</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903615/">2903615</a></td>
@@ -4642,7 +4642,7 @@ datatable: true
       <td>2022-07-07T10:57</td>
       <td>255</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903648/">2903648</a></td>
@@ -4653,7 +4653,7 @@ datatable: true
       <td>2023-01-09T10:07</td>
       <td>165</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903650/">2903650</a></td>
@@ -4664,7 +4664,7 @@ datatable: true
       <td>2023-06-10T10:43</td>
       <td>193</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903651/">2903651</a></td>
@@ -4675,7 +4675,7 @@ datatable: true
       <td>2023-06-13T10:32</td>
       <td>193</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903652/">2903652</a></td>
@@ -4686,7 +4686,7 @@ datatable: true
       <td>2023-05-03T06:29</td>
       <td>185</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903653/">2903653</a></td>
@@ -4697,7 +4697,7 @@ datatable: true
       <td>2023-06-22T10:33</td>
       <td>193</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903654/">2903654</a></td>
@@ -4708,7 +4708,7 @@ datatable: true
       <td>2023-02-27T10:14</td>
       <td>169</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903655/">2903655</a></td>
@@ -4719,7 +4719,7 @@ datatable: true
       <td>2021-08-28T18:28</td>
       <td>272</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903656/">2903656</a></td>
@@ -4730,7 +4730,7 @@ datatable: true
       <td>2023-09-20T10:32</td>
       <td>187</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903657/">2903657</a></td>
@@ -4741,7 +4741,7 @@ datatable: true
       <td>2023-06-23T10:09</td>
       <td>171</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903666/">2903666</a></td>
@@ -4752,7 +4752,7 @@ datatable: true
       <td>2022-07-28T12:16</td>
       <td>190</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903667/">2903667</a></td>
@@ -4763,7 +4763,7 @@ datatable: true
       <td>2023-04-24T10:29</td>
       <td>92</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903669/">2903669</a></td>
@@ -4774,7 +4774,7 @@ datatable: true
       <td>2023-02-18T11:22</td>
       <td>158</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903670/">2903670</a></td>
@@ -4785,7 +4785,7 @@ datatable: true
       <td>2021-03-07T12:58</td>
       <td>14</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903672/">2903672</a></td>
@@ -4796,7 +4796,7 @@ datatable: true
       <td>2022-10-29T13:33</td>
       <td>135</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903700/">2903700</a></td>
@@ -4807,7 +4807,7 @@ datatable: true
       <td>2022-11-09T12:32</td>
       <td>191</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903762/">2903762</a></td>
@@ -4818,7 +4818,7 @@ datatable: true
       <td>2024-12-23T12:04</td>
       <td>19</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903763/">2903763</a></td>
@@ -4829,7 +4829,7 @@ datatable: true
       <td>2024-12-25T11:23</td>
       <td>20</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903783/">2903783</a></td>
@@ -4840,7 +4840,7 @@ datatable: true
       <td>2024-12-17T21:47</td>
       <td>77</td>
       <td>TEMP PSAL CP660 DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903787/">2903787</a></td>
@@ -4851,7 +4851,7 @@ datatable: true
       <td>2024-12-24T06:25</td>
       <td>88</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CP660 DOXY PH_IN_SITU_TOTAL</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903794/">2903794</a></td>
@@ -4862,7 +4862,7 @@ datatable: true
       <td>2024-12-26T05:28</td>
       <td>134</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL CP660 NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903795/">2903795</a></td>
@@ -4873,7 +4873,7 @@ datatable: true
       <td>2024-12-24T20:41</td>
       <td>259</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903797/">2903797</a></td>
@@ -4884,7 +4884,7 @@ datatable: true
       <td>2024-12-24T10:24</td>
       <td>76</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903832/">2903832</a></td>
@@ -4895,7 +4895,7 @@ datatable: true
       <td>2025-01-28T23:19</td>
       <td>28</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL CHLA CHLA_FLUORESCENCE BBP700 DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903833/">2903833</a></td>
@@ -4906,7 +4906,7 @@ datatable: true
       <td>2025-01-31T17:50</td>
       <td>13</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL CHLA CHLA_FLUORESCENCE BBP700 DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903854/">2903854</a></td>
@@ -4917,7 +4917,7 @@ datatable: true
       <td>2024-12-17T21:55</td>
       <td>50</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903855/">2903855</a></td>
@@ -4928,7 +4928,7 @@ datatable: true
       <td>2023-08-08T03:20</td>
       <td>1</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903856/">2903856</a></td>
@@ -4939,7 +4939,7 @@ datatable: true
       <td>2024-12-18T17:42</td>
       <td>46</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903858/">2903858</a></td>
@@ -4950,7 +4950,7 @@ datatable: true
       <td>2024-12-25T17:55</td>
       <td>38</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903860/">2903860</a></td>
@@ -4961,7 +4961,7 @@ datatable: true
       <td>2024-12-18T09:03</td>
       <td>41</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903862/">2903862</a></td>
@@ -4972,7 +4972,7 @@ datatable: true
       <td>2024-12-12T02:47</td>
       <td>41</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903863/">2903863</a></td>
@@ -4983,7 +4983,7 @@ datatable: true
       <td>2024-12-24T14:29</td>
       <td>101</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903864/">2903864</a></td>
@@ -4994,7 +4994,7 @@ datatable: true
       <td>2024-12-23T22:36</td>
       <td>27</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903865/">2903865</a></td>
@@ -5005,7 +5005,7 @@ datatable: true
       <td>2024-12-22T17:39</td>
       <td>27</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903866/">2903866</a></td>
@@ -5016,7 +5016,7 @@ datatable: true
       <td>2024-12-16T11:58</td>
       <td>25</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903867/">2903867</a></td>
@@ -5027,7 +5027,7 @@ datatable: true
       <td>2024-08-07T00:14</td>
       <td>20</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903869/">2903869</a></td>
@@ -5038,7 +5038,7 @@ datatable: true
       <td>2024-12-13T10:18</td>
       <td>47</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903870/">2903870</a></td>
@@ -5049,7 +5049,7 @@ datatable: true
       <td>2024-12-23T15:35</td>
       <td>29</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903872/">2903872</a></td>
@@ -5060,7 +5060,7 @@ datatable: true
       <td>2024-12-12T19:49</td>
       <td>31</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903874/">2903874</a></td>
@@ -5071,7 +5071,7 @@ datatable: true
       <td>2024-04-24T11:39</td>
       <td>18</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903875/">2903875</a></td>
@@ -5082,7 +5082,7 @@ datatable: true
       <td>2024-12-18T00:58</td>
       <td>3</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903876/">2903876</a></td>
@@ -5093,7 +5093,7 @@ datatable: true
       <td>2024-12-18T14:46</td>
       <td>5</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903878/">2903878</a></td>
@@ -5104,7 +5104,7 @@ datatable: true
       <td>2023-08-05T17:15</td>
       <td>8</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903880/">2903880</a></td>
@@ -5115,7 +5115,7 @@ datatable: true
       <td>2024-12-24T15:50</td>
       <td>6</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903881/">2903881</a></td>
@@ -5126,7 +5126,7 @@ datatable: true
       <td>2024-12-23T16:28</td>
       <td>16</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903884/">2903884</a></td>
@@ -5137,7 +5137,7 @@ datatable: true
       <td>2024-12-26T17:09</td>
       <td>16</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903886/">2903886</a></td>
@@ -5148,7 +5148,7 @@ datatable: true
       <td>2024-12-18T10:16</td>
       <td>73</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903887/">2903887</a></td>
@@ -5159,7 +5159,7 @@ datatable: true
       <td>2024-12-26T04:35</td>
       <td>39</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903898/">2903898</a></td>
@@ -5170,7 +5170,7 @@ datatable: true
       <td>2024-12-26T00:39</td>
       <td>58</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903899/">2903899</a></td>
@@ -5181,7 +5181,7 @@ datatable: true
       <td>2024-10-05T23:27</td>
       <td>182</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903902/">2903902</a></td>
@@ -5192,7 +5192,7 @@ datatable: true
       <td>2024-12-21T12:45</td>
       <td>162</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903908/">2903908</a></td>
@@ -5203,7 +5203,7 @@ datatable: true
       <td>2024-12-24T12:59</td>
       <td>44</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903928/">2903928</a></td>
@@ -5214,7 +5214,7 @@ datatable: true
       <td>2024-12-26T17:43</td>
       <td>19</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903929/">2903929</a></td>
@@ -5225,7 +5225,7 @@ datatable: true
       <td>2024-12-21T08:46</td>
       <td>22</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903930/">2903930</a></td>
@@ -5236,7 +5236,7 @@ datatable: true
       <td>2024-08-27T07:11</td>
       <td>4</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903936/">2903936</a></td>
@@ -5247,7 +5247,7 @@ datatable: true
       <td>2025-01-27T21:00</td>
       <td>4</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903937/">2903937</a></td>
@@ -5258,7 +5258,7 @@ datatable: true
       <td>2024-12-25T12:13</td>
       <td>5</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900275/">3900275</a></td>
@@ -5269,7 +5269,7 @@ datatable: true
       <td>2007-08-09T08:05</td>
       <td>61</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900281/">3900281</a></td>
@@ -5280,7 +5280,7 @@ datatable: true
       <td>2005-04-12T00:57</td>
       <td>12</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900333/">3900333</a></td>
@@ -5291,7 +5291,7 @@ datatable: true
       <td>2011-04-08T13:16</td>
       <td>257</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900334/">3900334</a></td>
@@ -5302,7 +5302,7 @@ datatable: true
       <td>2011-08-04T10:03</td>
       <td>272</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900344/">3900344</a></td>
@@ -5313,7 +5313,7 @@ datatable: true
       <td>2011-02-13T16:55</td>
       <td>251</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900345/">3900345</a></td>
@@ -5324,7 +5324,7 @@ datatable: true
       <td>2009-11-18T09:05</td>
       <td>190</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900346/">3900346</a></td>
@@ -5335,7 +5335,7 @@ datatable: true
       <td>2010-11-02T07:22</td>
       <td>236</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900347/">3900347</a></td>
@@ -5346,7 +5346,7 @@ datatable: true
       <td>2010-11-03T09:02</td>
       <td>237</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900348/">3900348</a></td>
@@ -5357,7 +5357,7 @@ datatable: true
       <td>2009-10-30T18:07</td>
       <td>189</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900515/">3900515</a></td>
@@ -5368,7 +5368,7 @@ datatable: true
       <td>2009-08-07T08:57</td>
       <td>269</td>
       <td>TEMP PSAL CHLA TURBIDITY DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900516/">3900516</a></td>
@@ -5379,7 +5379,7 @@ datatable: true
       <td>2008-06-07T08:00</td>
       <td>187</td>
       <td>TEMP PSAL CHLA TURBIDITY DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900521/">3900521</a></td>
@@ -5390,7 +5390,7 @@ datatable: true
       <td>2011-05-31T09:18</td>
       <td>330</td>
       <td>TEMP PSAL CHLA TURBIDITY DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900522/">3900522</a></td>
@@ -5401,7 +5401,7 @@ datatable: true
       <td>2012-04-14T06:34</td>
       <td>396</td>
       <td>TEMP PSAL CHLA TURBIDITY DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900523/">3900523</a></td>
@@ -5412,7 +5412,7 @@ datatable: true
       <td>2011-03-10T09:27</td>
       <td>336</td>
       <td>TEMP PSAL CHLA TURBIDITY DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900524/">3900524</a></td>
@@ -5423,7 +5423,7 @@ datatable: true
       <td>2011-10-05T09:54</td>
       <td>261</td>
       <td>TEMP PSAL CHLA TURBIDITY DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900531/">3900531</a></td>
@@ -5434,7 +5434,7 @@ datatable: true
       <td>2011-07-07T03:22</td>
       <td>136</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900532/">3900532</a></td>
@@ -5445,7 +5445,7 @@ datatable: true
       <td>2012-08-03T03:09</td>
       <td>175</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900533/">3900533</a></td>
@@ -5456,7 +5456,7 @@ datatable: true
       <td>2012-07-14T03:07</td>
       <td>173</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900534/">3900534</a></td>
@@ -5467,7 +5467,7 @@ datatable: true
       <td>2012-10-21T02:34</td>
       <td>183</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900713/">3900713</a></td>
@@ -5478,7 +5478,7 @@ datatable: true
       <td>2009-01-17T07:25</td>
       <td>29</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900714/">3900714</a></td>
@@ -5489,7 +5489,7 @@ datatable: true
       <td>2008-10-29T07:31</td>
       <td>2</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900715/">3900715</a></td>
@@ -5500,7 +5500,7 @@ datatable: true
       <td>2014-04-08T07:03</td>
       <td>264</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900716/">3900716</a></td>
@@ -5511,7 +5511,7 @@ datatable: true
       <td>2008-12-25T07:32</td>
       <td>18</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900717/">3900717</a></td>
@@ -5522,7 +5522,7 @@ datatable: true
       <td>2008-12-25T07:27</td>
       <td>21</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900718/">3900718</a></td>
@@ -5533,7 +5533,7 @@ datatable: true
       <td>2009-11-04T08:38</td>
       <td>117</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900727/">3900727</a></td>
@@ -5544,7 +5544,7 @@ datatable: true
       <td>2015-04-09T00:43</td>
       <td>309</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900728/">3900728</a></td>
@@ -5555,7 +5555,7 @@ datatable: true
       <td>2014-10-20T07:44</td>
       <td>284</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900729/">3900729</a></td>
@@ -5566,7 +5566,7 @@ datatable: true
       <td>2015-03-05T01:52</td>
       <td>289</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900730/">3900730</a></td>
@@ -5577,7 +5577,7 @@ datatable: true
       <td>2008-12-22T07:27</td>
       <td>9</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900763/">3900763</a></td>
@@ -5588,7 +5588,7 @@ datatable: true
       <td>2011-03-20T10:19</td>
       <td>10</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900791/">3900791</a></td>
@@ -5599,7 +5599,7 @@ datatable: true
       <td>2013-02-06T14:05</td>
       <td>184</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900792/">3900792</a></td>
@@ -5610,7 +5610,7 @@ datatable: true
       <td>2009-06-19T02:16</td>
       <td>51</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3900793/">3900793</a></td>
@@ -5621,7 +5621,7 @@ datatable: true
       <td>2013-12-09T01:20</td>
       <td>34</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901065/">3901065</a></td>
@@ -5632,7 +5632,7 @@ datatable: true
       <td>2009-02-11T04:27</td>
       <td>95</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE TURBIDITY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901066/">3901066</a></td>
@@ -5643,7 +5643,7 @@ datatable: true
       <td>2010-08-02T06:44</td>
       <td>248</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE TURBIDITY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901067/">3901067</a></td>
@@ -5654,7 +5654,7 @@ datatable: true
       <td>2010-11-15T08:29</td>
       <td>321</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE TURBIDITY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901068/">3901068</a></td>
@@ -5665,7 +5665,7 @@ datatable: true
       <td>2010-07-15T04:38</td>
       <td>240</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE TURBIDITY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901075/">3901075</a></td>
@@ -5676,7 +5676,7 @@ datatable: true
       <td>2013-01-02T23:50</td>
       <td>144</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901076/">3901076</a></td>
@@ -5687,7 +5687,7 @@ datatable: true
       <td>2013-06-22T03:09</td>
       <td>161</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901077/">3901077</a></td>
@@ -5698,7 +5698,7 @@ datatable: true
       <td>2013-06-22T23:38</td>
       <td>161</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901078/">3901078</a></td>
@@ -5709,7 +5709,7 @@ datatable: true
       <td>2012-12-24T23:53</td>
       <td>143</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901079/">3901079</a></td>
@@ -5720,7 +5720,7 @@ datatable: true
       <td>2013-12-26T13:53</td>
       <td>179</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901080/">3901080</a></td>
@@ -5731,7 +5731,7 @@ datatable: true
       <td>2013-04-20T16:04</td>
       <td>154</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901081/">3901081</a></td>
@@ -5742,7 +5742,7 @@ datatable: true
       <td>2013-05-31T10:37</td>
       <td>158</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901082/">3901082</a></td>
@@ -5753,7 +5753,7 @@ datatable: true
       <td>2013-03-12T18:17</td>
       <td>150</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901083/">3901083</a></td>
@@ -5764,7 +5764,7 @@ datatable: true
       <td>2011-01-23T07:13</td>
       <td>72</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901084/">3901084</a></td>
@@ -5775,7 +5775,7 @@ datatable: true
       <td>2014-01-07T09:23</td>
       <td>180</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901466/">3901466</a></td>
@@ -5786,7 +5786,7 @@ datatable: true
       <td>2014-07-04T18:49</td>
       <td>202</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901496/">3901496</a></td>
@@ -5797,7 +5797,7 @@ datatable: true
       <td>2021-07-22T14:39</td>
       <td>386</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 BBP532</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901497/">3901497</a></td>
@@ -5808,7 +5808,7 @@ datatable: true
       <td>2019-06-12T14:59</td>
       <td>368</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 BBP532</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901498/">3901498</a></td>
@@ -5819,7 +5819,7 @@ datatable: true
       <td>2019-06-11T12:55</td>
       <td>388</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 BBP532</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901530/">3901530</a></td>
@@ -5830,7 +5830,7 @@ datatable: true
       <td>2019-09-17T19:04</td>
       <td>213</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 BBP532</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901531/">3901531</a></td>
@@ -5841,7 +5841,7 @@ datatable: true
       <td>2021-07-08T19:01</td>
       <td>344</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 BBP532</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901578/">3901578</a></td>
@@ -5852,7 +5852,7 @@ datatable: true
       <td>2024-12-24T20:30</td>
       <td>112</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP700 CDOM PH_IN_SITU_TOTAL NITRATE CHLA_FLUORESCENCE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901579/">3901579</a></td>
@@ -5863,7 +5863,7 @@ datatable: true
       <td>2023-04-04T11:18</td>
       <td>5</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901580/">3901580</a></td>
@@ -5874,7 +5874,7 @@ datatable: true
       <td>2024-12-22T11:19</td>
       <td>47</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901581/">3901581</a></td>
@@ -5885,7 +5885,7 @@ datatable: true
       <td>2024-12-27T00:34</td>
       <td>76</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901582/">3901582</a></td>
@@ -5896,7 +5896,7 @@ datatable: true
       <td>2024-12-27T01:30</td>
       <td>30</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901583/">3901583</a></td>
@@ -5907,7 +5907,7 @@ datatable: true
       <td>2024-12-07T13:50</td>
       <td>29</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901584/">3901584</a></td>
@@ -5918,7 +5918,7 @@ datatable: true
       <td>2024-12-12T02:32</td>
       <td>31</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901586/">3901586</a></td>
@@ -5929,7 +5929,7 @@ datatable: true
       <td>2024-12-26T01:32</td>
       <td>22</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901667/">3901667</a></td>
@@ -5940,7 +5940,7 @@ datatable: true
       <td>2018-10-15T13:50</td>
       <td>19</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901668/">3901668</a></td>
@@ -5951,7 +5951,7 @@ datatable: true
       <td>2021-11-28T04:16</td>
       <td>182</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901669/">3901669</a></td>
@@ -5962,7 +5962,7 @@ datatable: true
       <td>2021-08-20T08:50</td>
       <td>179</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901988/">3901988</a></td>
@@ -5984,7 +5984,7 @@ datatable: true
       <td>2024-12-21T06:38</td>
       <td>139</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901999/">3901999</a></td>
@@ -5995,7 +5995,7 @@ datatable: true
       <td>2024-12-27T06:31</td>
       <td>140</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902004/">3902004</a></td>
@@ -6006,7 +6006,7 @@ datatable: true
       <td>2024-12-10T18:38</td>
       <td>215</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902005/">3902005</a></td>
@@ -6017,7 +6017,7 @@ datatable: true
       <td>2024-10-22T06:52</td>
       <td>217</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902006/">3902006</a></td>
@@ -6028,7 +6028,7 @@ datatable: true
       <td>2024-12-24T01:53</td>
       <td>73</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902007/">3902007</a></td>
@@ -6039,7 +6039,7 @@ datatable: true
       <td>2024-12-21T08:19</td>
       <td>104</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902009/">3902009</a></td>
@@ -6050,7 +6050,7 @@ datatable: true
       <td>2024-12-22T08:20</td>
       <td>104</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902010/">3902010</a></td>
@@ -6061,7 +6061,7 @@ datatable: true
       <td>2024-12-24T05:40</td>
       <td>188</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, A</td>
+      <td>Indian, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902011/">3902011</a></td>
@@ -6072,7 +6072,7 @@ datatable: true
       <td>2024-03-28T00:44</td>
       <td>318</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902101/">3902101</a></td>
@@ -6083,7 +6083,7 @@ datatable: true
       <td>2020-02-07T09:03</td>
       <td>741</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902104/">3902104</a></td>
@@ -6094,7 +6094,7 @@ datatable: true
       <td>2018-09-10T09:22</td>
       <td>102</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902106/">3902106</a></td>
@@ -6105,7 +6105,7 @@ datatable: true
       <td>2020-11-29T10:02</td>
       <td>834</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902110/">3902110</a></td>
@@ -6116,7 +6116,7 @@ datatable: true
       <td>2023-05-21T08:21</td>
       <td>1000</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902111/">3902111</a></td>
@@ -6127,7 +6127,7 @@ datatable: true
       <td>2023-02-25T07:09</td>
       <td>85</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902113/">3902113</a></td>
@@ -6138,7 +6138,7 @@ datatable: true
       <td>2021-10-06T07:59</td>
       <td>98</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902114/">3902114</a></td>
@@ -6149,7 +6149,7 @@ datatable: true
       <td>2024-12-25T13:22</td>
       <td>128</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902115/">3902115</a></td>
@@ -6160,7 +6160,7 @@ datatable: true
       <td>2023-02-28T09:48</td>
       <td>618</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902116/">3902116</a></td>
@@ -6171,7 +6171,7 @@ datatable: true
       <td>2024-12-19T09:12</td>
       <td>172</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902117/">3902117</a></td>
@@ -6182,7 +6182,7 @@ datatable: true
       <td>2024-02-24T06:20</td>
       <td>660</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902118/">3902118</a></td>
@@ -6193,7 +6193,7 @@ datatable: true
       <td>2024-11-03T12:47</td>
       <td>52</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902119/">3902119</a></td>
@@ -6204,7 +6204,7 @@ datatable: true
       <td>2024-12-20T11:40</td>
       <td>57</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902120/">3902120</a></td>
@@ -6215,7 +6215,7 @@ datatable: true
       <td>2022-01-01T09:05</td>
       <td>566</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902121/">3902121</a></td>
@@ -6226,7 +6226,7 @@ datatable: true
       <td>2021-10-02T17:58</td>
       <td>660</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902122/">3902122</a></td>
@@ -6237,7 +6237,7 @@ datatable: true
       <td>2022-01-21T13:56</td>
       <td>674</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902123/">3902123</a></td>
@@ -6248,7 +6248,7 @@ datatable: true
       <td>2021-04-01T09:04</td>
       <td>554</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902124/">3902124</a></td>
@@ -6259,7 +6259,7 @@ datatable: true
       <td>2022-10-05T12:48</td>
       <td>754</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902125/">3902125</a></td>
@@ -6270,7 +6270,7 @@ datatable: true
       <td>2024-12-21T13:25</td>
       <td>558</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902126/">3902126</a></td>
@@ -6281,7 +6281,7 @@ datatable: true
       <td>2018-09-26T12:08</td>
       <td>57</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902127/">3902127</a></td>
@@ -6292,7 +6292,7 @@ datatable: true
       <td>2022-05-18T12:13</td>
       <td>138</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902128/">3902128</a></td>
@@ -6303,7 +6303,7 @@ datatable: true
       <td>2020-10-02T12:46</td>
       <td>130</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902129/">3902129</a></td>
@@ -6314,7 +6314,7 @@ datatable: true
       <td>2019-12-18T12:22</td>
       <td>61</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902130/">3902130</a></td>
@@ -6325,7 +6325,7 @@ datatable: true
       <td>2020-03-26T12:41</td>
       <td>110</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902131/">3902131</a></td>
@@ -6336,7 +6336,7 @@ datatable: true
       <td>2021-02-27T12:37</td>
       <td>162</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902132/">3902132</a></td>
@@ -6347,7 +6347,7 @@ datatable: true
       <td>2020-02-22T12:00</td>
       <td>125</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902258/">3902258</a></td>
@@ -6358,7 +6358,7 @@ datatable: true
       <td>2024-12-24T13:37</td>
       <td>17</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902259/">3902259</a></td>
@@ -6369,7 +6369,7 @@ datatable: true
       <td>2024-12-14T00:56</td>
       <td>17</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902260/">3902260</a></td>
@@ -6380,7 +6380,7 @@ datatable: true
       <td>2024-10-30T05:33</td>
       <td>38</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902261/">3902261</a></td>
@@ -6391,7 +6391,7 @@ datatable: true
       <td>2024-12-13T20:17</td>
       <td>14</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902331/">3902331</a></td>
@@ -6402,7 +6402,7 @@ datatable: true
       <td>2024-12-13T02:38</td>
       <td>17</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902332/">3902332</a></td>
@@ -6413,7 +6413,7 @@ datatable: true
       <td>2024-12-06T21:43</td>
       <td>17</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902333/">3902333</a></td>
@@ -6424,7 +6424,7 @@ datatable: true
       <td>2024-12-24T23:35</td>
       <td>17</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902340/">3902340</a></td>
@@ -6435,7 +6435,7 @@ datatable: true
       <td>2024-12-24T21:58</td>
       <td>9</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902341/">3902341</a></td>
@@ -6446,7 +6446,7 @@ datatable: true
       <td>2024-12-19T20:45</td>
       <td>8</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902342/">3902342</a></td>
@@ -6457,7 +6457,7 @@ datatable: true
       <td>2024-12-25T21:02</td>
       <td>28</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902343/">3902343</a></td>
@@ -6468,7 +6468,7 @@ datatable: true
       <td>2024-12-16T05:08</td>
       <td>8</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902344/">3902344</a></td>
@@ -6479,7 +6479,7 @@ datatable: true
       <td>2024-12-15T11:03</td>
       <td>8</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902345/">3902345</a></td>
@@ -6490,7 +6490,7 @@ datatable: true
       <td>2024-12-11T05:06</td>
       <td>7</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902348/">3902348</a></td>
@@ -6501,7 +6501,7 @@ datatable: true
       <td>2025-02-04T19:49</td>
       <td>6</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902461/">3902461</a></td>
@@ -6512,7 +6512,7 @@ datatable: true
       <td>2024-12-16T23:52</td>
       <td>38</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902462/">3902462</a></td>
@@ -6523,7 +6523,7 @@ datatable: true
       <td>2024-12-24T14:07</td>
       <td>94</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902463/">3902463</a></td>
@@ -6534,7 +6534,7 @@ datatable: true
       <td>2024-12-22T01:23</td>
       <td>95</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902464/">3902464</a></td>
@@ -6545,7 +6545,7 @@ datatable: true
       <td>2024-12-19T18:03</td>
       <td>94</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902465/">3902465</a></td>
@@ -6556,7 +6556,7 @@ datatable: true
       <td>2024-12-07T09:47</td>
       <td>94</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902471/">3902471</a></td>
@@ -6567,7 +6567,7 @@ datatable: true
       <td>2023-11-27T08:33</td>
       <td>46</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660 DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR PH_IN_SITU_TOTAL</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902472/">3902472</a></td>
@@ -6578,7 +6578,7 @@ datatable: true
       <td>2024-12-17T08:42</td>
       <td>79</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>I, A</td>
+      <td>Indian, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902476/">3902476</a></td>
@@ -6589,7 +6589,7 @@ datatable: true
       <td>2024-12-20T07:46</td>
       <td>80</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902483/">3902483</a></td>
@@ -6600,7 +6600,7 @@ datatable: true
       <td>2024-12-18T06:09</td>
       <td>49</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902484/">3902484</a></td>
@@ -6611,7 +6611,7 @@ datatable: true
       <td>2024-12-25T21:49</td>
       <td>45</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902488/">3902488</a></td>
@@ -6622,7 +6622,7 @@ datatable: true
       <td>2023-04-10T22:43</td>
       <td>34</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902490/">3902490</a></td>
@@ -6633,7 +6633,7 @@ datatable: true
       <td>2024-12-19T02:31</td>
       <td>54</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902491/">3902491</a></td>
@@ -6644,7 +6644,7 @@ datatable: true
       <td>2024-12-19T15:04</td>
       <td>88</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902492/">3902492</a></td>
@@ -6655,7 +6655,7 @@ datatable: true
       <td>2024-03-09T08:13</td>
       <td>11</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902498/">3902498</a></td>
@@ -6666,7 +6666,7 @@ datatable: true
       <td>2024-12-22T12:53</td>
       <td>74</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660 DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902500/">3902500</a></td>
@@ -6677,7 +6677,7 @@ datatable: true
       <td>2024-12-25T15:43</td>
       <td>217</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902506/">3902506</a></td>
@@ -6688,7 +6688,7 @@ datatable: true
       <td>2024-12-24T11:02</td>
       <td>110</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902531/">3902531</a></td>
@@ -6699,7 +6699,7 @@ datatable: true
       <td>2023-07-08T16:37</td>
       <td>26</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902533/">3902533</a></td>
@@ -6710,7 +6710,7 @@ datatable: true
       <td>2024-12-23T22:53</td>
       <td>28</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902554/">3902554</a></td>
@@ -6721,7 +6721,7 @@ datatable: true
       <td>2024-12-13T21:16</td>
       <td>46</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902556/">3902556</a></td>
@@ -6732,7 +6732,7 @@ datatable: true
       <td>2024-11-13T07:24</td>
       <td>33</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902557/">3902557</a></td>
@@ -6743,7 +6743,7 @@ datatable: true
       <td>2024-12-20T12:49</td>
       <td>32</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902559/">3902559</a></td>
@@ -6754,7 +6754,7 @@ datatable: true
       <td>2024-12-25T17:03</td>
       <td>132</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902563/">3902563</a></td>
@@ -6765,7 +6765,7 @@ datatable: true
       <td>2024-12-26T19:47</td>
       <td>4</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902564/">3902564</a></td>
@@ -6776,7 +6776,7 @@ datatable: true
       <td>2023-09-29T02:14</td>
       <td>40</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902566/">3902566</a></td>
@@ -6787,7 +6787,7 @@ datatable: true
       <td>2024-07-05T23:55</td>
       <td>14</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902579/">3902579</a></td>
@@ -6798,7 +6798,7 @@ datatable: true
       <td>2024-12-07T18:39</td>
       <td>73</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902580/">3902580</a></td>
@@ -6809,7 +6809,7 @@ datatable: true
       <td>2024-12-20T21:49</td>
       <td>42</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902581/">3902581</a></td>
@@ -6820,7 +6820,7 @@ datatable: true
       <td>2024-12-26T13:28</td>
       <td>49</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902588/">3902588</a></td>
@@ -6831,7 +6831,7 @@ datatable: true
       <td>2024-12-22T00:11</td>
       <td>8</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902589/">3902589</a></td>
@@ -6842,7 +6842,7 @@ datatable: true
       <td>2024-12-20T15:58</td>
       <td>36</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902590/">3902590</a></td>
@@ -6853,7 +6853,7 @@ datatable: true
       <td>2024-12-23T08:57</td>
       <td>22</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902608/">3902608</a></td>
@@ -6864,7 +6864,7 @@ datatable: true
       <td>2024-12-21T15:00</td>
       <td>24</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902612/">3902612</a></td>
@@ -6875,7 +6875,7 @@ datatable: true
       <td>2024-12-17T21:24</td>
       <td>4</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902615/">3902615</a></td>
@@ -6886,7 +6886,7 @@ datatable: true
       <td>2025-01-30T13:12</td>
       <td>3</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3902626/">3902626</a></td>
@@ -6897,7 +6897,7 @@ datatable: true
       <td>2024-12-22T12:55</td>
       <td>14</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900093/">4900093</a></td>
@@ -6908,7 +6908,7 @@ datatable: true
       <td>2005-11-22T02:55</td>
       <td>112</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900320/">4900320</a></td>
@@ -6919,7 +6919,7 @@ datatable: true
       <td>2006-08-21T12:48</td>
       <td>114</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900345/">4900345</a></td>
@@ -6930,7 +6930,7 @@ datatable: true
       <td>2007-06-22T05:20</td>
       <td>221</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900474/">4900474</a></td>
@@ -6941,7 +6941,7 @@ datatable: true
       <td>2012-12-12T02:39</td>
       <td>153</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900475/">4900475</a></td>
@@ -6952,7 +6952,7 @@ datatable: true
       <td>2014-02-06T05:06</td>
       <td>250</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900476/">4900476</a></td>
@@ -6963,7 +6963,7 @@ datatable: true
       <td>2012-09-03T12:21</td>
       <td>199</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900477/">4900477</a></td>
@@ -6974,7 +6974,7 @@ datatable: true
       <td>2007-08-25T15:32</td>
       <td>19</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900480/">4900480</a></td>
@@ -6985,7 +6985,7 @@ datatable: true
       <td>2011-11-23T03:12</td>
       <td>181</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900481/">4900481</a></td>
@@ -6996,7 +6996,7 @@ datatable: true
       <td>2010-03-23T15:37</td>
       <td>117</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900482/">4900482</a></td>
@@ -7007,7 +7007,7 @@ datatable: true
       <td>2008-08-25T07:15</td>
       <td>54</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900483/">4900483</a></td>
@@ -7018,7 +7018,7 @@ datatable: true
       <td>2012-06-19T18:38</td>
       <td>191</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900484/">4900484</a></td>
@@ -7029,7 +7029,7 @@ datatable: true
       <td>2007-10-19T00:15</td>
       <td>15</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900485/">4900485</a></td>
@@ -7040,7 +7040,7 @@ datatable: true
       <td>2012-09-22T18:57</td>
       <td>199</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900487/">4900487</a></td>
@@ -7051,7 +7051,7 @@ datatable: true
       <td>2011-07-05T11:19</td>
       <td>156</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900494/">4900494</a></td>
@@ -7062,7 +7062,7 @@ datatable: true
       <td>2008-07-23T13:03</td>
       <td>152</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900497/">4900497</a></td>
@@ -7073,7 +7073,7 @@ datatable: true
       <td>2007-02-25T16:11</td>
       <td>103</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900523/">4900523</a></td>
@@ -7084,7 +7084,7 @@ datatable: true
       <td>2008-01-19T01:49</td>
       <td>124</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900524/">4900524</a></td>
@@ -7095,7 +7095,7 @@ datatable: true
       <td>2004-08-07T19:27</td>
       <td>6</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900607/">4900607</a></td>
@@ -7106,7 +7106,7 @@ datatable: true
       <td>2005-04-17T14:18</td>
       <td>82</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900608/">4900608</a></td>
@@ -7117,7 +7117,7 @@ datatable: true
       <td>2007-01-04T10:42</td>
       <td>121</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900609/">4900609</a></td>
@@ -7128,7 +7128,7 @@ datatable: true
       <td>2006-05-31T18:51</td>
       <td>90</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900610/">4900610</a></td>
@@ -7139,7 +7139,7 @@ datatable: true
       <td>2006-05-21T08:00</td>
       <td>86</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900611/">4900611</a></td>
@@ -7150,7 +7150,7 @@ datatable: true
       <td>2006-11-22T18:52</td>
       <td>114</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900627/">4900627</a></td>
@@ -7161,7 +7161,7 @@ datatable: true
       <td>2010-07-27T21:22</td>
       <td>172</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900637/">4900637</a></td>
@@ -7172,7 +7172,7 @@ datatable: true
       <td>2009-08-21T12:07</td>
       <td>164</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900651/">4900651</a></td>
@@ -7183,7 +7183,7 @@ datatable: true
       <td>2008-11-11T15:51</td>
       <td>120</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900652/">4900652</a></td>
@@ -7194,7 +7194,7 @@ datatable: true
       <td>2008-06-15T10:58</td>
       <td>105</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900845/">4900845</a></td>
@@ -7205,7 +7205,7 @@ datatable: true
       <td>2010-03-17T08:44</td>
       <td>191</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900856/">4900856</a></td>
@@ -7216,7 +7216,7 @@ datatable: true
       <td>2008-08-18T10:49</td>
       <td>11</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900869/">4900869</a></td>
@@ -7227,7 +7227,7 @@ datatable: true
       <td>2011-06-09T11:08</td>
       <td>179</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900870/">4900870</a></td>
@@ -7238,7 +7238,7 @@ datatable: true
       <td>2010-06-05T22:56</td>
       <td>134</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900871/">4900871</a></td>
@@ -7249,7 +7249,7 @@ datatable: true
       <td>2010-12-04T00:32</td>
       <td>160</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900872/">4900872</a></td>
@@ -7260,7 +7260,7 @@ datatable: true
       <td>2011-01-13T21:37</td>
       <td>163</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900873/">4900873</a></td>
@@ -7271,7 +7271,7 @@ datatable: true
       <td>2011-11-25T22:35</td>
       <td>194</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900874/">4900874</a></td>
@@ -7282,7 +7282,7 @@ datatable: true
       <td>2011-03-12T01:24</td>
       <td>168</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900879/">4900879</a></td>
@@ -7293,7 +7293,7 @@ datatable: true
       <td>2010-07-09T05:24</td>
       <td>149</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900880/">4900880</a></td>
@@ -7304,7 +7304,7 @@ datatable: true
       <td>2007-08-23T09:47</td>
       <td>45</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900881/">4900881</a></td>
@@ -7315,7 +7315,7 @@ datatable: true
       <td>2011-03-19T20:13</td>
       <td>159</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900882/">4900882</a></td>
@@ -7326,7 +7326,7 @@ datatable: true
       <td>2011-05-12T15:57</td>
       <td>167</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900883/">4900883</a></td>
@@ -7337,7 +7337,7 @@ datatable: true
       <td>2011-09-03T11:23</td>
       <td>173</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4900905/">4900905</a></td>
@@ -7348,7 +7348,7 @@ datatable: true
       <td>2009-01-23T18:53</td>
       <td>133</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901040/">4901040</a></td>
@@ -7359,7 +7359,7 @@ datatable: true
       <td>2009-01-07T00:08</td>
       <td>15</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901041/">4901041</a></td>
@@ -7370,7 +7370,7 @@ datatable: true
       <td>2008-10-08T20:42</td>
       <td>4</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901043/">4901043</a></td>
@@ -7381,7 +7381,7 @@ datatable: true
       <td>2013-04-14T07:59</td>
       <td>98</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901045/">4901045</a></td>
@@ -7392,7 +7392,7 @@ datatable: true
       <td>2011-07-04T22:32</td>
       <td>76</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901134/">4901134</a></td>
@@ -7403,7 +7403,7 @@ datatable: true
       <td>2012-07-31T14:51</td>
       <td>90</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901135/">4901135</a></td>
@@ -7414,7 +7414,7 @@ datatable: true
       <td>2012-05-09T07:00</td>
       <td>81</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901136/">4901136</a></td>
@@ -7425,7 +7425,7 @@ datatable: true
       <td>2014-07-08T08:26</td>
       <td>144</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901137/">4901137</a></td>
@@ -7436,7 +7436,7 @@ datatable: true
       <td>2013-09-12T14:46</td>
       <td>120</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901139/">4901139</a></td>
@@ -7447,7 +7447,7 @@ datatable: true
       <td>2013-10-21T16:49</td>
       <td>129</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901140/">4901140</a></td>
@@ -7458,7 +7458,7 @@ datatable: true
       <td>2014-06-12T02:35</td>
       <td>149</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901141/">4901141</a></td>
@@ -7469,7 +7469,7 @@ datatable: true
       <td>2011-03-15T06:40</td>
       <td>31</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901142/">4901142</a></td>
@@ -7480,7 +7480,7 @@ datatable: true
       <td>2012-08-05T17:49</td>
       <td>82</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901216/">4901216</a></td>
@@ -7491,7 +7491,7 @@ datatable: true
       <td>2017-10-15T07:53</td>
       <td>245</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901283/">4901283</a></td>
@@ -7502,7 +7502,7 @@ datatable: true
       <td>2015-02-10T08:44</td>
       <td>125</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901458/">4901458</a></td>
@@ -7513,7 +7513,7 @@ datatable: true
       <td>2013-07-11T08:56</td>
       <td>6</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901459/">4901459</a></td>
@@ -7524,7 +7524,7 @@ datatable: true
       <td>2013-10-19T08:46</td>
       <td>14</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901460/">4901460</a></td>
@@ -7535,7 +7535,7 @@ datatable: true
       <td>2013-08-21T08:22</td>
       <td>10</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901707/">4901707</a></td>
@@ -7546,7 +7546,7 @@ datatable: true
       <td>2016-11-19T11:17</td>
       <td>146</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901715/">4901715</a></td>
@@ -7557,7 +7557,7 @@ datatable: true
       <td>2015-04-30T18:48</td>
       <td>25</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901779/">4901779</a></td>
@@ -7568,7 +7568,7 @@ datatable: true
       <td>2021-05-22T13:42</td>
       <td>198</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901780/">4901780</a></td>
@@ -7579,7 +7579,7 @@ datatable: true
       <td>2018-09-25T14:44</td>
       <td>72</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901781/">4901781</a></td>
@@ -7590,7 +7590,7 @@ datatable: true
       <td>2015-05-19T15:56</td>
       <td>2</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901782/">4901782</a></td>
@@ -7601,7 +7601,7 @@ datatable: true
       <td>2016-11-19T03:53</td>
       <td>57</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901784/">4901784</a></td>
@@ -7612,7 +7612,7 @@ datatable: true
       <td>2021-11-30T10:50</td>
       <td>232</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901785/">4901785</a></td>
@@ -7623,7 +7623,7 @@ datatable: true
       <td>2015-10-23T11:54</td>
       <td>12</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901786/">4901786</a></td>
@@ -7634,7 +7634,7 @@ datatable: true
       <td>2018-11-12T12:44</td>
       <td>99</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901790/">4901790</a></td>
@@ -7645,7 +7645,7 @@ datatable: true
       <td>2018-06-10T10:46</td>
       <td>108</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901791/">4901791</a></td>
@@ -7656,7 +7656,7 @@ datatable: true
       <td>2016-01-25T11:47</td>
       <td>21</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901797/">4901797</a></td>
@@ -7678,7 +7678,7 @@ datatable: true
       <td>2017-05-25T09:58</td>
       <td>372</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901802/">4901802</a></td>
@@ -7689,7 +7689,7 @@ datatable: true
       <td>2016-10-31T15:26</td>
       <td>98</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901803/">4901803</a></td>
@@ -7700,7 +7700,7 @@ datatable: true
       <td>2016-10-31T15:22</td>
       <td>98</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901804/">4901804</a></td>
@@ -7711,7 +7711,7 @@ datatable: true
       <td>2017-07-29T16:12</td>
       <td>10</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901805/">4901805</a></td>
@@ -7722,7 +7722,7 @@ datatable: true
       <td>2018-08-09T15:36</td>
       <td>113</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901806/">4901806</a></td>
@@ -7733,7 +7733,7 @@ datatable: true
       <td>2019-09-02T15:32</td>
       <td>8</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4901816/">4901816</a></td>
@@ -7777,7 +7777,7 @@ datatable: true
       <td>2018-01-28T07:01</td>
       <td>64</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902384/">4902384</a></td>
@@ -7788,7 +7788,7 @@ datatable: true
       <td>2016-10-30T08:52</td>
       <td>17</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902386/">4902386</a></td>
@@ -7799,7 +7799,7 @@ datatable: true
       <td>2016-05-24T10:41</td>
       <td>2</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902390/">4902390</a></td>
@@ -7810,7 +7810,7 @@ datatable: true
       <td>2018-01-27T10:44</td>
       <td>15</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902392/">4902392</a></td>
@@ -7887,7 +7887,7 @@ datatable: true
       <td>2023-06-15T04:46</td>
       <td>200</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902410/">4902410</a></td>
@@ -7898,7 +7898,7 @@ datatable: true
       <td>2021-06-05T10:22</td>
       <td>126</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902411/">4902411</a></td>
@@ -7920,7 +7920,7 @@ datatable: true
       <td>2020-10-10T03:58</td>
       <td>121</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902434/">4902434</a></td>
@@ -7942,7 +7942,7 @@ datatable: true
       <td>2024-10-15T15:57</td>
       <td>243</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE412 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE665 CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902438/">4902438</a></td>
@@ -8250,7 +8250,7 @@ datatable: true
       <td>2020-05-16T05:29</td>
       <td>35</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902481/">4902481</a></td>
@@ -8261,7 +8261,7 @@ datatable: true
       <td>2024-09-09T14:17</td>
       <td>185</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902482/">4902482</a></td>
@@ -8910,7 +8910,7 @@ datatable: true
       <td>2024-01-10T22:52</td>
       <td>118</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902550/">4902550</a></td>
@@ -8921,7 +8921,7 @@ datatable: true
       <td>2024-01-13T23:05</td>
       <td>103</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902551/">4902551</a></td>
@@ -8932,7 +8932,7 @@ datatable: true
       <td>2024-01-11T11:17</td>
       <td>120</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902552/">4902552</a></td>
@@ -8943,7 +8943,7 @@ datatable: true
       <td>2024-11-13T04:52</td>
       <td>106</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902553/">4902553</a></td>
@@ -8954,7 +8954,7 @@ datatable: true
       <td>2024-01-12T23:01</td>
       <td>105</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902554/">4902554</a></td>
@@ -8965,7 +8965,7 @@ datatable: true
       <td>2024-04-27T00:52</td>
       <td>102</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902555/">4902555</a></td>
@@ -8976,7 +8976,7 @@ datatable: true
       <td>2024-01-05T19:05</td>
       <td>98</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902560/">4902560</a></td>
@@ -9130,7 +9130,7 @@ datatable: true
       <td>2024-01-16T14:05</td>
       <td>62</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902577/">4902577</a></td>
@@ -9141,7 +9141,7 @@ datatable: true
       <td>2024-01-16T13:59</td>
       <td>61</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902578/">4902578</a></td>
@@ -9152,7 +9152,7 @@ datatable: true
       <td>2024-01-18T13:13</td>
       <td>57</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902579/">4902579</a></td>
@@ -9163,7 +9163,7 @@ datatable: true
       <td>2024-01-22T18:15</td>
       <td>59</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902580/">4902580</a></td>
@@ -9174,7 +9174,7 @@ datatable: true
       <td>2024-01-18T18:14</td>
       <td>58</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902581/">4902581</a></td>
@@ -9185,7 +9185,7 @@ datatable: true
       <td>2022-05-21T06:14</td>
       <td>1</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902582/">4902582</a></td>
@@ -9196,7 +9196,7 @@ datatable: true
       <td>2024-01-14T04:06</td>
       <td>61</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902583/">4902583</a></td>
@@ -9207,7 +9207,7 @@ datatable: true
       <td>2024-01-19T18:20</td>
       <td>66</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902584/">4902584</a></td>
@@ -9218,7 +9218,7 @@ datatable: true
       <td>2024-01-14T03:16</td>
       <td>65</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902585/">4902585</a></td>
@@ -9229,7 +9229,7 @@ datatable: true
       <td>2024-01-19T18:07</td>
       <td>64</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902586/">4902586</a></td>
@@ -9240,7 +9240,7 @@ datatable: true
       <td>2024-01-14T03:12</td>
       <td>64</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902587/">4902587</a></td>
@@ -9251,7 +9251,7 @@ datatable: true
       <td>2024-01-18T09:23</td>
       <td>64</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902588/">4902588</a></td>
@@ -9262,7 +9262,7 @@ datatable: true
       <td>2024-01-17T18:14</td>
       <td>64</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902589/">4902589</a></td>
@@ -9273,7 +9273,7 @@ datatable: true
       <td>2024-01-14T03:14</td>
       <td>65</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902592/">4902592</a></td>
@@ -9317,7 +9317,7 @@ datatable: true
       <td>2024-12-13T11:22</td>
       <td>81</td>
       <td>PSAL TEMP DOXY CHLA BBP700</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902597/">4902597</a></td>
@@ -9328,7 +9328,7 @@ datatable: true
       <td>2024-12-14T06:38</td>
       <td>83</td>
       <td>PSAL TEMP DOXY CHLA BBP700</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902598/">4902598</a></td>
@@ -9339,7 +9339,7 @@ datatable: true
       <td>2024-12-10T00:43</td>
       <td>80</td>
       <td>PSAL TEMP DOXY CHLA BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902599/">4902599</a></td>
@@ -9350,7 +9350,7 @@ datatable: true
       <td>2024-12-24T04:41</td>
       <td>80</td>
       <td>PSAL TEMP DOXY CHLA BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902600/">4902600</a></td>
@@ -9361,7 +9361,7 @@ datatable: true
       <td>2024-12-24T20:37</td>
       <td>47</td>
       <td>PSAL TEMP DOXY CHLA BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902601/">4902601</a></td>
@@ -9372,7 +9372,7 @@ datatable: true
       <td>2024-12-26T03:35</td>
       <td>46</td>
       <td>PSAL TEMP DOXY CHLA BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902602/">4902602</a></td>
@@ -9383,7 +9383,7 @@ datatable: true
       <td>2023-08-25T10:27</td>
       <td>248</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902612/">4902612</a></td>
@@ -9394,7 +9394,7 @@ datatable: true
       <td>2024-12-19T21:10</td>
       <td>88</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902613/">4902613</a></td>
@@ -9405,7 +9405,7 @@ datatable: true
       <td>2024-12-23T10:06</td>
       <td>82</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902614/">4902614</a></td>
@@ -9416,7 +9416,7 @@ datatable: true
       <td>2024-12-19T23:14</td>
       <td>59</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902615/">4902615</a></td>
@@ -9427,7 +9427,7 @@ datatable: true
       <td>2024-12-25T19:06</td>
       <td>19</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902616/">4902616</a></td>
@@ -9438,7 +9438,7 @@ datatable: true
       <td>2024-12-23T04:12</td>
       <td>90</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902620/">4902620</a></td>
@@ -9449,7 +9449,7 @@ datatable: true
       <td>2024-12-24T04:46</td>
       <td>160</td>
       <td>PSAL TEMP DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902622/">4902622</a></td>
@@ -9460,7 +9460,7 @@ datatable: true
       <td>2024-12-26T11:21</td>
       <td>26</td>
       <td>PSAL TEMP DOXY CHLA BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902623/">4902623</a></td>
@@ -9471,7 +9471,7 @@ datatable: true
       <td>2024-12-27T04:27</td>
       <td>159</td>
       <td>PSAL TEMP DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902624/">4902624</a></td>
@@ -9482,7 +9482,7 @@ datatable: true
       <td>2024-12-18T13:32</td>
       <td>34</td>
       <td>PSAL TEMP DOXY CHLA BBP700</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902625/">4902625</a></td>
@@ -9493,7 +9493,7 @@ datatable: true
       <td>2024-12-20T08:23</td>
       <td>33</td>
       <td>PSAL TEMP DOXY CHLA BBP700</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902626/">4902626</a></td>
@@ -9504,7 +9504,7 @@ datatable: true
       <td>2024-12-15T05:52</td>
       <td>160</td>
       <td>PSAL TEMP DOXY CHLA BBP700 PH_IN_SITU_TOTAL</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902627/">4902627</a></td>
@@ -9515,7 +9515,7 @@ datatable: true
       <td>2024-12-18T21:27</td>
       <td>84</td>
       <td>PSAL TEMP DOXY PH_IN_SITU_TOTAL CHLA BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902628/">4902628</a></td>
@@ -9526,7 +9526,7 @@ datatable: true
       <td>2024-12-21T14:22</td>
       <td>146</td>
       <td>PSAL TEMP DOXY CHLA BBP700 PH_IN_SITU_TOTAL</td>
-      <td>I, A</td>
+      <td>Indian, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902630/">4902630</a></td>
@@ -9537,7 +9537,7 @@ datatable: true
       <td>2023-08-26T15:31</td>
       <td>117</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902631/">4902631</a></td>
@@ -9548,7 +9548,7 @@ datatable: true
       <td>2024-12-23T13:44</td>
       <td>21</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902633/">4902633</a></td>
@@ -9559,7 +9559,7 @@ datatable: true
       <td>2024-12-19T14:35</td>
       <td>58</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902634/">4902634</a></td>
@@ -9570,7 +9570,7 @@ datatable: true
       <td>2024-12-27T07:45</td>
       <td>60</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902635/">4902635</a></td>
@@ -9581,7 +9581,7 @@ datatable: true
       <td>2024-12-22T06:33</td>
       <td>54</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902636/">4902636</a></td>
@@ -9592,7 +9592,7 @@ datatable: true
       <td>2024-12-22T23:23</td>
       <td>54</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902637/">4902637</a></td>
@@ -9603,7 +9603,7 @@ datatable: true
       <td>2024-12-24T08:44</td>
       <td>54</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902638/">4902638</a></td>
@@ -9614,7 +9614,7 @@ datatable: true
       <td>2024-12-10T14:00</td>
       <td>30</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902639/">4902639</a></td>
@@ -9625,7 +9625,7 @@ datatable: true
       <td>2024-12-10T11:07</td>
       <td>31</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902640/">4902640</a></td>
@@ -9636,7 +9636,7 @@ datatable: true
       <td>2024-12-18T13:33</td>
       <td>10</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902641/">4902641</a></td>
@@ -9647,7 +9647,7 @@ datatable: true
       <td>2024-12-17T13:25</td>
       <td>10</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902642/">4902642</a></td>
@@ -9658,7 +9658,7 @@ datatable: true
       <td>2024-12-17T12:03</td>
       <td>16</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902643/">4902643</a></td>
@@ -9669,7 +9669,7 @@ datatable: true
       <td>2024-12-18T09:25</td>
       <td>16</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902644/">4902644</a></td>
@@ -9680,7 +9680,7 @@ datatable: true
       <td>2024-09-29T13:25</td>
       <td>9</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902650/">4902650</a></td>
@@ -9691,7 +9691,7 @@ datatable: true
       <td>2023-12-16T05:15</td>
       <td>19</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902652/">4902652</a></td>
@@ -9702,7 +9702,7 @@ datatable: true
       <td>2024-01-26T01:06</td>
       <td>22</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902660/">4902660</a></td>
@@ -9713,7 +9713,7 @@ datatable: true
       <td>2024-01-18T19:54</td>
       <td>12</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902662/">4902662</a></td>
@@ -9724,7 +9724,7 @@ datatable: true
       <td>2024-01-20T17:16</td>
       <td>15</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902663/">4902663</a></td>
@@ -9735,7 +9735,7 @@ datatable: true
       <td>2024-10-01T15:17</td>
       <td>43</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902674/">4902674</a></td>
@@ -9746,7 +9746,7 @@ datatable: true
       <td>2024-12-24T10:31</td>
       <td>8</td>
       <td>PSAL TEMP DOXY CHLA BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902675/">4902675</a></td>
@@ -9757,7 +9757,7 @@ datatable: true
       <td>2024-12-24T19:32</td>
       <td>19</td>
       <td>PSAL TEMP DOXY CHLA BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902676/">4902676</a></td>
@@ -9768,7 +9768,7 @@ datatable: true
       <td>2024-12-24T20:28</td>
       <td>22</td>
       <td>PSAL TEMP DOXY CHLA BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902677/">4902677</a></td>
@@ -9779,7 +9779,7 @@ datatable: true
       <td>2024-12-22T03:09</td>
       <td>19</td>
       <td>PSAL TEMP DOXY CHLA BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902678/">4902678</a></td>
@@ -9790,7 +9790,7 @@ datatable: true
       <td>2024-12-26T03:32</td>
       <td>6</td>
       <td>PSAL TEMP DOXY CHLA BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902679/">4902679</a></td>
@@ -9801,7 +9801,7 @@ datatable: true
       <td>2024-12-13T05:34</td>
       <td>258</td>
       <td>PSAL TEMP DOXY CHLA BBP700 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902680/">4902680</a></td>
@@ -9812,7 +9812,7 @@ datatable: true
       <td>2024-12-17T19:35</td>
       <td>23</td>
       <td>PSAL TEMP DOXY CHLA BBP700</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902684/">4902684</a></td>
@@ -9823,7 +9823,7 @@ datatable: true
       <td>2024-12-24T08:31</td>
       <td>93</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902685/">4902685</a></td>
@@ -9834,7 +9834,7 @@ datatable: true
       <td>2024-12-21T20:31</td>
       <td>88</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902686/">4902686</a></td>
@@ -9845,7 +9845,7 @@ datatable: true
       <td>2024-12-26T03:42</td>
       <td>98</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902687/">4902687</a></td>
@@ -9856,7 +9856,7 @@ datatable: true
       <td>2024-12-15T18:48</td>
       <td>84</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902688/">4902688</a></td>
@@ -9867,7 +9867,7 @@ datatable: true
       <td>2024-12-23T15:31</td>
       <td>74</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902990/">4902990</a></td>
@@ -9878,7 +9878,7 @@ datatable: true
       <td>2021-08-21T07:42</td>
       <td>11</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903026/">4903026</a></td>
@@ -9889,7 +9889,7 @@ datatable: true
       <td>2024-12-14T20:48</td>
       <td>387</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL CHLA BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE CHLA_FLUORESCENCE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903273/">4903273</a></td>
@@ -9900,7 +9900,7 @@ datatable: true
       <td>2024-12-17T06:08</td>
       <td>126</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903274/">4903274</a></td>
@@ -9911,7 +9911,7 @@ datatable: true
       <td>2024-12-24T06:49</td>
       <td>135</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903365/">4903365</a></td>
@@ -9922,7 +9922,7 @@ datatable: true
       <td>2024-12-25T13:25</td>
       <td>124</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903456/">4903456</a></td>
@@ -9933,7 +9933,7 @@ datatable: true
       <td>2024-12-20T02:46</td>
       <td>84</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903457/">4903457</a></td>
@@ -9944,7 +9944,7 @@ datatable: true
       <td>2024-08-28T20:27</td>
       <td>4</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903458/">4903458</a></td>
@@ -9955,7 +9955,7 @@ datatable: true
       <td>2024-12-25T21:12</td>
       <td>81</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903459/">4903459</a></td>
@@ -9966,7 +9966,7 @@ datatable: true
       <td>2024-12-17T23:21</td>
       <td>78</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903462/">4903462</a></td>
@@ -9977,7 +9977,7 @@ datatable: true
       <td>2024-12-06T15:53</td>
       <td>77</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903463/">4903463</a></td>
@@ -9988,7 +9988,7 @@ datatable: true
       <td>2024-12-18T05:08</td>
       <td>77</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903485/">4903485</a></td>
@@ -9999,7 +9999,7 @@ datatable: true
       <td>2024-12-20T03:29</td>
       <td>62</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903486/">4903486</a></td>
@@ -10010,7 +10010,7 @@ datatable: true
       <td>2024-12-16T14:59</td>
       <td>65</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903487/">4903487</a></td>
@@ -10021,7 +10021,7 @@ datatable: true
       <td>2024-12-16T16:35</td>
       <td>64</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903488/">4903488</a></td>
@@ -10032,7 +10032,7 @@ datatable: true
       <td>2024-12-22T10:34</td>
       <td>61</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903489/">4903489</a></td>
@@ -10043,7 +10043,7 @@ datatable: true
       <td>2024-12-19T10:44</td>
       <td>66</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903499/">4903499</a></td>
@@ -10054,7 +10054,7 @@ datatable: true
       <td>2024-12-25T09:00</td>
       <td>85</td>
       <td>TEMP PSAL DOXY BBP700 CHLA CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903500/">4903500</a></td>
@@ -10065,7 +10065,7 @@ datatable: true
       <td>2024-12-17T03:02</td>
       <td>84</td>
       <td>TEMP PSAL DOXY BBP700 CHLA CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903532/">4903532</a></td>
@@ -10076,7 +10076,7 @@ datatable: true
       <td>2024-12-24T05:58</td>
       <td>60</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903533/">4903533</a></td>
@@ -10087,7 +10087,7 @@ datatable: true
       <td>2024-12-16T16:32</td>
       <td>61</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903570/">4903570</a></td>
@@ -10098,7 +10098,7 @@ datatable: true
       <td>2024-12-18T09:27</td>
       <td>37</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903571/">4903571</a></td>
@@ -10109,7 +10109,7 @@ datatable: true
       <td>2024-12-26T06:05</td>
       <td>29</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903587/">4903587</a></td>
@@ -10120,7 +10120,7 @@ datatable: true
       <td>2024-12-21T20:00</td>
       <td>113</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903590/">4903590</a></td>
@@ -10131,7 +10131,7 @@ datatable: true
       <td>2024-12-05T05:49</td>
       <td>106</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903591/">4903591</a></td>
@@ -10142,7 +10142,7 @@ datatable: true
       <td>2024-12-25T22:54</td>
       <td>110</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903614/">4903614</a></td>
@@ -10153,7 +10153,7 @@ datatable: true
       <td>2024-12-25T15:16</td>
       <td>19</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903615/">4903615</a></td>
@@ -10164,7 +10164,7 @@ datatable: true
       <td>2024-12-25T14:24</td>
       <td>16</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903622/">4903622</a></td>
@@ -10175,7 +10175,7 @@ datatable: true
       <td>2024-12-16T22:30</td>
       <td>116</td>
       <td>TEMP PSAL DOXY BBP700 CHLA PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903624/">4903624</a></td>
@@ -10186,7 +10186,7 @@ datatable: true
       <td>2023-12-07T00:18</td>
       <td>95</td>
       <td>TEMP PSAL DOXY BBP700 CHLA PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903625/">4903625</a></td>
@@ -10197,7 +10197,7 @@ datatable: true
       <td>2022-06-18T01:17</td>
       <td>30</td>
       <td>TEMP PSAL DOXY BBP700 CHLA PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903634/">4903634</a></td>
@@ -10208,7 +10208,7 @@ datatable: true
       <td>2024-12-22T14:19</td>
       <td>101</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660 DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903641/">4903641</a></td>
@@ -10219,7 +10219,7 @@ datatable: true
       <td>2024-09-18T16:53</td>
       <td>46</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903643/">4903643</a></td>
@@ -10230,7 +10230,7 @@ datatable: true
       <td>2024-12-19T13:36</td>
       <td>256</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903657/">4903657</a></td>
@@ -10241,7 +10241,7 @@ datatable: true
       <td>2024-08-19T07:39</td>
       <td>65</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660 DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903658/">4903658</a></td>
@@ -10252,7 +10252,7 @@ datatable: true
       <td>2024-12-23T04:33</td>
       <td>86</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CP660 DOXY PH_IN_SITU_TOTAL</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903659/">4903659</a></td>
@@ -10263,7 +10263,7 @@ datatable: true
       <td>2024-12-25T11:38</td>
       <td>66</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CP660 DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903660/">4903660</a></td>
@@ -10274,7 +10274,7 @@ datatable: true
       <td>2024-12-24T06:59</td>
       <td>81</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CP660 DOXY PH_IN_SITU_TOTAL</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903661/">4903661</a></td>
@@ -10285,7 +10285,7 @@ datatable: true
       <td>2024-12-26T06:42</td>
       <td>151</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903662/">4903662</a></td>
@@ -10296,7 +10296,7 @@ datatable: true
       <td>2024-12-18T15:20</td>
       <td>110</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP700 CDOM PH_IN_SITU_TOTAL NITRATE CHLA_FLUORESCENCE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903668/">4903668</a></td>
@@ -10307,7 +10307,7 @@ datatable: true
       <td>2024-12-26T11:22</td>
       <td>64</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903672/">4903672</a></td>
@@ -10318,7 +10318,7 @@ datatable: true
       <td>2024-12-23T18:13</td>
       <td>57</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903679/">4903679</a></td>
@@ -10329,7 +10329,7 @@ datatable: true
       <td>2024-12-26T17:53</td>
       <td>79</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903711/">4903711</a></td>
@@ -10340,7 +10340,7 @@ datatable: true
       <td>2024-12-17T11:39</td>
       <td>120</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE BISULFIDE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903714/">4903714</a></td>
@@ -10351,7 +10351,7 @@ datatable: true
       <td>2023-09-27T21:15</td>
       <td>34</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903739/">4903739</a></td>
@@ -10362,7 +10362,7 @@ datatable: true
       <td>2024-12-23T06:52</td>
       <td>77</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CP660 DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903740/">4903740</a></td>
@@ -10373,7 +10373,7 @@ datatable: true
       <td>2024-12-21T20:17</td>
       <td>91</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CP660 DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903744/">4903744</a></td>
@@ -10384,7 +10384,7 @@ datatable: true
       <td>2024-12-25T14:41</td>
       <td>45</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903745/">4903745</a></td>
@@ -10395,7 +10395,7 @@ datatable: true
       <td>2024-12-26T15:19</td>
       <td>50</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903747/">4903747</a></td>
@@ -10406,7 +10406,7 @@ datatable: true
       <td>2024-12-25T01:46</td>
       <td>48</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903748/">4903748</a></td>
@@ -10417,7 +10417,7 @@ datatable: true
       <td>2024-12-19T16:52</td>
       <td>41</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903750/">4903750</a></td>
@@ -10428,7 +10428,7 @@ datatable: true
       <td>2024-12-22T06:51</td>
       <td>29</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903751/">4903751</a></td>
@@ -10439,7 +10439,7 @@ datatable: true
       <td>2024-12-16T20:16</td>
       <td>27</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903752/">4903752</a></td>
@@ -10450,7 +10450,7 @@ datatable: true
       <td>2024-12-17T03:14</td>
       <td>25</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903755/">4903755</a></td>
@@ -10461,7 +10461,7 @@ datatable: true
       <td>2024-12-19T19:41</td>
       <td>25</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903756/">4903756</a></td>
@@ -10472,7 +10472,7 @@ datatable: true
       <td>2024-05-21T12:19</td>
       <td>4</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903757/">4903757</a></td>
@@ -10483,7 +10483,7 @@ datatable: true
       <td>2024-12-18T01:17</td>
       <td>24</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903759/">4903759</a></td>
@@ -10494,7 +10494,7 @@ datatable: true
       <td>2024-12-24T11:29</td>
       <td>4</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903760/">4903760</a></td>
@@ -10505,7 +10505,7 @@ datatable: true
       <td>2024-12-18T16:43</td>
       <td>56</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903763/">4903763</a></td>
@@ -10516,7 +10516,7 @@ datatable: true
       <td>2024-12-24T20:42</td>
       <td>16</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903774/">4903774</a></td>
@@ -10527,7 +10527,7 @@ datatable: true
       <td>2024-11-08T15:29</td>
       <td>86</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CP660 DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903782/">4903782</a></td>
@@ -10538,7 +10538,7 @@ datatable: true
       <td>2024-12-27T03:43</td>
       <td>113</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903783/">4903783</a></td>
@@ -10549,7 +10549,7 @@ datatable: true
       <td>2024-12-26T13:17</td>
       <td>34</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903784/">4903784</a></td>
@@ -10560,7 +10560,7 @@ datatable: true
       <td>2024-12-23T11:41</td>
       <td>254</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903797/">4903797</a></td>
@@ -10571,7 +10571,7 @@ datatable: true
       <td>2024-12-24T13:14</td>
       <td>39</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903798/">4903798</a></td>
@@ -10582,7 +10582,7 @@ datatable: true
       <td>2024-12-25T11:17</td>
       <td>100</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903817/">4903817</a></td>
@@ -10593,7 +10593,7 @@ datatable: true
       <td>2024-12-26T14:00</td>
       <td>19</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903818/">4903818</a></td>
@@ -10604,7 +10604,7 @@ datatable: true
       <td>2024-12-22T05:48</td>
       <td>13</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903830/">4903830</a></td>
@@ -10615,7 +10615,7 @@ datatable: true
       <td>2025-01-31T14:30</td>
       <td>3</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5900245/">5900245</a></td>
@@ -10626,7 +10626,7 @@ datatable: true
       <td>2006-01-04T22:59</td>
       <td>104</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5900345/">5900345</a></td>
@@ -10637,7 +10637,7 @@ datatable: true
       <td>2006-08-25T04:34</td>
       <td>42</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5900420/">5900420</a></td>
@@ -10648,7 +10648,7 @@ datatable: true
       <td>2006-07-19T23:21</td>
       <td>104</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5900421/">5900421</a></td>
@@ -10659,7 +10659,7 @@ datatable: true
       <td>2005-08-10T23:11</td>
       <td>72</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5900422/">5900422</a></td>
@@ -10670,7 +10670,7 @@ datatable: true
       <td>2005-12-06T02:14</td>
       <td>69</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5900588/">5900588</a></td>
@@ -10681,7 +10681,7 @@ datatable: true
       <td>2004-12-01T15:28</td>
       <td>17</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5900841/">5900841</a></td>
@@ -10692,7 +10692,7 @@ datatable: true
       <td>2013-04-23T23:35</td>
       <td>299</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5900952/">5900952</a></td>
@@ -10703,7 +10703,7 @@ datatable: true
       <td>2009-03-30T13:40</td>
       <td>251</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5900958/">5900958</a></td>
@@ -10714,7 +10714,7 @@ datatable: true
       <td>2005-08-17T13:23</td>
       <td>3</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5900961/">5900961</a></td>
@@ -10725,7 +10725,7 @@ datatable: true
       <td>2010-06-05T06:19</td>
       <td>347</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5900965/">5900965</a></td>
@@ -10736,7 +10736,7 @@ datatable: true
       <td>2011-03-20T16:06</td>
       <td>256</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5900966/">5900966</a></td>
@@ -10747,7 +10747,7 @@ datatable: true
       <td>2010-07-11T02:26</td>
       <td>224</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901042/">5901042</a></td>
@@ -10758,7 +10758,7 @@ datatable: true
       <td>2010-08-25T15:58</td>
       <td>229</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901043/">5901043</a></td>
@@ -10769,7 +10769,7 @@ datatable: true
       <td>2010-10-20T06:55</td>
       <td>237</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901044/">5901044</a></td>
@@ -10780,7 +10780,7 @@ datatable: true
       <td>2010-07-12T21:14</td>
       <td>224</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901045/">5901045</a></td>
@@ -10791,7 +10791,7 @@ datatable: true
       <td>2011-04-30T05:47</td>
       <td>261</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901046/">5901046</a></td>
@@ -10802,7 +10802,7 @@ datatable: true
       <td>2011-03-31T01:28</td>
       <td>257</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901047/">5901047</a></td>
@@ -10813,7 +10813,7 @@ datatable: true
       <td>2010-09-21T04:02</td>
       <td>233</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901048/">5901048</a></td>
@@ -10824,7 +10824,7 @@ datatable: true
       <td>2010-10-15T11:14</td>
       <td>236</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901049/">5901049</a></td>
@@ -10835,7 +10835,7 @@ datatable: true
       <td>2011-04-09T02:46</td>
       <td>258</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901050/">5901050</a></td>
@@ -10846,7 +10846,7 @@ datatable: true
       <td>2010-11-23T21:27</td>
       <td>241</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901051/">5901051</a></td>
@@ -10857,7 +10857,7 @@ datatable: true
       <td>2011-06-18T05:18</td>
       <td>267</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901052/">5901052</a></td>
@@ -10868,7 +10868,7 @@ datatable: true
       <td>2011-06-19T13:22</td>
       <td>267</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901053/">5901053</a></td>
@@ -10879,7 +10879,7 @@ datatable: true
       <td>2010-07-25T20:25</td>
       <td>225</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901054/">5901054</a></td>
@@ -10890,7 +10890,7 @@ datatable: true
       <td>2011-02-11T06:38</td>
       <td>250</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901069/">5901069</a></td>
@@ -10901,7 +10901,7 @@ datatable: true
       <td>2011-03-15T22:25</td>
       <td>355</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901071/">5901071</a></td>
@@ -10912,7 +10912,7 @@ datatable: true
       <td>2009-03-18T00:57</td>
       <td>205</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901072/">5901072</a></td>
@@ -10923,7 +10923,7 @@ datatable: true
       <td>2012-05-19T07:33</td>
       <td>292</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901073/">5901073</a></td>
@@ -10934,7 +10934,7 @@ datatable: true
       <td>2008-02-12T20:19</td>
       <td>124</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901165/">5901165</a></td>
@@ -10945,7 +10945,7 @@ datatable: true
       <td>2007-04-30T23:20</td>
       <td>21</td>
       <td>TEMP PSAL DOXY CP660</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901178/">5901178</a></td>
@@ -10956,7 +10956,7 @@ datatable: true
       <td>2012-09-25T07:09</td>
       <td>213</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901187/">5901187</a></td>
@@ -10967,7 +10967,7 @@ datatable: true
       <td>2013-12-22T17:08</td>
       <td>252</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901188/">5901188</a></td>
@@ -10978,7 +10978,7 @@ datatable: true
       <td>2013-07-04T14:42</td>
       <td>220</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901310/">5901310</a></td>
@@ -10989,7 +10989,7 @@ datatable: true
       <td>2011-08-08T19:43</td>
       <td>155</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901311/">5901311</a></td>
@@ -11000,7 +11000,7 @@ datatable: true
       <td>2012-10-25T13:19</td>
       <td>229</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901313/">5901313</a></td>
@@ -11011,7 +11011,7 @@ datatable: true
       <td>2011-10-11T16:43</td>
       <td>182</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901314/">5901314</a></td>
@@ -11022,7 +11022,7 @@ datatable: true
       <td>2013-05-20T19:28</td>
       <td>246</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901315/">5901315</a></td>
@@ -11033,7 +11033,7 @@ datatable: true
       <td>2009-09-23T03:18</td>
       <td>108</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901316/">5901316</a></td>
@@ -11044,7 +11044,7 @@ datatable: true
       <td>2013-01-23T09:00</td>
       <td>252</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901317/">5901317</a></td>
@@ -11055,7 +11055,7 @@ datatable: true
       <td>2007-06-05T08:09</td>
       <td>25</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901336/">5901336</a></td>
@@ -11066,7 +11066,7 @@ datatable: true
       <td>2010-12-14T04:20</td>
       <td>156</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901337/">5901337</a></td>
@@ -11077,7 +11077,7 @@ datatable: true
       <td>2008-07-24T22:35</td>
       <td>75</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901338/">5901338</a></td>
@@ -11088,7 +11088,7 @@ datatable: true
       <td>2007-07-13T20:44</td>
       <td>33</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901339/">5901339</a></td>
@@ -11099,7 +11099,7 @@ datatable: true
       <td>2011-05-17T03:25</td>
       <td>171</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901369/">5901369</a></td>
@@ -11110,7 +11110,7 @@ datatable: true
       <td>2011-02-07T12:42</td>
       <td>137</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901370/">5901370</a></td>
@@ -11121,7 +11121,7 @@ datatable: true
       <td>2008-12-06T00:53</td>
       <td>60</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901372/">5901372</a></td>
@@ -11132,7 +11132,7 @@ datatable: true
       <td>2012-12-16T16:03</td>
       <td>213</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901373/">5901373</a></td>
@@ -11143,7 +11143,7 @@ datatable: true
       <td>2012-09-08T20:05</td>
       <td>177</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901443/">5901443</a></td>
@@ -11154,7 +11154,7 @@ datatable: true
       <td>2007-11-13T17:23</td>
       <td>8</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901444/">5901444</a></td>
@@ -11165,7 +11165,7 @@ datatable: true
       <td>2011-08-26T20:00</td>
       <td>205</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901445/">5901445</a></td>
@@ -11176,7 +11176,7 @@ datatable: true
       <td>2012-01-22T11:09</td>
       <td>197</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901446/">5901446</a></td>
@@ -11187,7 +11187,7 @@ datatable: true
       <td>2011-08-07T09:47</td>
       <td>202</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901447/">5901447</a></td>
@@ -11198,7 +11198,7 @@ datatable: true
       <td>2011-05-19T00:51</td>
       <td>189</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901448/">5901448</a></td>
@@ -11209,7 +11209,7 @@ datatable: true
       <td>2011-07-21T15:10</td>
       <td>202</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901449/">5901449</a></td>
@@ -11220,7 +11220,7 @@ datatable: true
       <td>2011-09-23T07:32</td>
       <td>207</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901450/">5901450</a></td>
@@ -11231,7 +11231,7 @@ datatable: true
       <td>2010-07-17T13:03</td>
       <td>145</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901451/">5901451</a></td>
@@ -11242,7 +11242,7 @@ datatable: true
       <td>2011-11-04T08:26</td>
       <td>214</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901452/">5901452</a></td>
@@ -11253,7 +11253,7 @@ datatable: true
       <td>2011-04-17T00:26</td>
       <td>185</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901453/">5901453</a></td>
@@ -11264,7 +11264,7 @@ datatable: true
       <td>2008-12-02T01:07</td>
       <td>63</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901454/">5901454</a></td>
@@ -11275,7 +11275,7 @@ datatable: true
       <td>2011-08-25T19:25</td>
       <td>204</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901455/">5901455</a></td>
@@ -11286,7 +11286,7 @@ datatable: true
       <td>2011-08-26T20:06</td>
       <td>204</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901456/">5901456</a></td>
@@ -11297,7 +11297,7 @@ datatable: true
       <td>2011-07-22T04:23</td>
       <td>198</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901457/">5901457</a></td>
@@ -11308,7 +11308,7 @@ datatable: true
       <td>2013-12-29T23:33</td>
       <td>217</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901458/">5901458</a></td>
@@ -11319,7 +11319,7 @@ datatable: true
       <td>2013-10-17T22:23</td>
       <td>211</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901459/">5901459</a></td>
@@ -11330,7 +11330,7 @@ datatable: true
       <td>2012-01-05T10:15</td>
       <td>148</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901460/">5901460</a></td>
@@ -11341,7 +11341,7 @@ datatable: true
       <td>2014-06-25T05:47</td>
       <td>234</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901461/">5901461</a></td>
@@ -11352,7 +11352,7 @@ datatable: true
       <td>2013-07-19T09:48</td>
       <td>201</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901462/">5901462</a></td>
@@ -11363,7 +11363,7 @@ datatable: true
       <td>2013-03-26T17:47</td>
       <td>191</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901463/">5901463</a></td>
@@ -11374,7 +11374,7 @@ datatable: true
       <td>2011-03-15T13:57</td>
       <td>111</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901464/">5901464</a></td>
@@ -11385,7 +11385,7 @@ datatable: true
       <td>2013-10-05T08:22</td>
       <td>210</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901465/">5901465</a></td>
@@ -11396,7 +11396,7 @@ datatable: true
       <td>2013-09-18T06:09</td>
       <td>209</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901466/">5901466</a></td>
@@ -11407,7 +11407,7 @@ datatable: true
       <td>2013-10-12T09:13</td>
       <td>211</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901467/">5901467</a></td>
@@ -11418,7 +11418,7 @@ datatable: true
       <td>2010-07-18T03:07</td>
       <td>96</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901468/">5901468</a></td>
@@ -11429,7 +11429,7 @@ datatable: true
       <td>2011-10-22T08:34</td>
       <td>239</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901491/">5901491</a></td>
@@ -11440,7 +11440,7 @@ datatable: true
       <td>2012-02-17T07:57</td>
       <td>278</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901492/">5901492</a></td>
@@ -11451,7 +11451,7 @@ datatable: true
       <td>2011-04-14T15:14</td>
       <td>229</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901644/">5901644</a></td>
@@ -11462,7 +11462,7 @@ datatable: true
       <td>2013-10-17T06:33</td>
       <td>214</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901645/">5901645</a></td>
@@ -11473,7 +11473,7 @@ datatable: true
       <td>2016-10-03T05:39</td>
       <td>320</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901646/">5901646</a></td>
@@ -11484,7 +11484,7 @@ datatable: true
       <td>2015-04-22T14:53</td>
       <td>267</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901647/">5901647</a></td>
@@ -11495,7 +11495,7 @@ datatable: true
       <td>2017-03-26T11:12</td>
       <td>337</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901648/">5901648</a></td>
@@ -11506,7 +11506,7 @@ datatable: true
       <td>2016-11-21T10:08</td>
       <td>324</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901696/">5901696</a></td>
@@ -11517,7 +11517,7 @@ datatable: true
       <td>2012-05-16T06:07</td>
       <td>110</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901697/">5901697</a></td>
@@ -11528,7 +11528,7 @@ datatable: true
       <td>2015-11-17T21:20</td>
       <td>252</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901698/">5901698</a></td>
@@ -11539,7 +11539,7 @@ datatable: true
       <td>2016-11-03T01:14</td>
       <td>287</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P, A</td>
+      <td>Indian, Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901699/">5901699</a></td>
@@ -11550,7 +11550,7 @@ datatable: true
       <td>2017-07-21T23:12</td>
       <td>313</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P, A</td>
+      <td>Indian, Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901730/">5901730</a></td>
@@ -11561,7 +11561,7 @@ datatable: true
       <td>2010-06-28T00:57</td>
       <td>122</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901731/">5901731</a></td>
@@ -11572,7 +11572,7 @@ datatable: true
       <td>2010-10-16T12:08</td>
       <td>138</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901733/">5901733</a></td>
@@ -11583,7 +11583,7 @@ datatable: true
       <td>2009-01-24T17:50</td>
       <td>45</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901734/">5901734</a></td>
@@ -11594,7 +11594,7 @@ datatable: true
       <td>2012-02-21T15:27</td>
       <td>207</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901735/">5901735</a></td>
@@ -11605,7 +11605,7 @@ datatable: true
       <td>2010-07-06T06:25</td>
       <td>121</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901736/">5901736</a></td>
@@ -11616,7 +11616,7 @@ datatable: true
       <td>2010-06-18T13:54</td>
       <td>111</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901737/">5901737</a></td>
@@ -11627,7 +11627,7 @@ datatable: true
       <td>2010-01-27T12:47</td>
       <td>33</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901738/">5901738</a></td>
@@ -11638,7 +11638,7 @@ datatable: true
       <td>2012-03-04T04:35</td>
       <td>207</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901739/">5901739</a></td>
@@ -11649,7 +11649,7 @@ datatable: true
       <td>2012-01-09T21:46</td>
       <td>199</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901740/">5901740</a></td>
@@ -11660,7 +11660,7 @@ datatable: true
       <td>2012-01-30T00:50</td>
       <td>202</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901741/">5901741</a></td>
@@ -11671,7 +11671,7 @@ datatable: true
       <td>2009-05-21T11:08</td>
       <td>65</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901742/">5901742</a></td>
@@ -11682,7 +11682,7 @@ datatable: true
       <td>2012-02-07T01:47</td>
       <td>203</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901743/">5901743</a></td>
@@ -11693,7 +11693,7 @@ datatable: true
       <td>2012-02-29T02:41</td>
       <td>207</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5901744/">5901744</a></td>
@@ -11704,7 +11704,7 @@ datatable: true
       <td>2012-04-29T19:40</td>
       <td>214</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902099/">5902099</a></td>
@@ -11715,7 +11715,7 @@ datatable: true
       <td>2011-11-01T18:22</td>
       <td>91</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902100/">5902100</a></td>
@@ -11726,7 +11726,7 @@ datatable: true
       <td>2014-02-12T07:59</td>
       <td>77</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902101/">5902101</a></td>
@@ -11737,7 +11737,7 @@ datatable: true
       <td>2011-01-24T00:59</td>
       <td>88</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902105/">5902105</a></td>
@@ -11748,7 +11748,7 @@ datatable: true
       <td>2014-09-13T05:22</td>
       <td>216</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902109/">5902109</a></td>
@@ -11759,7 +11759,7 @@ datatable: true
       <td>2014-02-03T00:06</td>
       <td>182</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902110/">5902110</a></td>
@@ -11770,7 +11770,7 @@ datatable: true
       <td>2013-02-22T00:03</td>
       <td>214</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902112/">5902112</a></td>
@@ -11781,7 +11781,7 @@ datatable: true
       <td>2012-09-18T16:13</td>
       <td>273</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902113/">5902113</a></td>
@@ -11792,7 +11792,7 @@ datatable: true
       <td>2011-05-30T08:48</td>
       <td>119</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902116/">5902116</a></td>
@@ -11803,7 +11803,7 @@ datatable: true
       <td>2013-10-27T08:08</td>
       <td>245</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902117/">5902117</a></td>
@@ -11814,7 +11814,7 @@ datatable: true
       <td>2009-06-05T06:36</td>
       <td>16</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902128/">5902128</a></td>
@@ -11825,7 +11825,7 @@ datatable: true
       <td>2011-08-10T02:37</td>
       <td>216</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902261/">5902261</a></td>
@@ -11836,7 +11836,7 @@ datatable: true
       <td>2011-03-28T08:45</td>
       <td>56</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902265/">5902265</a></td>
@@ -11847,7 +11847,7 @@ datatable: true
       <td>2016-08-13T19:15</td>
       <td>255</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902266/">5902266</a></td>
@@ -11858,7 +11858,7 @@ datatable: true
       <td>2014-01-12T01:10</td>
       <td>249</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902267/">5902267</a></td>
@@ -11869,7 +11869,7 @@ datatable: true
       <td>2011-06-10T11:28</td>
       <td>85</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902269/">5902269</a></td>
@@ -11880,7 +11880,7 @@ datatable: true
       <td>2014-06-29T04:58</td>
       <td>148</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902291/">5902291</a></td>
@@ -11891,7 +11891,7 @@ datatable: true
       <td>2010-06-03T06:54</td>
       <td>24</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902295/">5902295</a></td>
@@ -11902,7 +11902,7 @@ datatable: true
       <td>2015-01-01T00:35</td>
       <td>93</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902297/">5902297</a></td>
@@ -11913,7 +11913,7 @@ datatable: true
       <td>2016-09-25T06:52</td>
       <td>230</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902298/">5902298</a></td>
@@ -11924,7 +11924,7 @@ datatable: true
       <td>2013-07-23T02:00</td>
       <td>86</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902299/">5902299</a></td>
@@ -11935,7 +11935,7 @@ datatable: true
       <td>2012-03-19T04:33</td>
       <td>65</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902300/">5902300</a></td>
@@ -11946,7 +11946,7 @@ datatable: true
       <td>2013-10-19T02:46</td>
       <td>123</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902301/">5902301</a></td>
@@ -11957,7 +11957,7 @@ datatable: true
       <td>2010-11-14T04:48</td>
       <td>16</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902302/">5902302</a></td>
@@ -11968,7 +11968,7 @@ datatable: true
       <td>2015-04-01T04:57</td>
       <td>175</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902303/">5902303</a></td>
@@ -11979,7 +11979,7 @@ datatable: true
       <td>2011-09-08T02:09</td>
       <td>46</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902304/">5902304</a></td>
@@ -11990,7 +11990,7 @@ datatable: true
       <td>2015-02-17T05:12</td>
       <td>152</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902305/">5902305</a></td>
@@ -12001,7 +12001,7 @@ datatable: true
       <td>2011-07-07T01:53</td>
       <td>40</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902306/">5902306</a></td>
@@ -12012,7 +12012,7 @@ datatable: true
       <td>2013-04-26T01:25</td>
       <td>105</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902307/">5902307</a></td>
@@ -12023,7 +12023,7 @@ datatable: true
       <td>2014-06-18T05:13</td>
       <td>148</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5902308/">5902308</a></td>
@@ -12034,7 +12034,7 @@ datatable: true
       <td>2013-10-29T04:33</td>
       <td>125</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903218/">5903218</a></td>
@@ -12045,7 +12045,7 @@ datatable: true
       <td>2014-11-18T18:47</td>
       <td>205</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903225/">5903225</a></td>
@@ -12056,7 +12056,7 @@ datatable: true
       <td>2016-05-22T20:56</td>
       <td>699</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903226/">5903226</a></td>
@@ -12067,7 +12067,7 @@ datatable: true
       <td>2015-06-16T07:32</td>
       <td>207</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903242/">5903242</a></td>
@@ -12078,7 +12078,7 @@ datatable: true
       <td>2015-08-19T08:45</td>
       <td>206</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903248/">5903248</a></td>
@@ -12089,7 +12089,7 @@ datatable: true
       <td>2020-05-01T07:45</td>
       <td>373</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P, A</td>
+      <td>Indian, Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903255/">5903255</a></td>
@@ -12100,7 +12100,7 @@ datatable: true
       <td>2015-12-14T21:31</td>
       <td>217</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903256/">5903256</a></td>
@@ -12111,7 +12111,7 @@ datatable: true
       <td>2016-10-11T20:51</td>
       <td>248</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903257/">5903257</a></td>
@@ -12122,7 +12122,7 @@ datatable: true
       <td>2011-04-07T18:59</td>
       <td>42</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903258/">5903258</a></td>
@@ -12133,7 +12133,7 @@ datatable: true
       <td>2017-02-05T21:44</td>
       <td>260</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903259/">5903259</a></td>
@@ -12144,7 +12144,7 @@ datatable: true
       <td>2015-05-24T03:54</td>
       <td>196</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903260/">5903260</a></td>
@@ -12155,7 +12155,7 @@ datatable: true
       <td>2020-03-31T06:09</td>
       <td>369</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P, A</td>
+      <td>Indian, Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903264/">5903264</a></td>
@@ -12166,7 +12166,7 @@ datatable: true
       <td>2018-06-09T21:01</td>
       <td>683</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903272/">5903272</a></td>
@@ -12177,7 +12177,7 @@ datatable: true
       <td>2015-06-25T17:32</td>
       <td>360</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903274/">5903274</a></td>
@@ -12188,7 +12188,7 @@ datatable: true
       <td>2014-06-15T12:12</td>
       <td>282</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903377/">5903377</a></td>
@@ -12199,7 +12199,7 @@ datatable: true
       <td>2015-03-05T01:07</td>
       <td>304</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903381/">5903381</a></td>
@@ -12210,7 +12210,7 @@ datatable: true
       <td>2016-04-30T09:21</td>
       <td>191</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903382/">5903382</a></td>
@@ -12221,7 +12221,7 @@ datatable: true
       <td>2012-12-04T20:16</td>
       <td>69</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903385/">5903385</a></td>
@@ -12232,7 +12232,7 @@ datatable: true
       <td>2015-04-08T23:44</td>
       <td>299</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903405/">5903405</a></td>
@@ -12243,7 +12243,7 @@ datatable: true
       <td>2014-12-22T05:30</td>
       <td>271</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903586/">5903586</a></td>
@@ -12254,7 +12254,7 @@ datatable: true
       <td>2014-08-14T09:20</td>
       <td>188</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903592/">5903592</a></td>
@@ -12265,7 +12265,7 @@ datatable: true
       <td>2013-03-19T16:48</td>
       <td>111</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903593/">5903593</a></td>
@@ -12276,7 +12276,7 @@ datatable: true
       <td>2016-01-03T21:49</td>
       <td>268</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903594/">5903594</a></td>
@@ -12287,7 +12287,7 @@ datatable: true
       <td>2015-05-06T19:46</td>
       <td>253</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903611/">5903611</a></td>
@@ -12298,7 +12298,7 @@ datatable: true
       <td>2017-11-09T00:51</td>
       <td>426</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903612/">5903612</a></td>
@@ -12309,7 +12309,7 @@ datatable: true
       <td>2016-03-21T14:23</td>
       <td>225</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903613/">5903613</a></td>
@@ -12320,7 +12320,7 @@ datatable: true
       <td>2016-03-23T11:03</td>
       <td>223</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903614/">5903614</a></td>
@@ -12331,7 +12331,7 @@ datatable: true
       <td>2016-03-01T23:27</td>
       <td>185</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903615/">5903615</a></td>
@@ -12342,7 +12342,7 @@ datatable: true
       <td>2016-06-03T01:23</td>
       <td>233</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903616/">5903616</a></td>
@@ -12353,7 +12353,7 @@ datatable: true
       <td>2016-06-02T20:37</td>
       <td>233</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903629/">5903629</a></td>
@@ -12364,7 +12364,7 @@ datatable: true
       <td>2011-02-01T03:27</td>
       <td>108</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903630/">5903630</a></td>
@@ -12375,7 +12375,7 @@ datatable: true
       <td>2013-09-03T19:39</td>
       <td>298</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903649/">5903649</a></td>
@@ -12386,7 +12386,7 @@ datatable: true
       <td>2012-06-25T01:46</td>
       <td>444</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903656/">5903656</a></td>
@@ -12397,7 +12397,7 @@ datatable: true
       <td>2018-07-18T14:54</td>
       <td>278</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903660/">5903660</a></td>
@@ -12408,7 +12408,7 @@ datatable: true
       <td>2013-10-11T06:00</td>
       <td>321</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903677/">5903677</a></td>
@@ -12419,7 +12419,7 @@ datatable: true
       <td>2018-05-23T21:10</td>
       <td>266</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903678/">5903678</a></td>
@@ -12430,7 +12430,7 @@ datatable: true
       <td>2012-10-10T13:12</td>
       <td>533</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903679/">5903679</a></td>
@@ -12441,7 +12441,7 @@ datatable: true
       <td>2014-10-04T16:55</td>
       <td>420</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903711/">5903711</a></td>
@@ -12452,7 +12452,7 @@ datatable: true
       <td>2013-07-13T11:48</td>
       <td>78</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903712/">5903712</a></td>
@@ -12463,7 +12463,7 @@ datatable: true
       <td>2018-09-28T10:15</td>
       <td>286</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903713/">5903713</a></td>
@@ -12474,7 +12474,7 @@ datatable: true
       <td>2012-03-12T03:46</td>
       <td>15</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903714/">5903714</a></td>
@@ -12485,7 +12485,7 @@ datatable: true
       <td>2016-02-12T11:47</td>
       <td>281</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903717/">5903717</a></td>
@@ -12496,7 +12496,7 @@ datatable: true
       <td>2018-02-07T18:50</td>
       <td>325</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903718/">5903718</a></td>
@@ -12507,7 +12507,7 @@ datatable: true
       <td>2015-09-21T11:09</td>
       <td>250</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903719/">5903719</a></td>
@@ -12518,7 +12518,7 @@ datatable: true
       <td>2015-06-13T12:59</td>
       <td>173</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903720/">5903720</a></td>
@@ -12529,7 +12529,7 @@ datatable: true
       <td>2015-01-13T14:58</td>
       <td>152</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903721/">5903721</a></td>
@@ -12540,7 +12540,7 @@ datatable: true
       <td>2015-05-08T15:49</td>
       <td>168</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903722/">5903722</a></td>
@@ -12551,7 +12551,7 @@ datatable: true
       <td>2015-06-12T11:34</td>
       <td>173</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903723/">5903723</a></td>
@@ -12562,7 +12562,7 @@ datatable: true
       <td>2012-06-11T11:36</td>
       <td>16</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903724/">5903724</a></td>
@@ -12573,7 +12573,7 @@ datatable: true
       <td>2016-01-23T07:12</td>
       <td>178</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903741/">5903741</a></td>
@@ -12584,7 +12584,7 @@ datatable: true
       <td>2021-06-16T00:41</td>
       <td>264</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903742/">5903742</a></td>
@@ -12595,7 +12595,7 @@ datatable: true
       <td>2016-01-07T09:49</td>
       <td>266</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903743/">5903743</a></td>
@@ -12606,7 +12606,7 @@ datatable: true
       <td>2016-07-07T09:59</td>
       <td>292</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903753/">5903753</a></td>
@@ -12617,7 +12617,7 @@ datatable: true
       <td>2012-05-24T23:00</td>
       <td>2</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903754/">5903754</a></td>
@@ -12628,7 +12628,7 @@ datatable: true
       <td>2012-09-02T23:48</td>
       <td>34</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903755/">5903755</a></td>
@@ -12639,7 +12639,7 @@ datatable: true
       <td>2017-09-24T17:00</td>
       <td>342</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903887/">5903887</a></td>
@@ -12650,7 +12650,7 @@ datatable: true
       <td>2016-10-18T12:32</td>
       <td>294</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903888/">5903888</a></td>
@@ -12661,7 +12661,7 @@ datatable: true
       <td>2018-01-07T05:18</td>
       <td>279</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903889/">5903889</a></td>
@@ -12672,7 +12672,7 @@ datatable: true
       <td>2018-01-19T10:51</td>
       <td>223</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903890/">5903890</a></td>
@@ -12683,7 +12683,7 @@ datatable: true
       <td>2015-05-07T07:15</td>
       <td>173</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903891/">5903891</a></td>
@@ -12694,7 +12694,7 @@ datatable: true
       <td>2017-01-30T23:08</td>
       <td>279</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903892/">5903892</a></td>
@@ -12705,7 +12705,7 @@ datatable: true
       <td>2017-01-03T23:59</td>
       <td>311</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903893/">5903893</a></td>
@@ -12716,7 +12716,7 @@ datatable: true
       <td>2016-05-05T00:33</td>
       <td>264</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903939/">5903939</a></td>
@@ -12727,7 +12727,7 @@ datatable: true
       <td>2017-09-13T21:28</td>
       <td>204</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903954/">5903954</a></td>
@@ -12738,7 +12738,7 @@ datatable: true
       <td>2020-01-01T15:45</td>
       <td>275</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903955/">5903955</a></td>
@@ -12749,7 +12749,7 @@ datatable: true
       <td>2012-12-29T03:28</td>
       <td>719</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903956/">5903956</a></td>
@@ -12760,7 +12760,7 @@ datatable: true
       <td>2019-11-05T11:11</td>
       <td>269</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5903957/">5903957</a></td>
@@ -12771,7 +12771,7 @@ datatable: true
       <td>2017-02-12T05:53</td>
       <td>167</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904021/">5904021</a></td>
@@ -12782,7 +12782,7 @@ datatable: true
       <td>2016-08-31T11:06</td>
       <td>267</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904024/">5904024</a></td>
@@ -12793,7 +12793,7 @@ datatable: true
       <td>2013-08-13T21:30</td>
       <td>34</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904025/">5904025</a></td>
@@ -12804,7 +12804,7 @@ datatable: true
       <td>2016-11-26T14:03</td>
       <td>276</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904026/">5904026</a></td>
@@ -12815,7 +12815,7 @@ datatable: true
       <td>2016-08-24T14:30</td>
       <td>266</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904027/">5904027</a></td>
@@ -12826,7 +12826,7 @@ datatable: true
       <td>2016-08-21T13:50</td>
       <td>263</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904028/">5904028</a></td>
@@ -12837,7 +12837,7 @@ datatable: true
       <td>2016-11-01T14:07</td>
       <td>270</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904029/">5904029</a></td>
@@ -12848,7 +12848,7 @@ datatable: true
       <td>2017-05-12T13:44</td>
       <td>321</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904030/">5904030</a></td>
@@ -12859,7 +12859,7 @@ datatable: true
       <td>2016-11-09T14:18</td>
       <td>282</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904031/">5904031</a></td>
@@ -12870,7 +12870,7 @@ datatable: true
       <td>2016-10-30T14:04</td>
       <td>276</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904032/">5904032</a></td>
@@ -12881,7 +12881,7 @@ datatable: true
       <td>2013-06-26T12:16</td>
       <td>28</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904033/">5904033</a></td>
@@ -12892,7 +12892,7 @@ datatable: true
       <td>2017-04-19T13:49</td>
       <td>304</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904034/">5904034</a></td>
@@ -12903,7 +12903,7 @@ datatable: true
       <td>2017-03-28T03:42</td>
       <td>287</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904035/">5904035</a></td>
@@ -12914,7 +12914,7 @@ datatable: true
       <td>2017-01-11T23:21</td>
       <td>272</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904036/">5904036</a></td>
@@ -12925,7 +12925,7 @@ datatable: true
       <td>2016-10-29T19:04</td>
       <td>308</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904089/">5904089</a></td>
@@ -12936,7 +12936,7 @@ datatable: true
       <td>2016-12-05T15:48</td>
       <td>311</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904090/">5904090</a></td>
@@ -12947,7 +12947,7 @@ datatable: true
       <td>2017-01-14T08:54</td>
       <td>317</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904091/">5904091</a></td>
@@ -12958,7 +12958,7 @@ datatable: true
       <td>2017-02-18T21:50</td>
       <td>324</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904092/">5904092</a></td>
@@ -12969,7 +12969,7 @@ datatable: true
       <td>2017-01-20T22:41</td>
       <td>319</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904093/">5904093</a></td>
@@ -12980,7 +12980,7 @@ datatable: true
       <td>2018-10-29T10:42</td>
       <td>274</td>
       <td>TEMP PSAL DOXY DOXY2 DOXY3</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904094/">5904094</a></td>
@@ -12991,7 +12991,7 @@ datatable: true
       <td>2017-01-04T14:57</td>
       <td>285</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904095/">5904095</a></td>
@@ -13002,7 +13002,7 @@ datatable: true
       <td>2018-10-08T21:21</td>
       <td>271</td>
       <td>TEMP PSAL DOXY DOXY2 DOXY3</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904104/">5904104</a></td>
@@ -13013,7 +13013,7 @@ datatable: true
       <td>2018-01-09T19:12</td>
       <td>264</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904105/">5904105</a></td>
@@ -13024,7 +13024,7 @@ datatable: true
       <td>2016-08-15T22:46</td>
       <td>183</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904106/">5904106</a></td>
@@ -13035,7 +13035,7 @@ datatable: true
       <td>2018-05-21T12:33</td>
       <td>256</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904107/">5904107</a></td>
@@ -13046,7 +13046,7 @@ datatable: true
       <td>2017-09-08T22:44</td>
       <td>293</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904108/">5904108</a></td>
@@ -13057,7 +13057,7 @@ datatable: true
       <td>2017-11-03T12:28</td>
       <td>297</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904124/">5904124</a></td>
@@ -13068,7 +13068,7 @@ datatable: true
       <td>2016-06-02T05:14</td>
       <td>221</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904125/">5904125</a></td>
@@ -13079,7 +13079,7 @@ datatable: true
       <td>2018-04-05T23:11</td>
       <td>338</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904126/">5904126</a></td>
@@ -13090,7 +13090,7 @@ datatable: true
       <td>2020-04-22T15:32</td>
       <td>246</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904127/">5904127</a></td>
@@ -13101,7 +13101,7 @@ datatable: true
       <td>2017-05-02T01:58</td>
       <td>269</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904128/">5904128</a></td>
@@ -13112,7 +13112,7 @@ datatable: true
       <td>2017-07-18T18:12</td>
       <td>283</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904132/">5904132</a></td>
@@ -13123,7 +13123,7 @@ datatable: true
       <td>2013-10-01T18:06</td>
       <td>16</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904145/">5904145</a></td>
@@ -13134,7 +13134,7 @@ datatable: true
       <td>2017-12-17T13:52</td>
       <td>293</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904146/">5904146</a></td>
@@ -13145,7 +13145,7 @@ datatable: true
       <td>2016-07-01T14:00</td>
       <td>186</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904147/">5904147</a></td>
@@ -13156,7 +13156,7 @@ datatable: true
       <td>2017-10-23T10:43</td>
       <td>283</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904165/">5904165</a></td>
@@ -13167,7 +13167,7 @@ datatable: true
       <td>2018-02-19T16:36</td>
       <td>217</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904166/">5904166</a></td>
@@ -13178,7 +13178,7 @@ datatable: true
       <td>2019-03-01T00:16</td>
       <td>275</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904167/">5904167</a></td>
@@ -13189,7 +13189,7 @@ datatable: true
       <td>2020-02-22T11:21</td>
       <td>321</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904168/">5904168</a></td>
@@ -13200,7 +13200,7 @@ datatable: true
       <td>2020-03-09T04:31</td>
       <td>327</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904172/">5904172</a></td>
@@ -13211,7 +13211,7 @@ datatable: true
       <td>2014-09-15T20:48</td>
       <td>65</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904179/">5904179</a></td>
@@ -13222,7 +13222,7 @@ datatable: true
       <td>2020-06-23T11:33</td>
       <td>222</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904180/">5904180</a></td>
@@ -13233,7 +13233,7 @@ datatable: true
       <td>2020-05-04T20:03</td>
       <td>217</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904181/">5904181</a></td>
@@ -13244,7 +13244,7 @@ datatable: true
       <td>2014-08-19T20:50</td>
       <td>15</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904182/">5904182</a></td>
@@ -13255,7 +13255,7 @@ datatable: true
       <td>2015-04-26T18:32</td>
       <td>38</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904183/">5904183</a></td>
@@ -13266,7 +13266,7 @@ datatable: true
       <td>2021-01-31T18:16</td>
       <td>233</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904184/">5904184</a></td>
@@ -13277,7 +13277,7 @@ datatable: true
       <td>2018-07-18T23:57</td>
       <td>153</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904185/">5904185</a></td>
@@ -13288,7 +13288,7 @@ datatable: true
       <td>2018-11-15T06:29</td>
       <td>164</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904186/">5904186</a></td>
@@ -13299,7 +13299,7 @@ datatable: true
       <td>2020-02-15T00:16</td>
       <td>250</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904187/">5904187</a></td>
@@ -13310,7 +13310,7 @@ datatable: true
       <td>2020-04-04T08:36</td>
       <td>254</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904188/">5904188</a></td>
@@ -13321,7 +13321,7 @@ datatable: true
       <td>2018-01-22T18:21</td>
       <td>155</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904218/">5904218</a></td>
@@ -13332,7 +13332,7 @@ datatable: true
       <td>2012-12-17T12:40</td>
       <td>660</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904220/">5904220</a></td>
@@ -13343,7 +13343,7 @@ datatable: true
       <td>2014-07-25T02:11</td>
       <td>218</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904223/">5904223</a></td>
@@ -13354,7 +13354,7 @@ datatable: true
       <td>2014-07-19T18:56</td>
       <td>215</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904227/">5904227</a></td>
@@ -13365,7 +13365,7 @@ datatable: true
       <td>2014-10-01T15:28</td>
       <td>233</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904395/">5904395</a></td>
@@ -13376,7 +13376,7 @@ datatable: true
       <td>2017-10-22T16:49</td>
       <td>172</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904396/">5904396</a></td>
@@ -13387,7 +13387,7 @@ datatable: true
       <td>2016-11-14T01:32</td>
       <td>130</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904397/">5904397</a></td>
@@ -13398,7 +13398,7 @@ datatable: true
       <td>2020-02-19T01:33</td>
       <td>181</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904464/">5904464</a></td>
@@ -13409,7 +13409,7 @@ datatable: true
       <td>2019-08-15T06:08</td>
       <td>293</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904465/">5904465</a></td>
@@ -13420,7 +13420,7 @@ datatable: true
       <td>2019-03-28T22:35</td>
       <td>305</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904466/">5904466</a></td>
@@ -13431,7 +13431,7 @@ datatable: true
       <td>2018-09-15T15:51</td>
       <td>267</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904467/">5904467</a></td>
@@ -13442,7 +13442,7 @@ datatable: true
       <td>2019-06-16T22:57</td>
       <td>161</td>
       <td>TEMP PSAL DOXY CHLA BBP700 NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904468/">5904468</a></td>
@@ -13453,7 +13453,7 @@ datatable: true
       <td>2020-04-27T16:44</td>
       <td>188</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904469/">5904469</a></td>
@@ -13464,7 +13464,7 @@ datatable: true
       <td>2019-06-07T18:59</td>
       <td>160</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904470/">5904470</a></td>
@@ -13475,7 +13475,7 @@ datatable: true
       <td>2017-09-10T05:16</td>
       <td>96</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904471/">5904471</a></td>
@@ -13486,7 +13486,7 @@ datatable: true
       <td>2019-06-07T19:40</td>
       <td>159</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904472/">5904472</a></td>
@@ -13497,7 +13497,7 @@ datatable: true
       <td>2019-04-12T13:59</td>
       <td>151</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904473/">5904473</a></td>
@@ -13508,7 +13508,7 @@ datatable: true
       <td>2017-07-23T01:14</td>
       <td>67</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A, I, P</td>
+      <td>Atlantic, Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904474/">5904474</a></td>
@@ -13519,7 +13519,7 @@ datatable: true
       <td>2019-03-29T13:31</td>
       <td>167</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904475/">5904475</a></td>
@@ -13530,7 +13530,7 @@ datatable: true
       <td>2020-03-07T17:56</td>
       <td>202</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904476/">5904476</a></td>
@@ -13541,7 +13541,7 @@ datatable: true
       <td>2016-03-02T19:34</td>
       <td>55</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904477/">5904477</a></td>
@@ -13552,7 +13552,7 @@ datatable: true
       <td>2015-06-02T06:56</td>
       <td>17</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904478/">5904478</a></td>
@@ -13563,7 +13563,7 @@ datatable: true
       <td>2015-01-17T20:15</td>
       <td>4</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904479/">5904479</a></td>
@@ -13574,7 +13574,7 @@ datatable: true
       <td>2017-12-07T23:38</td>
       <td>162</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904481/">5904481</a></td>
@@ -13585,7 +13585,7 @@ datatable: true
       <td>2019-09-26T03:12</td>
       <td>232</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904482/">5904482</a></td>
@@ -13596,7 +13596,7 @@ datatable: true
       <td>2019-09-25T12:32</td>
       <td>232</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904483/">5904483</a></td>
@@ -13607,7 +13607,7 @@ datatable: true
       <td>2020-05-11T15:52</td>
       <td>261</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904484/">5904484</a></td>
@@ -13618,7 +13618,7 @@ datatable: true
       <td>2018-11-07T13:40</td>
       <td>280</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904485/">5904485</a></td>
@@ -13629,7 +13629,7 @@ datatable: true
       <td>2018-11-17T13:56</td>
       <td>284</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904486/">5904486</a></td>
@@ -13640,7 +13640,7 @@ datatable: true
       <td>2015-05-14T13:48</td>
       <td>26</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904487/">5904487</a></td>
@@ -13651,7 +13651,7 @@ datatable: true
       <td>2018-09-05T13:58</td>
       <td>269</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904598/">5904598</a></td>
@@ -13662,7 +13662,7 @@ datatable: true
       <td>2020-02-02T16:39</td>
       <td>249</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904599/">5904599</a></td>
@@ -13673,7 +13673,7 @@ datatable: true
       <td>2019-12-06T10:55</td>
       <td>243</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904600/">5904600</a></td>
@@ -13684,7 +13684,7 @@ datatable: true
       <td>2019-08-10T16:12</td>
       <td>313</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904601/">5904601</a></td>
@@ -13695,7 +13695,7 @@ datatable: true
       <td>2019-05-16T16:48</td>
       <td>298</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904602/">5904602</a></td>
@@ -13706,7 +13706,7 @@ datatable: true
       <td>2019-03-16T16:36</td>
       <td>285</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904655/">5904655</a></td>
@@ -13717,7 +13717,7 @@ datatable: true
       <td>2017-12-26T23:33</td>
       <td>176</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904657/">5904657</a></td>
@@ -13728,7 +13728,7 @@ datatable: true
       <td>2020-07-13T16:30</td>
       <td>160</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904658/">5904658</a></td>
@@ -13739,7 +13739,7 @@ datatable: true
       <td>2020-08-11T10:49</td>
       <td>163</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904659/">5904659</a></td>
@@ -13750,7 +13750,7 @@ datatable: true
       <td>2020-04-30T14:23</td>
       <td>153</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904660/">5904660</a></td>
@@ -13761,7 +13761,7 @@ datatable: true
       <td>2020-04-20T03:31</td>
       <td>152</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904661/">5904661</a></td>
@@ -13772,7 +13772,7 @@ datatable: true
       <td>2020-05-30T09:48</td>
       <td>157</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904662/">5904662</a></td>
@@ -13783,7 +13783,7 @@ datatable: true
       <td>2018-03-31T12:01</td>
       <td>84</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904663/">5904663</a></td>
@@ -13794,7 +13794,7 @@ datatable: true
       <td>2020-08-30T14:32</td>
       <td>168</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904664/">5904664</a></td>
@@ -13805,7 +13805,7 @@ datatable: true
       <td>2020-07-03T03:53</td>
       <td>328</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904665/">5904665</a></td>
@@ -13816,7 +13816,7 @@ datatable: true
       <td>2016-07-22T04:02</td>
       <td>41</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904666/">5904666</a></td>
@@ -13827,7 +13827,7 @@ datatable: true
       <td>2020-04-29T04:58</td>
       <td>317</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904667/">5904667</a></td>
@@ -13838,7 +13838,7 @@ datatable: true
       <td>2019-01-22T05:09</td>
       <td>225</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904670/">5904670</a></td>
@@ -13849,7 +13849,7 @@ datatable: true
       <td>2016-12-19T17:55</td>
       <td>34</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904671/">5904671</a></td>
@@ -13860,7 +13860,7 @@ datatable: true
       <td>2021-01-21T03:54</td>
       <td>182</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904672/">5904672</a></td>
@@ -13871,7 +13871,7 @@ datatable: true
       <td>2018-09-06T14:54</td>
       <td>86</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 BBP532 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904673/">5904673</a></td>
@@ -13882,7 +13882,7 @@ datatable: true
       <td>2019-03-05T16:02</td>
       <td>113</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904674/">5904674</a></td>
@@ -13893,7 +13893,7 @@ datatable: true
       <td>2021-05-29T21:22</td>
       <td>178</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904675/">5904675</a></td>
@@ -13904,7 +13904,7 @@ datatable: true
       <td>2019-12-19T19:04</td>
       <td>140</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904676/">5904676</a></td>
@@ -13915,7 +13915,7 @@ datatable: true
       <td>2020-08-15T18:18</td>
       <td>153</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904677/">5904677</a></td>
@@ -13926,7 +13926,7 @@ datatable: true
       <td>2020-09-19T22:14</td>
       <td>167</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904678/">5904678</a></td>
@@ -13937,7 +13937,7 @@ datatable: true
       <td>2020-08-19T01:37</td>
       <td>165</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904679/">5904679</a></td>
@@ -13948,7 +13948,7 @@ datatable: true
       <td>2020-03-02T06:49</td>
       <td>146</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904680/">5904680</a></td>
@@ -13959,7 +13959,7 @@ datatable: true
       <td>2016-04-09T23:21</td>
       <td>26</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904682/">5904682</a></td>
@@ -13970,7 +13970,7 @@ datatable: true
       <td>2020-08-23T11:36</td>
       <td>159</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904683/">5904683</a></td>
@@ -13981,7 +13981,7 @@ datatable: true
       <td>2020-12-04T03:32</td>
       <td>152</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904684/">5904684</a></td>
@@ -13992,7 +13992,7 @@ datatable: true
       <td>2020-08-01T18:47</td>
       <td>148</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904685/">5904685</a></td>
@@ -14003,7 +14003,7 @@ datatable: true
       <td>2021-05-16T16:49</td>
       <td>159</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904686/">5904686</a></td>
@@ -14014,7 +14014,7 @@ datatable: true
       <td>2020-05-18T13:45</td>
       <td>155</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904687/">5904687</a></td>
@@ -14025,7 +14025,7 @@ datatable: true
       <td>2016-05-02T20:49</td>
       <td>8</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904688/">5904688</a></td>
@@ -14036,7 +14036,7 @@ datatable: true
       <td>2020-08-25T03:27</td>
       <td>159</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904689/">5904689</a></td>
@@ -14047,7 +14047,7 @@ datatable: true
       <td>2020-05-20T18:26</td>
       <td>301</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904690/">5904690</a></td>
@@ -14058,7 +14058,7 @@ datatable: true
       <td>2019-10-24T18:34</td>
       <td>258</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904691/">5904691</a></td>
@@ -14069,7 +14069,7 @@ datatable: true
       <td>2019-09-20T18:41</td>
       <td>253</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904692/">5904692</a></td>
@@ -14080,7 +14080,7 @@ datatable: true
       <td>2019-11-15T18:11</td>
       <td>262</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904693/">5904693</a></td>
@@ -14091,7 +14091,7 @@ datatable: true
       <td>2020-02-21T01:20</td>
       <td>155</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904694/">5904694</a></td>
@@ -14102,7 +14102,7 @@ datatable: true
       <td>2021-06-05T17:31</td>
       <td>178</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904695/">5904695</a></td>
@@ -14113,7 +14113,7 @@ datatable: true
       <td>2021-02-14T10:31</td>
       <td>169</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904761/">5904761</a></td>
@@ -14124,7 +14124,7 @@ datatable: true
       <td>2020-07-13T05:19</td>
       <td>133</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904763/">5904763</a></td>
@@ -14135,7 +14135,7 @@ datatable: true
       <td>2020-12-05T07:01</td>
       <td>162</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904764/">5904764</a></td>
@@ -14146,7 +14146,7 @@ datatable: true
       <td>2016-05-09T09:38</td>
       <td>1</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904765/">5904765</a></td>
@@ -14157,7 +14157,7 @@ datatable: true
       <td>2020-10-31T22:01</td>
       <td>140</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904766/">5904766</a></td>
@@ -14168,7 +14168,7 @@ datatable: true
       <td>2020-07-26T18:24</td>
       <td>154</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904767/">5904767</a></td>
@@ -14179,7 +14179,7 @@ datatable: true
       <td>2020-04-17T00:22</td>
       <td>145</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904768/">5904768</a></td>
@@ -14190,7 +14190,7 @@ datatable: true
       <td>2017-11-06T13:55</td>
       <td>56</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904769/">5904769</a></td>
@@ -14201,7 +14201,7 @@ datatable: true
       <td>2020-07-06T03:01</td>
       <td>297</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904770/">5904770</a></td>
@@ -14212,7 +14212,7 @@ datatable: true
       <td>2020-06-22T03:18</td>
       <td>298</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904841/">5904841</a></td>
@@ -14223,7 +14223,7 @@ datatable: true
       <td>2021-05-30T06:17</td>
       <td>160</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904842/">5904842</a></td>
@@ -14234,7 +14234,7 @@ datatable: true
       <td>2021-04-16T16:40</td>
       <td>155</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904843/">5904843</a></td>
@@ -14245,7 +14245,7 @@ datatable: true
       <td>2021-11-06T11:24</td>
       <td>177</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904844/">5904844</a></td>
@@ -14256,7 +14256,7 @@ datatable: true
       <td>2022-06-14T00:40</td>
       <td>199</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904845/">5904845</a></td>
@@ -14267,7 +14267,7 @@ datatable: true
       <td>2021-10-15T04:14</td>
       <td>173</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A, I</td>
+      <td>Pacific, Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904846/">5904846</a></td>
@@ -14278,7 +14278,7 @@ datatable: true
       <td>2022-08-23T11:00</td>
       <td>168</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904847/">5904847</a></td>
@@ -14289,7 +14289,7 @@ datatable: true
       <td>2023-02-28T22:27</td>
       <td>153</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904848/">5904848</a></td>
@@ -14300,7 +14300,7 @@ datatable: true
       <td>2020-05-15T07:32</td>
       <td>242</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904849/">5904849</a></td>
@@ -14311,7 +14311,7 @@ datatable: true
       <td>2020-11-01T08:15</td>
       <td>285</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904850/">5904850</a></td>
@@ -14322,7 +14322,7 @@ datatable: true
       <td>2021-02-03T07:34</td>
       <td>297</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904851/">5904851</a></td>
@@ -14333,7 +14333,7 @@ datatable: true
       <td>2020-09-01T07:20</td>
       <td>265</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904852/">5904852</a></td>
@@ -14344,7 +14344,7 @@ datatable: true
       <td>2020-11-03T08:24</td>
       <td>281</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904853/">5904853</a></td>
@@ -14355,7 +14355,7 @@ datatable: true
       <td>2020-05-18T09:36</td>
       <td>253</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904854/">5904854</a></td>
@@ -14366,7 +14366,7 @@ datatable: true
       <td>2020-12-07T19:38</td>
       <td>144</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904855/">5904855</a></td>
@@ -14377,7 +14377,7 @@ datatable: true
       <td>2021-04-19T07:39</td>
       <td>157</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904856/">5904856</a></td>
@@ -14388,7 +14388,7 @@ datatable: true
       <td>2020-07-14T13:48</td>
       <td>129</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904857/">5904857</a></td>
@@ -14399,7 +14399,7 @@ datatable: true
       <td>2022-01-22T01:57</td>
       <td>161</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904858/">5904858</a></td>
@@ -14410,7 +14410,7 @@ datatable: true
       <td>2022-02-28T20:22</td>
       <td>184</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904859/">5904859</a></td>
@@ -14421,7 +14421,7 @@ datatable: true
       <td>2022-02-13T11:09</td>
       <td>153</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904860/">5904860</a></td>
@@ -14432,7 +14432,7 @@ datatable: true
       <td>2019-03-25T23:50</td>
       <td>81</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904882/">5904882</a></td>
@@ -14443,7 +14443,7 @@ datatable: true
       <td>2014-08-03T20:59</td>
       <td>624</td>
       <td>TEMP PSAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904923/">5904923</a></td>
@@ -14454,7 +14454,7 @@ datatable: true
       <td>2017-06-24T16:44</td>
       <td>328</td>
       <td>TEMP PSAL DOXY CHLA BBP700 BBP532</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904924/">5904924</a></td>
@@ -14465,7 +14465,7 @@ datatable: true
       <td>2017-07-30T17:35</td>
       <td>377</td>
       <td>TEMP PSAL DOXY CHLA BBP700 BBP532</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904980/">5904980</a></td>
@@ -14476,7 +14476,7 @@ datatable: true
       <td>2020-03-05T03:35</td>
       <td>115</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904981/">5904981</a></td>
@@ -14487,7 +14487,7 @@ datatable: true
       <td>2017-12-16T01:23</td>
       <td>34</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904982/">5904982</a></td>
@@ -14498,7 +14498,7 @@ datatable: true
       <td>2021-01-27T20:28</td>
       <td>149</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904983/">5904983</a></td>
@@ -14509,7 +14509,7 @@ datatable: true
       <td>2017-08-21T23:43</td>
       <td>24</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904984/">5904984</a></td>
@@ -14520,7 +14520,7 @@ datatable: true
       <td>2020-06-12T00:02</td>
       <td>127</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904988/">5904988</a></td>
@@ -14531,7 +14531,7 @@ datatable: true
       <td>2018-04-26T10:22</td>
       <td>296</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5904989/">5904989</a></td>
@@ -14542,7 +14542,7 @@ datatable: true
       <td>2018-06-22T10:11</td>
       <td>307</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905022/">5905022</a></td>
@@ -14553,7 +14553,7 @@ datatable: true
       <td>2016-07-24T20:58</td>
       <td>273</td>
       <td>TEMP PSAL DOXY CHLA BBP700 BBP532 NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905023/">5905023</a></td>
@@ -14564,7 +14564,7 @@ datatable: true
       <td>2017-02-14T04:03</td>
       <td>304</td>
       <td>TEMP PSAL DOXY CHLA BBP700 BBP532 DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR PH_IN_SITU_TOTAL</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905030/">5905030</a></td>
@@ -14575,7 +14575,7 @@ datatable: true
       <td>2016-10-07T23:18</td>
       <td>260</td>
       <td>TEMP PSAL DOXY NITRATE</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905062/">5905062</a></td>
@@ -14586,7 +14586,7 @@ datatable: true
       <td>2019-03-20T13:43</td>
       <td>221</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905067/">5905067</a></td>
@@ -14597,7 +14597,7 @@ datatable: true
       <td>2019-12-07T22:21</td>
       <td>98</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905068/">5905068</a></td>
@@ -14608,7 +14608,7 @@ datatable: true
       <td>2024-05-22T16:39</td>
       <td>231</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905069/">5905069</a></td>
@@ -14619,7 +14619,7 @@ datatable: true
       <td>2020-11-23T20:35</td>
       <td>141</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905070/">5905070</a></td>
@@ -14630,7 +14630,7 @@ datatable: true
       <td>2020-10-18T05:20</td>
       <td>137</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905071/">5905071</a></td>
@@ -14641,7 +14641,7 @@ datatable: true
       <td>2022-05-15T01:51</td>
       <td>162</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905072/">5905072</a></td>
@@ -14652,7 +14652,7 @@ datatable: true
       <td>2020-09-04T18:37</td>
       <td>189</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905073/">5905073</a></td>
@@ -14663,7 +14663,7 @@ datatable: true
       <td>2020-03-14T05:00</td>
       <td>142</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905074/">5905074</a></td>
@@ -14674,7 +14674,7 @@ datatable: true
       <td>2017-12-26T15:36</td>
       <td>1</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905075/">5905075</a></td>
@@ -14685,7 +14685,7 @@ datatable: true
       <td>2019-04-10T05:21</td>
       <td>81</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905076/">5905076</a></td>
@@ -14696,7 +14696,7 @@ datatable: true
       <td>2021-07-31T07:26</td>
       <td>162</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905077/">5905077</a></td>
@@ -14707,7 +14707,7 @@ datatable: true
       <td>2021-04-18T10:14</td>
       <td>152</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905078/">5905078</a></td>
@@ -14718,7 +14718,7 @@ datatable: true
       <td>2018-06-04T15:44</td>
       <td>48</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905079/">5905079</a></td>
@@ -14729,7 +14729,7 @@ datatable: true
       <td>2020-10-24T20:50</td>
       <td>133</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905080/">5905080</a></td>
@@ -14740,7 +14740,7 @@ datatable: true
       <td>2021-06-29T15:46</td>
       <td>159</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905091/">5905091</a></td>
@@ -14751,7 +14751,7 @@ datatable: true
       <td>2019-09-16T16:21</td>
       <td>185</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905092/">5905092</a></td>
@@ -14762,7 +14762,7 @@ datatable: true
       <td>2018-08-16T15:48</td>
       <td>170</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905093/">5905093</a></td>
@@ -14773,7 +14773,7 @@ datatable: true
       <td>2019-09-02T16:28</td>
       <td>182</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905094/">5905094</a></td>
@@ -14784,7 +14784,7 @@ datatable: true
       <td>2019-08-31T15:42</td>
       <td>183</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905095/">5905095</a></td>
@@ -14795,7 +14795,7 @@ datatable: true
       <td>2019-09-11T16:26</td>
       <td>185</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905096/">5905096</a></td>
@@ -14806,7 +14806,7 @@ datatable: true
       <td>2024-12-26T01:45</td>
       <td>272</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905097/">5905097</a></td>
@@ -14817,7 +14817,7 @@ datatable: true
       <td>2024-12-22T00:43</td>
       <td>276</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905098/">5905098</a></td>
@@ -14828,7 +14828,7 @@ datatable: true
       <td>2024-12-23T04:33</td>
       <td>272</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, A, I</td>
+      <td>Pacific, Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905099/">5905099</a></td>
@@ -14839,7 +14839,7 @@ datatable: true
       <td>2021-06-03T21:27</td>
       <td>151</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905100/">5905100</a></td>
@@ -14850,7 +14850,7 @@ datatable: true
       <td>2019-05-22T14:58</td>
       <td>77</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905101/">5905101</a></td>
@@ -14861,7 +14861,7 @@ datatable: true
       <td>2017-05-09T09:09</td>
       <td>3</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905102/">5905102</a></td>
@@ -14872,7 +14872,7 @@ datatable: true
       <td>2022-02-25T17:30</td>
       <td>155</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905103/">5905103</a></td>
@@ -14883,7 +14883,7 @@ datatable: true
       <td>2022-05-31T08:50</td>
       <td>157</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905104/">5905104</a></td>
@@ -14894,7 +14894,7 @@ datatable: true
       <td>2022-07-24T09:07</td>
       <td>180</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905105/">5905105</a></td>
@@ -14905,7 +14905,7 @@ datatable: true
       <td>2021-11-24T01:55</td>
       <td>230</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905106/">5905106</a></td>
@@ -14916,7 +14916,7 @@ datatable: true
       <td>2022-11-23T22:46</td>
       <td>190</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905107/">5905107</a></td>
@@ -14927,7 +14927,7 @@ datatable: true
       <td>2021-12-13T01:07</td>
       <td>159</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905108/">5905108</a></td>
@@ -14938,7 +14938,7 @@ datatable: true
       <td>2022-09-20T11:14</td>
       <td>189</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905109/">5905109</a></td>
@@ -14949,7 +14949,7 @@ datatable: true
       <td>2022-09-03T21:35</td>
       <td>183</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905110/">5905110</a></td>
@@ -14960,7 +14960,7 @@ datatable: true
       <td>2021-11-04T08:31</td>
       <td>303</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905111/">5905111</a></td>
@@ -14971,7 +14971,7 @@ datatable: true
       <td>2021-05-26T07:40</td>
       <td>269</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905112/">5905112</a></td>
@@ -14982,7 +14982,7 @@ datatable: true
       <td>2021-09-12T05:21</td>
       <td>292</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905113/">5905113</a></td>
@@ -14993,7 +14993,7 @@ datatable: true
       <td>2021-11-22T10:11</td>
       <td>310</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905130/">5905130</a></td>
@@ -15004,7 +15004,7 @@ datatable: true
       <td>2022-01-14T02:01</td>
       <td>159</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905131/">5905131</a></td>
@@ -15015,7 +15015,7 @@ datatable: true
       <td>2022-06-02T16:02</td>
       <td>168</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905132/">5905132</a></td>
@@ -15026,7 +15026,7 @@ datatable: true
       <td>2021-06-13T19:19</td>
       <td>70</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905133/">5905133</a></td>
@@ -15037,7 +15037,7 @@ datatable: true
       <td>2021-07-14T19:45</td>
       <td>138</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905134/">5905134</a></td>
@@ -15048,7 +15048,7 @@ datatable: true
       <td>2022-05-17T04:19</td>
       <td>170</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905135/">5905135</a></td>
@@ -15059,7 +15059,7 @@ datatable: true
       <td>2022-02-17T15:23</td>
       <td>161</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905136/">5905136</a></td>
@@ -15070,7 +15070,7 @@ datatable: true
       <td>2018-01-27T05:04</td>
       <td>13</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905137/">5905137</a></td>
@@ -15081,7 +15081,7 @@ datatable: true
       <td>2018-01-31T07:10</td>
       <td>994</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905138/">5905138</a></td>
@@ -15092,7 +15092,7 @@ datatable: true
       <td>2024-12-13T16:31</td>
       <td>284</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905139/">5905139</a></td>
@@ -15103,7 +15103,7 @@ datatable: true
       <td>2018-02-05T12:48</td>
       <td>14</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905140/">5905140</a></td>
@@ -15114,7 +15114,7 @@ datatable: true
       <td>2021-05-27T01:40</td>
       <td>135</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905141/">5905141</a></td>
@@ -15125,7 +15125,7 @@ datatable: true
       <td>2022-01-13T02:56</td>
       <td>314</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905142/">5905142</a></td>
@@ -15136,7 +15136,7 @@ datatable: true
       <td>2021-08-11T02:35</td>
       <td>280</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905165/">5905165</a></td>
@@ -15147,7 +15147,7 @@ datatable: true
       <td>2016-08-11T03:49</td>
       <td>55</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM CP660 BBP700_2 BBP532 BBP470 DOWN_IRRADIANCE412 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 UP_RADIANCE412 UP_RADIANCE443 UP_RADIANCE490 UP_RADIANCE555</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905167/">5905167</a></td>
@@ -15158,7 +15158,7 @@ datatable: true
       <td>2017-10-28T06:16</td>
       <td>417</td>
       <td>TEMP PSAL DOXY CHLA BBP700 BBP532</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905194/">5905194</a></td>
@@ -15169,7 +15169,7 @@ datatable: true
       <td>2019-10-03T20:17</td>
       <td>248</td>
       <td>TEMP PSAL DOXY CHLA BBP700 BBP532 DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905197/">5905197</a></td>
@@ -15180,7 +15180,7 @@ datatable: true
       <td>2019-08-17T07:00</td>
       <td>300</td>
       <td>TEMP PSAL DOXY CHLA BBP700 BBP532 DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905198/">5905198</a></td>
@@ -15191,7 +15191,7 @@ datatable: true
       <td>2017-05-31T04:00</td>
       <td>70</td>
       <td>TEMP PSAL DOXY CHLA BBP700 BBP532 DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905199/">5905199</a></td>
@@ -15202,7 +15202,7 @@ datatable: true
       <td>2017-06-29T04:28</td>
       <td>56</td>
       <td>TEMP PSAL DOXY CHLA BBP700 BBP532</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905218/">5905218</a></td>
@@ -15213,7 +15213,7 @@ datatable: true
       <td>2022-11-26T15:42</td>
       <td>178</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905223/">5905223</a></td>
@@ -15224,7 +15224,7 @@ datatable: true
       <td>2023-01-18T08:18</td>
       <td>185</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905229/">5905229</a></td>
@@ -15235,7 +15235,7 @@ datatable: true
       <td>2019-01-08T08:23</td>
       <td>2</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905232/">5905232</a></td>
@@ -15246,7 +15246,7 @@ datatable: true
       <td>2018-10-17T14:20</td>
       <td>17</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905366/">5905366</a></td>
@@ -15257,7 +15257,7 @@ datatable: true
       <td>2020-06-26T14:09</td>
       <td>94</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905367/">5905367</a></td>
@@ -15268,7 +15268,7 @@ datatable: true
       <td>2018-08-05T20:23</td>
       <td>23</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905368/">5905368</a></td>
@@ -15279,7 +15279,7 @@ datatable: true
       <td>2022-05-22T06:40</td>
       <td>158</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905369/">5905369</a></td>
@@ -15290,7 +15290,7 @@ datatable: true
       <td>2018-04-27T14:01</td>
       <td>11</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905370/">5905370</a></td>
@@ -15301,7 +15301,7 @@ datatable: true
       <td>2018-11-21T05:36</td>
       <td>34</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905371/">5905371</a></td>
@@ -15312,7 +15312,7 @@ datatable: true
       <td>2022-03-25T01:08</td>
       <td>152</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905372/">5905372</a></td>
@@ -15323,7 +15323,7 @@ datatable: true
       <td>2022-05-15T09:53</td>
       <td>157</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905373/">5905373</a></td>
@@ -15334,7 +15334,7 @@ datatable: true
       <td>2022-04-07T10:43</td>
       <td>153</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905374/">5905374</a></td>
@@ -15345,7 +15345,7 @@ datatable: true
       <td>2019-09-26T01:38</td>
       <td>61</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905375/">5905375</a></td>
@@ -15356,7 +15356,7 @@ datatable: true
       <td>2020-08-24T14:37</td>
       <td>94</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905376/">5905376</a></td>
@@ -15367,7 +15367,7 @@ datatable: true
       <td>2020-10-13T18:11</td>
       <td>100</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905377/">5905377</a></td>
@@ -15378,7 +15378,7 @@ datatable: true
       <td>2022-04-08T12:52</td>
       <td>152</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905378/">5905378</a></td>
@@ -15389,7 +15389,7 @@ datatable: true
       <td>2018-05-13T17:50</td>
       <td>10</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905379/">5905379</a></td>
@@ -15400,7 +15400,7 @@ datatable: true
       <td>2022-03-02T13:48</td>
       <td>149</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905380/">5905380</a></td>
@@ -15411,7 +15411,7 @@ datatable: true
       <td>2024-12-19T13:10</td>
       <td>250</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905381/">5905381</a></td>
@@ -15422,7 +15422,7 @@ datatable: true
       <td>2022-04-04T22:32</td>
       <td>150</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905382/">5905382</a></td>
@@ -15433,7 +15433,7 @@ datatable: true
       <td>2020-05-15T00:36</td>
       <td>79</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905383/">5905383</a></td>
@@ -15444,7 +15444,7 @@ datatable: true
       <td>2024-12-20T11:25</td>
       <td>219</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905395/">5905395</a></td>
@@ -15455,7 +15455,7 @@ datatable: true
       <td>2019-11-12T13:57</td>
       <td>126</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM CP660 BBP700_2 BBP532 BBP470 DOWN_IRRADIANCE412 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 UP_RADIANCE412 UP_RADIANCE443 UP_RADIANCE490 UP_RADIANCE555</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905396/">5905396</a></td>
@@ -15466,7 +15466,7 @@ datatable: true
       <td>2019-11-17T00:37</td>
       <td>133</td>
       <td>TEMP PSAL DOXY CHLA BBP700 BBP532 DOWN_IRRADIANCE412 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 UP_RADIANCE412 UP_RADIANCE443 UP_RADIANCE490 UP_RADIANCE555 NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905397/">5905397</a></td>
@@ -15477,7 +15477,7 @@ datatable: true
       <td>2019-03-24T11:30</td>
       <td>85</td>
       <td>TEMP PSAL DOXY CHLA BBP700 BBP532 DOWN_IRRADIANCE412 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 UP_RADIANCE412 UP_RADIANCE443 UP_RADIANCE490 UP_RADIANCE555 NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905441/">5905441</a></td>
@@ -15488,7 +15488,7 @@ datatable: true
       <td>2023-04-22T06:29</td>
       <td>147</td>
       <td>TEMP PSAL BBP700 CHLA PH_IN_SITU_TOTAL NITRATE DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905442/">5905442</a></td>
@@ -15499,7 +15499,7 @@ datatable: true
       <td>2023-04-21T05:23</td>
       <td>142</td>
       <td>TEMP PSAL BBP700 CHLA PH_IN_SITU_TOTAL NITRATE DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905501/">5905501</a></td>
@@ -15510,7 +15510,7 @@ datatable: true
       <td>2024-12-20T15:27</td>
       <td>167</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP470 BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905505/">5905505</a></td>
@@ -15521,7 +15521,7 @@ datatable: true
       <td>2024-12-23T14:17</td>
       <td>168</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP470 BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905519/">5905519</a></td>
@@ -15532,7 +15532,7 @@ datatable: true
       <td>2024-12-26T14:17</td>
       <td>127</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP470 BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905531/">5905531</a></td>
@@ -15543,7 +15543,7 @@ datatable: true
       <td>2024-12-25T19:35</td>
       <td>90</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR BBP700 CDOM CHLA PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905553/">5905553</a></td>
@@ -15554,7 +15554,7 @@ datatable: true
       <td>2024-12-19T15:25</td>
       <td>130</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP470 BBP700 NITRATE</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905555/">5905555</a></td>
@@ -15565,7 +15565,7 @@ datatable: true
       <td>2024-12-17T15:28</td>
       <td>64</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP470 BBP700</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905556/">5905556</a></td>
@@ -15576,7 +15576,7 @@ datatable: true
       <td>2024-12-21T07:32</td>
       <td>70</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP470 BBP700</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905557/">5905557</a></td>
@@ -15587,7 +15587,7 @@ datatable: true
       <td>2024-12-21T11:50</td>
       <td>50</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905568/">5905568</a></td>
@@ -15598,7 +15598,7 @@ datatable: true
       <td>2024-12-20T06:51</td>
       <td>23</td>
       <td>TEMP PSAL BBP700 CHLA PH_IN_SITU_TOTAL NITRATE DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905583/">5905583</a></td>
@@ -15620,7 +15620,7 @@ datatable: true
       <td>2019-01-16T03:36</td>
       <td>31</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905635/">5905635</a></td>
@@ -15631,7 +15631,7 @@ datatable: true
       <td>2023-04-30T08:53</td>
       <td>186</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905636/">5905636</a></td>
@@ -15642,7 +15642,7 @@ datatable: true
       <td>2023-01-08T02:51</td>
       <td>173</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905637/">5905637</a></td>
@@ -15653,7 +15653,7 @@ datatable: true
       <td>2023-05-07T08:02</td>
       <td>186</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905638/">5905638</a></td>
@@ -15664,7 +15664,7 @@ datatable: true
       <td>2023-04-05T08:39</td>
       <td>148</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905639/">5905639</a></td>
@@ -15675,7 +15675,7 @@ datatable: true
       <td>2023-03-14T13:22</td>
       <td>179</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905969/">5905969</a></td>
@@ -15686,7 +15686,7 @@ datatable: true
       <td>2023-01-17T07:21</td>
       <td>160</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905970/">5905970</a></td>
@@ -15697,7 +15697,7 @@ datatable: true
       <td>2023-04-29T21:09</td>
       <td>170</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905971/">5905971</a></td>
@@ -15708,7 +15708,7 @@ datatable: true
       <td>2024-01-02T05:56</td>
       <td>186</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905972/">5905972</a></td>
@@ -15719,7 +15719,7 @@ datatable: true
       <td>2019-09-28T12:30</td>
       <td>60</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905973/">5905973</a></td>
@@ -15730,7 +15730,7 @@ datatable: true
       <td>2020-08-29T11:41</td>
       <td>107</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905974/">5905974</a></td>
@@ -15741,7 +15741,7 @@ datatable: true
       <td>2023-09-18T11:56</td>
       <td>270</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905975/">5905975</a></td>
@@ -15752,7 +15752,7 @@ datatable: true
       <td>2023-04-11T12:16</td>
       <td>248</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905976/">5905976</a></td>
@@ -15763,7 +15763,7 @@ datatable: true
       <td>2018-10-18T09:17</td>
       <td>1</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905977/">5905977</a></td>
@@ -15774,7 +15774,7 @@ datatable: true
       <td>2021-12-10T01:55</td>
       <td>107</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905980/">5905980</a></td>
@@ -15785,7 +15785,7 @@ datatable: true
       <td>2021-02-21T11:20</td>
       <td>86</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905981/">5905981</a></td>
@@ -15796,7 +15796,7 @@ datatable: true
       <td>2020-06-13T17:18</td>
       <td>61</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905982/">5905982</a></td>
@@ -15807,7 +15807,7 @@ datatable: true
       <td>2023-06-27T18:31</td>
       <td>171</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905983/">5905983</a></td>
@@ -15818,7 +15818,7 @@ datatable: true
       <td>2022-10-31T15:36</td>
       <td>147</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905984/">5905984</a></td>
@@ -15829,7 +15829,7 @@ datatable: true
       <td>2023-07-10T14:46</td>
       <td>173</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905985/">5905985</a></td>
@@ -15840,7 +15840,7 @@ datatable: true
       <td>2023-03-31T12:57</td>
       <td>162</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905986/">5905986</a></td>
@@ -15851,7 +15851,7 @@ datatable: true
       <td>2024-12-20T02:32</td>
       <td>325</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905988/">5905988</a></td>
@@ -15862,7 +15862,7 @@ datatable: true
       <td>2022-10-21T20:51</td>
       <td>200</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905991/">5905991</a></td>
@@ -15873,7 +15873,7 @@ datatable: true
       <td>2023-08-12T22:56</td>
       <td>166</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905992/">5905992</a></td>
@@ -15884,7 +15884,7 @@ datatable: true
       <td>2023-08-29T20:12</td>
       <td>168</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905993/">5905993</a></td>
@@ -15895,7 +15895,7 @@ datatable: true
       <td>2023-01-06T15:48</td>
       <td>48</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905994/">5905994</a></td>
@@ -15906,7 +15906,7 @@ datatable: true
       <td>2024-04-24T05:25</td>
       <td>192</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905995/">5905995</a></td>
@@ -15917,7 +15917,7 @@ datatable: true
       <td>2024-04-07T18:55</td>
       <td>192</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905996/">5905996</a></td>
@@ -15928,7 +15928,7 @@ datatable: true
       <td>2022-07-07T04:51</td>
       <td>130</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905997/">5905997</a></td>
@@ -15939,7 +15939,7 @@ datatable: true
       <td>2023-03-09T20:06</td>
       <td>153</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905998/">5905998</a></td>
@@ -15950,7 +15950,7 @@ datatable: true
       <td>2023-04-12T14:51</td>
       <td>157</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906000/">5906000</a></td>
@@ -15961,7 +15961,7 @@ datatable: true
       <td>2023-04-17T15:26</td>
       <td>157</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906001/">5906001</a></td>
@@ -15972,7 +15972,7 @@ datatable: true
       <td>2019-08-04T01:50</td>
       <td>24</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906002/">5906002</a></td>
@@ -15983,7 +15983,7 @@ datatable: true
       <td>2023-03-11T10:08</td>
       <td>154</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906003/">5906003</a></td>
@@ -15994,7 +15994,7 @@ datatable: true
       <td>2021-09-11T10:28</td>
       <td>93</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906004/">5906004</a></td>
@@ -16005,7 +16005,7 @@ datatable: true
       <td>2019-05-24T10:02</td>
       <td>9</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906005/">5906005</a></td>
@@ -16016,7 +16016,7 @@ datatable: true
       <td>2021-11-18T05:28</td>
       <td>99</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906006/">5906006</a></td>
@@ -16027,7 +16027,7 @@ datatable: true
       <td>2020-07-16T07:11</td>
       <td>50</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906007/">5906007</a></td>
@@ -16038,7 +16038,7 @@ datatable: true
       <td>2022-06-12T18:45</td>
       <td>117</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906008/">5906008</a></td>
@@ -16049,7 +16049,7 @@ datatable: true
       <td>2019-07-13T04:50</td>
       <td>12</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906018/">5906018</a></td>
@@ -16060,7 +16060,7 @@ datatable: true
       <td>2023-05-16T08:13</td>
       <td>284</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906019/">5906019</a></td>
@@ -16071,7 +16071,7 @@ datatable: true
       <td>2023-05-08T06:25</td>
       <td>284</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906020/">5906020</a></td>
@@ -16082,7 +16082,7 @@ datatable: true
       <td>2022-10-23T07:43</td>
       <td>242</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906021/">5906021</a></td>
@@ -16093,7 +16093,7 @@ datatable: true
       <td>2021-07-23T07:00</td>
       <td>172</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906026/">5906026</a></td>
@@ -16104,7 +16104,7 @@ datatable: true
       <td>2024-12-20T17:03</td>
       <td>130</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906027/">5906027</a></td>
@@ -16115,7 +16115,7 @@ datatable: true
       <td>2024-12-25T23:21</td>
       <td>321</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906028/">5906028</a></td>
@@ -16126,7 +16126,7 @@ datatable: true
       <td>2024-12-19T20:29</td>
       <td>355</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906030/">5906030</a></td>
@@ -16137,7 +16137,7 @@ datatable: true
       <td>2023-10-13T19:34</td>
       <td>166</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906031/">5906031</a></td>
@@ -16148,7 +16148,7 @@ datatable: true
       <td>2023-06-26T16:00</td>
       <td>152</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906032/">5906032</a></td>
@@ -16159,7 +16159,7 @@ datatable: true
       <td>2023-01-30T01:15</td>
       <td>136</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906033/">5906033</a></td>
@@ -16170,7 +16170,7 @@ datatable: true
       <td>2023-05-05T16:22</td>
       <td>148</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, A</td>
+      <td>Indian, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906034/">5906034</a></td>
@@ -16181,7 +16181,7 @@ datatable: true
       <td>2023-11-12T08:14</td>
       <td>167</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, A</td>
+      <td>Indian, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906035/">5906035</a></td>
@@ -16192,7 +16192,7 @@ datatable: true
       <td>2023-05-12T06:36</td>
       <td>147</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, A</td>
+      <td>Indian, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906036/">5906036</a></td>
@@ -16203,7 +16203,7 @@ datatable: true
       <td>2019-11-12T22:41</td>
       <td>16</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906039/">5906039</a></td>
@@ -16214,7 +16214,7 @@ datatable: true
       <td>2020-06-04T11:05</td>
       <td>299</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906040/">5906040</a></td>
@@ -16225,7 +16225,7 @@ datatable: true
       <td>2021-10-04T13:17</td>
       <td>303</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906041/">5906041</a></td>
@@ -16236,7 +16236,7 @@ datatable: true
       <td>2021-07-06T08:29</td>
       <td>111</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906042/">5906042</a></td>
@@ -16247,7 +16247,7 @@ datatable: true
       <td>2020-05-05T09:28</td>
       <td>47</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906043/">5906043</a></td>
@@ -16258,7 +16258,7 @@ datatable: true
       <td>2022-07-10T16:41</td>
       <td>200</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906044/">5906044</a></td>
@@ -16269,7 +16269,7 @@ datatable: true
       <td>2024-02-24T07:23</td>
       <td>309</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906045/">5906045</a></td>
@@ -16280,7 +16280,7 @@ datatable: true
       <td>2023-09-14T09:45</td>
       <td>289</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906046/">5906046</a></td>
@@ -16291,7 +16291,7 @@ datatable: true
       <td>2023-03-15T09:14</td>
       <td>213</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906201/">5906201</a></td>
@@ -16302,7 +16302,7 @@ datatable: true
       <td>2024-12-08T18:09</td>
       <td>172</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906202/">5906202</a></td>
@@ -16313,7 +16313,7 @@ datatable: true
       <td>2022-05-25T07:46</td>
       <td>87</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906203/">5906203</a></td>
@@ -16324,7 +16324,7 @@ datatable: true
       <td>2024-12-20T05:14</td>
       <td>181</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906204/">5906204</a></td>
@@ -16335,7 +16335,7 @@ datatable: true
       <td>2024-12-13T13:58</td>
       <td>177</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, A</td>
+      <td>Indian, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906205/">5906205</a></td>
@@ -16346,7 +16346,7 @@ datatable: true
       <td>2023-12-22T22:45</td>
       <td>132</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906206/">5906206</a></td>
@@ -16357,7 +16357,7 @@ datatable: true
       <td>2024-12-16T12:28</td>
       <td>176</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906207/">5906207</a></td>
@@ -16368,7 +16368,7 @@ datatable: true
       <td>2024-12-16T22:59</td>
       <td>176</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906208/">5906208</a></td>
@@ -16379,7 +16379,7 @@ datatable: true
       <td>2024-12-19T05:24</td>
       <td>177</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906209/">5906209</a></td>
@@ -16390,7 +16390,7 @@ datatable: true
       <td>2024-12-19T18:36</td>
       <td>177</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906210/">5906210</a></td>
@@ -16401,7 +16401,7 @@ datatable: true
       <td>2021-06-08T17:16</td>
       <td>50</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906211/">5906211</a></td>
@@ -16412,7 +16412,7 @@ datatable: true
       <td>2022-03-21T09:56</td>
       <td>78</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906212/">5906212</a></td>
@@ -16423,7 +16423,7 @@ datatable: true
       <td>2020-09-24T01:50</td>
       <td>29</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906213/">5906213</a></td>
@@ -16434,7 +16434,7 @@ datatable: true
       <td>2024-10-28T19:38</td>
       <td>164</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906214/">5906214</a></td>
@@ -16445,7 +16445,7 @@ datatable: true
       <td>2020-03-27T12:24</td>
       <td>12</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906215/">5906215</a></td>
@@ -16456,7 +16456,7 @@ datatable: true
       <td>2021-01-01T15:43</td>
       <td>36</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906216/">5906216</a></td>
@@ -16467,7 +16467,7 @@ datatable: true
       <td>2021-12-21T23:52</td>
       <td>72</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906217/">5906217</a></td>
@@ -16478,7 +16478,7 @@ datatable: true
       <td>2024-12-25T16:51</td>
       <td>178</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A, I</td>
+      <td>Pacific, Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906218/">5906218</a></td>
@@ -16489,7 +16489,7 @@ datatable: true
       <td>2024-10-02T20:37</td>
       <td>154</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906219/">5906219</a></td>
@@ -16500,7 +16500,7 @@ datatable: true
       <td>2023-11-04T07:34</td>
       <td>133</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906220/">5906220</a></td>
@@ -16511,7 +16511,7 @@ datatable: true
       <td>2024-06-28T22:52</td>
       <td>80</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906221/">5906221</a></td>
@@ -16522,7 +16522,7 @@ datatable: true
       <td>2024-12-24T00:22</td>
       <td>173</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906222/">5906222</a></td>
@@ -16533,7 +16533,7 @@ datatable: true
       <td>2024-08-30T18:49</td>
       <td>156</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906223/">5906223</a></td>
@@ -16544,7 +16544,7 @@ datatable: true
       <td>2024-12-17T21:45</td>
       <td>179</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906224/">5906224</a></td>
@@ -16555,7 +16555,7 @@ datatable: true
       <td>2024-10-07T19:11</td>
       <td>124</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906225/">5906225</a></td>
@@ -16566,7 +16566,7 @@ datatable: true
       <td>2023-05-02T23:52</td>
       <td>110</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906226/">5906226</a></td>
@@ -16577,7 +16577,7 @@ datatable: true
       <td>2024-12-15T01:25</td>
       <td>142</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906227/">5906227</a></td>
@@ -16588,7 +16588,7 @@ datatable: true
       <td>2024-10-10T13:13</td>
       <td>120</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906228/">5906228</a></td>
@@ -16599,7 +16599,7 @@ datatable: true
       <td>2021-04-05T19:04</td>
       <td>38</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906229/">5906229</a></td>
@@ -16610,7 +16610,7 @@ datatable: true
       <td>2024-12-24T01:14</td>
       <td>198</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A, I, P</td>
+      <td>Atlantic, Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906230/">5906230</a></td>
@@ -16621,7 +16621,7 @@ datatable: true
       <td>2024-12-04T17:42</td>
       <td>211</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906235/">5906235</a></td>
@@ -16632,7 +16632,7 @@ datatable: true
       <td>2024-12-23T07:54</td>
       <td>174</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906236/">5906236</a></td>
@@ -16643,7 +16643,7 @@ datatable: true
       <td>2024-12-22T16:49</td>
       <td>174</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906237/">5906237</a></td>
@@ -16654,7 +16654,7 @@ datatable: true
       <td>2023-07-28T00:30</td>
       <td>123</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906238/">5906238</a></td>
@@ -16665,7 +16665,7 @@ datatable: true
       <td>2024-12-23T16:32</td>
       <td>173</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906243/">5906243</a></td>
@@ -16676,7 +16676,7 @@ datatable: true
       <td>2020-09-02T09:46</td>
       <td>68</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906244/">5906244</a></td>
@@ -16687,7 +16687,7 @@ datatable: true
       <td>2024-12-25T18:20</td>
       <td>170</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906245/">5906245</a></td>
@@ -16698,7 +16698,7 @@ datatable: true
       <td>2024-08-30T16:09</td>
       <td>121</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906246/">5906246</a></td>
@@ -16709,7 +16709,7 @@ datatable: true
       <td>2024-12-26T08:12</td>
       <td>170</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906247/">5906247</a></td>
@@ -16720,7 +16720,7 @@ datatable: true
       <td>2024-11-30T10:21</td>
       <td>113</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906248/">5906248</a></td>
@@ -16731,7 +16731,7 @@ datatable: true
       <td>2024-10-18T08:20</td>
       <td>67</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906249/">5906249</a></td>
@@ -16742,7 +16742,7 @@ datatable: true
       <td>2024-12-20T22:25</td>
       <td>169</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906250/">5906250</a></td>
@@ -16753,7 +16753,7 @@ datatable: true
       <td>2024-09-10T06:18</td>
       <td>116</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906293/">5906293</a></td>
@@ -16764,7 +16764,7 @@ datatable: true
       <td>2024-12-17T05:57</td>
       <td>166</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906294/">5906294</a></td>
@@ -16775,7 +16775,7 @@ datatable: true
       <td>2024-12-25T12:53</td>
       <td>152</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906295/">5906295</a></td>
@@ -16786,7 +16786,7 @@ datatable: true
       <td>2024-12-19T04:07</td>
       <td>151</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906296/">5906296</a></td>
@@ -16797,7 +16797,7 @@ datatable: true
       <td>2023-03-27T18:48</td>
       <td>80</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906297/">5906297</a></td>
@@ -16808,7 +16808,7 @@ datatable: true
       <td>2024-10-21T20:36</td>
       <td>107</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906300/">5906300</a></td>
@@ -16819,7 +16819,7 @@ datatable: true
       <td>2024-12-20T05:28</td>
       <td>156</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906301/">5906301</a></td>
@@ -16830,7 +16830,7 @@ datatable: true
       <td>2024-12-21T19:52</td>
       <td>169</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906302/">5906302</a></td>
@@ -16841,7 +16841,7 @@ datatable: true
       <td>2024-12-20T12:59</td>
       <td>156</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906303/">5906303</a></td>
@@ -16852,7 +16852,7 @@ datatable: true
       <td>2024-12-17T20:13</td>
       <td>156</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906304/">5906304</a></td>
@@ -16863,7 +16863,7 @@ datatable: true
       <td>2024-11-30T05:46</td>
       <td>138</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906305/">5906305</a></td>
@@ -16874,7 +16874,7 @@ datatable: true
       <td>2024-12-24T05:49</td>
       <td>153</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906306/">5906306</a></td>
@@ -16885,7 +16885,7 @@ datatable: true
       <td>2024-10-23T10:22</td>
       <td>143</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906307/">5906307</a></td>
@@ -16896,7 +16896,7 @@ datatable: true
       <td>2024-12-21T23:49</td>
       <td>143</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906308/">5906308</a></td>
@@ -16907,7 +16907,7 @@ datatable: true
       <td>2024-12-25T19:54</td>
       <td>149</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906309/">5906309</a></td>
@@ -16918,7 +16918,7 @@ datatable: true
       <td>2021-01-10T10:24</td>
       <td>4</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906310/">5906310</a></td>
@@ -16929,7 +16929,7 @@ datatable: true
       <td>2024-11-13T22:57</td>
       <td>141</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906311/">5906311</a></td>
@@ -16940,7 +16940,7 @@ datatable: true
       <td>2024-12-16T16:05</td>
       <td>143</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906312/">5906312</a></td>
@@ -16951,7 +16951,7 @@ datatable: true
       <td>2024-12-23T20:58</td>
       <td>76</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906313/">5906313</a></td>
@@ -16962,7 +16962,7 @@ datatable: true
       <td>2024-12-26T00:43</td>
       <td>136</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906314/">5906314</a></td>
@@ -16973,7 +16973,7 @@ datatable: true
       <td>2024-12-14T16:16</td>
       <td>74</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906315/">5906315</a></td>
@@ -16984,7 +16984,7 @@ datatable: true
       <td>2024-12-01T20:17</td>
       <td>112</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906316/">5906316</a></td>
@@ -16995,7 +16995,7 @@ datatable: true
       <td>2024-12-26T07:26</td>
       <td>144</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906317/">5906317</a></td>
@@ -17006,7 +17006,7 @@ datatable: true
       <td>2024-12-07T19:51</td>
       <td>141</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906318/">5906318</a></td>
@@ -17017,7 +17017,7 @@ datatable: true
       <td>2024-12-19T19:54</td>
       <td>145</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906319/">5906319</a></td>
@@ -17028,7 +17028,7 @@ datatable: true
       <td>2024-12-17T23:42</td>
       <td>144</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906320/">5906320</a></td>
@@ -17050,7 +17050,7 @@ datatable: true
       <td>2024-12-17T22:49</td>
       <td>122</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906340/">5906340</a></td>
@@ -17061,7 +17061,7 @@ datatable: true
       <td>2024-12-17T03:52</td>
       <td>136</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906342/">5906342</a></td>
@@ -17072,7 +17072,7 @@ datatable: true
       <td>2024-12-21T08:38</td>
       <td>137</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906343/">5906343</a></td>
@@ -17083,7 +17083,7 @@ datatable: true
       <td>2024-12-24T06:50</td>
       <td>136</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906434/">5906434</a></td>
@@ -17094,7 +17094,7 @@ datatable: true
       <td>2024-09-19T20:30</td>
       <td>126</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906435/">5906435</a></td>
@@ -17105,7 +17105,7 @@ datatable: true
       <td>2024-12-25T20:20</td>
       <td>137</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906436/">5906436</a></td>
@@ -17116,7 +17116,7 @@ datatable: true
       <td>2024-05-30T22:47</td>
       <td>82</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906437/">5906437</a></td>
@@ -17127,7 +17127,7 @@ datatable: true
       <td>2024-12-17T21:38</td>
       <td>132</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906438/">5906438</a></td>
@@ -17138,7 +17138,7 @@ datatable: true
       <td>2024-12-18T11:38</td>
       <td>132</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906439/">5906439</a></td>
@@ -17149,7 +17149,7 @@ datatable: true
       <td>2024-12-18T07:59</td>
       <td>133</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906440/">5906440</a></td>
@@ -17160,7 +17160,7 @@ datatable: true
       <td>2024-12-20T07:18</td>
       <td>137</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906441/">5906441</a></td>
@@ -17171,7 +17171,7 @@ datatable: true
       <td>2023-12-07T13:20</td>
       <td>180</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906442/">5906442</a></td>
@@ -17182,7 +17182,7 @@ datatable: true
       <td>2024-12-16T23:23</td>
       <td>104</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906443/">5906443</a></td>
@@ -17193,7 +17193,7 @@ datatable: true
       <td>2024-12-20T04:32</td>
       <td>72</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906444/">5906444</a></td>
@@ -17204,7 +17204,7 @@ datatable: true
       <td>2024-09-16T14:38</td>
       <td>67</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906445/">5906445</a></td>
@@ -17215,7 +17215,7 @@ datatable: true
       <td>2024-12-22T10:39</td>
       <td>124</td>
       <td>TEMP PSAL DOXY DOXY2 DOXY3</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906446/">5906446</a></td>
@@ -17237,7 +17237,7 @@ datatable: true
       <td>2024-12-23T01:47</td>
       <td>114</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906449/">5906449</a></td>
@@ -17248,7 +17248,7 @@ datatable: true
       <td>2024-12-25T15:36</td>
       <td>113</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906450/">5906450</a></td>
@@ -17259,7 +17259,7 @@ datatable: true
       <td>2024-12-16T05:28</td>
       <td>115</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906468/">5906468</a></td>
@@ -17270,7 +17270,7 @@ datatable: true
       <td>2024-12-17T03:49</td>
       <td>110</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906469/">5906469</a></td>
@@ -17281,7 +17281,7 @@ datatable: true
       <td>2024-12-18T19:12</td>
       <td>110</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906470/">5906470</a></td>
@@ -17292,7 +17292,7 @@ datatable: true
       <td>2024-12-20T23:51</td>
       <td>110</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906471/">5906471</a></td>
@@ -17303,7 +17303,7 @@ datatable: true
       <td>2024-12-24T16:34</td>
       <td>110</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906472/">5906472</a></td>
@@ -17314,7 +17314,7 @@ datatable: true
       <td>2024-08-15T13:49</td>
       <td>95</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906473/">5906473</a></td>
@@ -17325,7 +17325,7 @@ datatable: true
       <td>2024-12-24T04:41</td>
       <td>109</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906474/">5906474</a></td>
@@ -17336,7 +17336,7 @@ datatable: true
       <td>2024-12-25T23:03</td>
       <td>109</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906475/">5906475</a></td>
@@ -17347,7 +17347,7 @@ datatable: true
       <td>2024-12-22T09:01</td>
       <td>106</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906476/">5906476</a></td>
@@ -17358,7 +17358,7 @@ datatable: true
       <td>2024-12-23T16:06</td>
       <td>109</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906477/">5906477</a></td>
@@ -17369,7 +17369,7 @@ datatable: true
       <td>2024-09-10T02:21</td>
       <td>99</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906478/">5906478</a></td>
@@ -17380,7 +17380,7 @@ datatable: true
       <td>2024-12-25T19:03</td>
       <td>125</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906479/">5906479</a></td>
@@ -17391,7 +17391,7 @@ datatable: true
       <td>2024-12-25T12:18</td>
       <td>116</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906480/">5906480</a></td>
@@ -17402,7 +17402,7 @@ datatable: true
       <td>2024-12-25T17:59</td>
       <td>123</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906481/">5906481</a></td>
@@ -17413,7 +17413,7 @@ datatable: true
       <td>2024-12-16T11:34</td>
       <td>87</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906482/">5906482</a></td>
@@ -17424,7 +17424,7 @@ datatable: true
       <td>2024-12-16T13:56</td>
       <td>85</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906483/">5906483</a></td>
@@ -17435,7 +17435,7 @@ datatable: true
       <td>2024-06-23T09:39</td>
       <td>82</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906484/">5906484</a></td>
@@ -17446,7 +17446,7 @@ datatable: true
       <td>2024-10-06T06:28</td>
       <td>97</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906485/">5906485</a></td>
@@ -17457,7 +17457,7 @@ datatable: true
       <td>2022-01-22T19:35</td>
       <td>2</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906486/">5906486</a></td>
@@ -17468,7 +17468,7 @@ datatable: true
       <td>2024-12-11T13:30</td>
       <td>83</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906487/">5906487</a></td>
@@ -17479,7 +17479,7 @@ datatable: true
       <td>2024-12-23T02:05</td>
       <td>101</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906488/">5906488</a></td>
@@ -17490,7 +17490,7 @@ datatable: true
       <td>2024-12-26T05:31</td>
       <td>103</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906489/">5906489</a></td>
@@ -17501,7 +17501,7 @@ datatable: true
       <td>2024-12-22T09:14</td>
       <td>102</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906490/">5906490</a></td>
@@ -17512,7 +17512,7 @@ datatable: true
       <td>2024-12-17T04:56</td>
       <td>100</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906491/">5906491</a></td>
@@ -17523,7 +17523,7 @@ datatable: true
       <td>2024-12-23T12:44</td>
       <td>101</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906492/">5906492</a></td>
@@ -17534,7 +17534,7 @@ datatable: true
       <td>2024-12-17T15:04</td>
       <td>101</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906493/">5906493</a></td>
@@ -17545,7 +17545,7 @@ datatable: true
       <td>2023-05-03T06:10</td>
       <td>7</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906494/">5906494</a></td>
@@ -17556,7 +17556,7 @@ datatable: true
       <td>2024-04-11T19:45</td>
       <td>74</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906495/">5906495</a></td>
@@ -17567,7 +17567,7 @@ datatable: true
       <td>2023-12-20T15:17</td>
       <td>35</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906496/">5906496</a></td>
@@ -17578,7 +17578,7 @@ datatable: true
       <td>2023-05-26T04:02</td>
       <td>43</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906497/">5906497</a></td>
@@ -17589,7 +17589,7 @@ datatable: true
       <td>2024-07-26T11:26</td>
       <td>85</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906498/">5906498</a></td>
@@ -17600,7 +17600,7 @@ datatable: true
       <td>2024-12-26T10:22</td>
       <td>97</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906499/">5906499</a></td>
@@ -17611,7 +17611,7 @@ datatable: true
       <td>2024-05-11T22:16</td>
       <td>75</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906500/">5906500</a></td>
@@ -17622,7 +17622,7 @@ datatable: true
       <td>2024-12-18T06:37</td>
       <td>100</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906501/">5906501</a></td>
@@ -17633,7 +17633,7 @@ datatable: true
       <td>2024-12-26T11:19</td>
       <td>101</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906502/">5906502</a></td>
@@ -17644,7 +17644,7 @@ datatable: true
       <td>2024-12-19T06:25</td>
       <td>106</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906503/">5906503</a></td>
@@ -17655,7 +17655,7 @@ datatable: true
       <td>2024-12-23T08:15</td>
       <td>106</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906507/">5906507</a></td>
@@ -17666,7 +17666,7 @@ datatable: true
       <td>2024-12-24T19:28</td>
       <td>229</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906508/">5906508</a></td>
@@ -17677,7 +17677,7 @@ datatable: true
       <td>2024-12-13T04:41</td>
       <td>102</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906509/">5906509</a></td>
@@ -17688,7 +17688,7 @@ datatable: true
       <td>2024-12-20T16:50</td>
       <td>71</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906510/">5906510</a></td>
@@ -17699,7 +17699,7 @@ datatable: true
       <td>2024-12-18T01:28</td>
       <td>94</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906511/">5906511</a></td>
@@ -17710,7 +17710,7 @@ datatable: true
       <td>2024-12-16T15:45</td>
       <td>91</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906512/">5906512</a></td>
@@ -17721,7 +17721,7 @@ datatable: true
       <td>2024-12-25T12:58</td>
       <td>93</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906513/">5906513</a></td>
@@ -17732,7 +17732,7 @@ datatable: true
       <td>2024-12-03T12:21</td>
       <td>93</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906514/">5906514</a></td>
@@ -17743,7 +17743,7 @@ datatable: true
       <td>2024-12-11T12:07</td>
       <td>87</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906515/">5906515</a></td>
@@ -17754,7 +17754,7 @@ datatable: true
       <td>2024-12-22T00:28</td>
       <td>93</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906516/">5906516</a></td>
@@ -17765,7 +17765,7 @@ datatable: true
       <td>2024-12-19T23:54</td>
       <td>92</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906517/">5906517</a></td>
@@ -17776,7 +17776,7 @@ datatable: true
       <td>2024-12-14T18:41</td>
       <td>87</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906518/">5906518</a></td>
@@ -17787,7 +17787,7 @@ datatable: true
       <td>2024-12-26T09:57</td>
       <td>94</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906519/">5906519</a></td>
@@ -17798,7 +17798,7 @@ datatable: true
       <td>2024-12-24T11:30</td>
       <td>95</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906520/">5906520</a></td>
@@ -17809,7 +17809,7 @@ datatable: true
       <td>2024-12-17T14:32</td>
       <td>89</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906521/">5906521</a></td>
@@ -17820,7 +17820,7 @@ datatable: true
       <td>2024-12-18T01:39</td>
       <td>91</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906522/">5906522</a></td>
@@ -17831,7 +17831,7 @@ datatable: true
       <td>2024-12-23T10:20</td>
       <td>91</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906523/">5906523</a></td>
@@ -17842,7 +17842,7 @@ datatable: true
       <td>2024-12-24T09:16</td>
       <td>89</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906524/">5906524</a></td>
@@ -17853,7 +17853,7 @@ datatable: true
       <td>2024-11-02T23:33</td>
       <td>84</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906525/">5906525</a></td>
@@ -17864,7 +17864,7 @@ datatable: true
       <td>2024-12-25T08:01</td>
       <td>93</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, A</td>
+      <td>Indian, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906526/">5906526</a></td>
@@ -17875,7 +17875,7 @@ datatable: true
       <td>2024-12-18T11:54</td>
       <td>93</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906527/">5906527</a></td>
@@ -17886,7 +17886,7 @@ datatable: true
       <td>2024-12-22T15:28</td>
       <td>93</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, A</td>
+      <td>Indian, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906528/">5906528</a></td>
@@ -17897,7 +17897,7 @@ datatable: true
       <td>2024-12-23T07:14</td>
       <td>93</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906529/">5906529</a></td>
@@ -17908,7 +17908,7 @@ datatable: true
       <td>2024-12-23T03:08</td>
       <td>200</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906530/">5906530</a></td>
@@ -17919,7 +17919,7 @@ datatable: true
       <td>2024-12-17T09:44</td>
       <td>90</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906531/">5906531</a></td>
@@ -17930,7 +17930,7 @@ datatable: true
       <td>2024-12-21T21:39</td>
       <td>86</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906532/">5906532</a></td>
@@ -17941,7 +17941,7 @@ datatable: true
       <td>2024-12-22T10:48</td>
       <td>124</td>
       <td>TEMP PSAL DOXY DOXY2 DOXY3</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906533/">5906533</a></td>
@@ -17952,7 +17952,7 @@ datatable: true
       <td>2024-12-26T02:54</td>
       <td>89</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906534/">5906534</a></td>
@@ -17963,7 +17963,7 @@ datatable: true
       <td>2024-09-11T12:45</td>
       <td>67</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906535/">5906535</a></td>
@@ -17974,7 +17974,7 @@ datatable: true
       <td>2023-11-12T18:26</td>
       <td>43</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906536/">5906536</a></td>
@@ -17985,7 +17985,7 @@ datatable: true
       <td>2024-12-16T18:47</td>
       <td>78</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906537/">5906537</a></td>
@@ -17996,7 +17996,7 @@ datatable: true
       <td>2024-12-26T03:32</td>
       <td>77</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906538/">5906538</a></td>
@@ -18007,7 +18007,7 @@ datatable: true
       <td>2024-12-23T01:26</td>
       <td>77</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906539/">5906539</a></td>
@@ -18018,7 +18018,7 @@ datatable: true
       <td>2024-12-11T03:05</td>
       <td>78</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906540/">5906540</a></td>
@@ -18029,7 +18029,7 @@ datatable: true
       <td>2024-12-24T02:23</td>
       <td>80</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906541/">5906541</a></td>
@@ -18040,7 +18040,7 @@ datatable: true
       <td>2024-12-20T21:40</td>
       <td>76</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906542/">5906542</a></td>
@@ -18051,7 +18051,7 @@ datatable: true
       <td>2024-09-03T17:40</td>
       <td>61</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906544/">5906544</a></td>
@@ -18062,7 +18062,7 @@ datatable: true
       <td>2024-12-25T03:25</td>
       <td>68</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A, I</td>
+      <td>Pacific, Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906545/">5906545</a></td>
@@ -18073,7 +18073,7 @@ datatable: true
       <td>2024-12-23T07:19</td>
       <td>74</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906546/">5906546</a></td>
@@ -18084,7 +18084,7 @@ datatable: true
       <td>2024-12-23T05:31</td>
       <td>74</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906547/">5906547</a></td>
@@ -18095,7 +18095,7 @@ datatable: true
       <td>2022-12-30T17:10</td>
       <td>5</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906548/">5906548</a></td>
@@ -18106,7 +18106,7 @@ datatable: true
       <td>2024-12-21T01:45</td>
       <td>75</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906549/">5906549</a></td>
@@ -18117,7 +18117,7 @@ datatable: true
       <td>2024-12-25T12:22</td>
       <td>74</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906550/">5906550</a></td>
@@ -18128,7 +18128,7 @@ datatable: true
       <td>2024-12-17T11:45</td>
       <td>72</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906551/">5906551</a></td>
@@ -18139,7 +18139,7 @@ datatable: true
       <td>2024-12-24T07:07</td>
       <td>71</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906552/">5906552</a></td>
@@ -18150,7 +18150,7 @@ datatable: true
       <td>2024-12-25T05:45</td>
       <td>71</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906553/">5906553</a></td>
@@ -18161,7 +18161,7 @@ datatable: true
       <td>2024-12-21T09:03</td>
       <td>71</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906554/">5906554</a></td>
@@ -18172,7 +18172,7 @@ datatable: true
       <td>2024-12-23T11:51</td>
       <td>71</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906555/">5906555</a></td>
@@ -18183,7 +18183,7 @@ datatable: true
       <td>2023-01-03T12:18</td>
       <td>1</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906556/">5906556</a></td>
@@ -18194,7 +18194,7 @@ datatable: true
       <td>2024-05-12T09:55</td>
       <td>49</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906557/">5906557</a></td>
@@ -18205,7 +18205,7 @@ datatable: true
       <td>2024-04-02T12:00</td>
       <td>45</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906558/">5906558</a></td>
@@ -18216,7 +18216,7 @@ datatable: true
       <td>2023-05-02T05:52</td>
       <td>12</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906559/">5906559</a></td>
@@ -18227,7 +18227,7 @@ datatable: true
       <td>2024-06-20T05:37</td>
       <td>52</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906560/">5906560</a></td>
@@ -18238,7 +18238,7 @@ datatable: true
       <td>2024-12-24T22:56</td>
       <td>70</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906561/">5906561</a></td>
@@ -18249,7 +18249,7 @@ datatable: true
       <td>2024-12-18T21:43</td>
       <td>68</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906562/">5906562</a></td>
@@ -18260,7 +18260,7 @@ datatable: true
       <td>2024-12-20T21:01</td>
       <td>69</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906563/">5906563</a></td>
@@ -18271,7 +18271,7 @@ datatable: true
       <td>2024-12-22T15:10</td>
       <td>78</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906564/">5906564</a></td>
@@ -18282,7 +18282,7 @@ datatable: true
       <td>2024-12-17T01:51</td>
       <td>77</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906565/">5906565</a></td>
@@ -18293,7 +18293,7 @@ datatable: true
       <td>2023-10-29T01:51</td>
       <td>35</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906566/">5906566</a></td>
@@ -18304,7 +18304,7 @@ datatable: true
       <td>2024-12-26T12:23</td>
       <td>74</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906567/">5906567</a></td>
@@ -18315,7 +18315,7 @@ datatable: true
       <td>2024-12-21T09:46</td>
       <td>75</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906568/">5906568</a></td>
@@ -18326,7 +18326,7 @@ datatable: true
       <td>2024-12-17T05:04</td>
       <td>74</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906569/">5906569</a></td>
@@ -18337,7 +18337,7 @@ datatable: true
       <td>2024-12-19T00:32</td>
       <td>74</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906570/">5906570</a></td>
@@ -18348,7 +18348,7 @@ datatable: true
       <td>2024-12-22T10:38</td>
       <td>74</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906571/">5906571</a></td>
@@ -18359,7 +18359,7 @@ datatable: true
       <td>2024-12-25T13:32</td>
       <td>72</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906572/">5906572</a></td>
@@ -18370,7 +18370,7 @@ datatable: true
       <td>2024-12-18T10:48</td>
       <td>72</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906573/">5906573</a></td>
@@ -18381,7 +18381,7 @@ datatable: true
       <td>2024-12-24T01:03</td>
       <td>72</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906574/">5906574</a></td>
@@ -18392,7 +18392,7 @@ datatable: true
       <td>2024-12-16T07:30</td>
       <td>71</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906575/">5906575</a></td>
@@ -18403,7 +18403,7 @@ datatable: true
       <td>2024-12-16T13:20</td>
       <td>71</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906576/">5906576</a></td>
@@ -18414,7 +18414,7 @@ datatable: true
       <td>2024-12-19T23:35</td>
       <td>71</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906577/">5906577</a></td>
@@ -18425,7 +18425,7 @@ datatable: true
       <td>2024-12-24T14:31</td>
       <td>71</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906578/">5906578</a></td>
@@ -18436,7 +18436,7 @@ datatable: true
       <td>2024-07-16T03:05</td>
       <td>43</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906579/">5906579</a></td>
@@ -18447,7 +18447,7 @@ datatable: true
       <td>2024-12-17T21:59</td>
       <td>69</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906580/">5906580</a></td>
@@ -18458,7 +18458,7 @@ datatable: true
       <td>2024-12-19T18:23</td>
       <td>69</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906581/">5906581</a></td>
@@ -18469,7 +18469,7 @@ datatable: true
       <td>2024-12-25T23:49</td>
       <td>70</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906582/">5906582</a></td>
@@ -18480,7 +18480,7 @@ datatable: true
       <td>2024-04-02T20:41</td>
       <td>44</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906583/">5906583</a></td>
@@ -18491,7 +18491,7 @@ datatable: true
       <td>2024-12-26T11:46</td>
       <td>67</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906596/">5906596</a></td>
@@ -18502,7 +18502,7 @@ datatable: true
       <td>2024-12-23T09:30</td>
       <td>107</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906597/">5906597</a></td>
@@ -18513,7 +18513,7 @@ datatable: true
       <td>2024-12-21T11:19</td>
       <td>105</td>
       <td>TEMP PSAL DOXY CHLA BBP700 CDOM NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906623/">5906623</a></td>
@@ -18524,7 +18524,7 @@ datatable: true
       <td>2023-11-16T14:51</td>
       <td>295</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR BBP700 CDOM CHLA PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906624/">5906624</a></td>
@@ -18535,7 +18535,7 @@ datatable: true
       <td>2024-12-26T23:03</td>
       <td>217</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR BBP700 CDOM CHLA PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906635/">5906635</a></td>
@@ -18546,7 +18546,7 @@ datatable: true
       <td>2024-12-19T15:45</td>
       <td>148</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP470 BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906636/">5906636</a></td>
@@ -18557,7 +18557,7 @@ datatable: true
       <td>2024-12-25T19:25</td>
       <td>147</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP470 BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906645/">5906645</a></td>
@@ -18568,7 +18568,7 @@ datatable: true
       <td>2024-12-23T19:41</td>
       <td>161</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP470 BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906661/">5906661</a></td>
@@ -18579,7 +18579,7 @@ datatable: true
       <td>2024-12-18T17:15</td>
       <td>133</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL NITRATE DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP470 BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906765/">5906765</a></td>
@@ -18590,7 +18590,7 @@ datatable: true
       <td>2024-12-19T11:41</td>
       <td>145</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL CHLA BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE CHLA_FLUORESCENCE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906766/">5906766</a></td>
@@ -18601,7 +18601,7 @@ datatable: true
       <td>2022-04-05T20:26</td>
       <td>19</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL CHLA BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE CHLA_FLUORESCENCE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906767/">5906767</a></td>
@@ -18612,7 +18612,7 @@ datatable: true
       <td>2024-12-16T20:59</td>
       <td>119</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906866/">5906866</a></td>
@@ -18623,7 +18623,7 @@ datatable: true
       <td>2024-12-09T17:53</td>
       <td>77</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906868/">5906868</a></td>
@@ -18634,7 +18634,7 @@ datatable: true
       <td>2022-04-21T09:44</td>
       <td>30</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660 NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906969/">5906969</a></td>
@@ -18645,7 +18645,7 @@ datatable: true
       <td>2024-12-25T17:51</td>
       <td>88</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906970/">5906970</a></td>
@@ -18656,7 +18656,7 @@ datatable: true
       <td>2024-12-21T08:11</td>
       <td>83</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660 DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906971/">5906971</a></td>
@@ -18667,7 +18667,7 @@ datatable: true
       <td>2024-12-20T13:59</td>
       <td>87</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE</td>
-      <td>I, A</td>
+      <td>Indian, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906972/">5906972</a></td>
@@ -18678,7 +18678,7 @@ datatable: true
       <td>2024-09-09T21:09</td>
       <td>78</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906981/">5906981</a></td>
@@ -18689,7 +18689,7 @@ datatable: true
       <td>2024-12-22T22:11</td>
       <td>57</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906990/">5906990</a></td>
@@ -18700,7 +18700,7 @@ datatable: true
       <td>2024-12-25T10:38</td>
       <td>182</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906993/">5906993</a></td>
@@ -18711,7 +18711,7 @@ datatable: true
       <td>2024-12-26T02:27</td>
       <td>42</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906994/">5906994</a></td>
@@ -18722,7 +18722,7 @@ datatable: true
       <td>2024-12-24T21:26</td>
       <td>56</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907047/">5907047</a></td>
@@ -18733,7 +18733,7 @@ datatable: true
       <td>2024-12-18T12:40</td>
       <td>41</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907050/">5907050</a></td>
@@ -18744,7 +18744,7 @@ datatable: true
       <td>2024-12-17T02:03</td>
       <td>46</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907051/">5907051</a></td>
@@ -18755,7 +18755,7 @@ datatable: true
       <td>2024-12-21T07:54</td>
       <td>48</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907052/">5907052</a></td>
@@ -18766,7 +18766,7 @@ datatable: true
       <td>2024-12-21T12:58</td>
       <td>28</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907054/">5907054</a></td>
@@ -18777,7 +18777,7 @@ datatable: true
       <td>2024-12-15T19:15</td>
       <td>29</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907055/">5907055</a></td>
@@ -18788,7 +18788,7 @@ datatable: true
       <td>2024-04-07T01:19</td>
       <td>21</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907058/">5907058</a></td>
@@ -18799,7 +18799,7 @@ datatable: true
       <td>2024-12-07T07:13</td>
       <td>42</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907061/">5907061</a></td>
@@ -18810,7 +18810,7 @@ datatable: true
       <td>2024-12-04T15:04</td>
       <td>128</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907063/">5907063</a></td>
@@ -18821,7 +18821,7 @@ datatable: true
       <td>2024-12-26T12:04</td>
       <td>44</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907064/">5907064</a></td>
@@ -18832,7 +18832,7 @@ datatable: true
       <td>2024-12-25T11:24</td>
       <td>4</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907065/">5907065</a></td>
@@ -18843,7 +18843,7 @@ datatable: true
       <td>2024-12-20T05:52</td>
       <td>2</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907066/">5907066</a></td>
@@ -18854,7 +18854,7 @@ datatable: true
       <td>2024-12-19T05:50</td>
       <td>2</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, A</td>
+      <td>Indian, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907071/">5907071</a></td>
@@ -18865,7 +18865,7 @@ datatable: true
       <td>2024-12-20T14:02</td>
       <td>24</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907072/">5907072</a></td>
@@ -18876,7 +18876,7 @@ datatable: true
       <td>2024-12-21T01:50</td>
       <td>24</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907086/">5907086</a></td>
@@ -18887,7 +18887,7 @@ datatable: true
       <td>2024-12-25T00:37</td>
       <td>27</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907088/">5907088</a></td>
@@ -18898,7 +18898,7 @@ datatable: true
       <td>2024-12-23T05:13</td>
       <td>162</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907090/">5907090</a></td>
@@ -18909,7 +18909,7 @@ datatable: true
       <td>2024-12-22T01:39</td>
       <td>48</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907091/">5907091</a></td>
@@ -18920,7 +18920,7 @@ datatable: true
       <td>2024-02-18T09:41</td>
       <td>5</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907092/">5907092</a></td>
@@ -18931,7 +18931,7 @@ datatable: true
       <td>2024-12-26T13:40</td>
       <td>73</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907108/">5907108</a></td>
@@ -18942,7 +18942,7 @@ datatable: true
       <td>2024-12-18T12:17</td>
       <td>21</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5907126/">5907126</a></td>
@@ -18953,7 +18953,7 @@ datatable: true
       <td>2024-12-23T18:01</td>
       <td>16</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900346/">6900346</a></td>
@@ -18964,7 +18964,7 @@ datatable: true
       <td>2009-01-23T06:16</td>
       <td>181</td>
       <td>PSAL TEMP DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900347/">6900347</a></td>
@@ -18975,7 +18975,7 @@ datatable: true
       <td>2007-03-21T01:25</td>
       <td>80</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900348/">6900348</a></td>
@@ -18986,7 +18986,7 @@ datatable: true
       <td>2008-10-08T19:20</td>
       <td>62</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900499/">6900499</a></td>
@@ -18997,7 +18997,7 @@ datatable: true
       <td>2009-08-09T23:22</td>
       <td>129</td>
       <td>PSAL TEMP DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900500/">6900500</a></td>
@@ -19008,7 +19008,7 @@ datatable: true
       <td>2009-08-08T22:25</td>
       <td>136</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900524/">6900524</a></td>
@@ -19019,7 +19019,7 @@ datatable: true
       <td>2009-12-16T14:15</td>
       <td>58</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900525/">6900525</a></td>
@@ -19030,7 +19030,7 @@ datatable: true
       <td>2012-05-06T15:19</td>
       <td>145</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900526/">6900526</a></td>
@@ -19041,7 +19041,7 @@ datatable: true
       <td>2016-08-10T17:39</td>
       <td>91</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900527/">6900527</a></td>
@@ -19052,7 +19052,7 @@ datatable: true
       <td>2016-05-26T17:31</td>
       <td>83</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900528/">6900528</a></td>
@@ -19063,7 +19063,7 @@ datatable: true
       <td>2016-04-18T15:29</td>
       <td>79</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900529/">6900529</a></td>
@@ -19074,7 +19074,7 @@ datatable: true
       <td>2016-08-11T12:34</td>
       <td>91</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900530/">6900530</a></td>
@@ -19085,7 +19085,7 @@ datatable: true
       <td>2016-07-12T19:05</td>
       <td>88</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900531/">6900531</a></td>
@@ -19096,7 +19096,7 @@ datatable: true
       <td>2016-03-29T09:52</td>
       <td>77</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900532/">6900532</a></td>
@@ -19107,7 +19107,7 @@ datatable: true
       <td>2016-08-11T18:55</td>
       <td>91</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900627/">6900627</a></td>
@@ -19118,7 +19118,7 @@ datatable: true
       <td>2009-09-05T04:33</td>
       <td>84</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900628/">6900628</a></td>
@@ -19129,7 +19129,7 @@ datatable: true
       <td>2011-10-05T04:40</td>
       <td>191</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900629/">6900629</a></td>
@@ -19140,7 +19140,7 @@ datatable: true
       <td>2012-01-24T04:45</td>
       <td>197</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900630/">6900630</a></td>
@@ -19151,7 +19151,7 @@ datatable: true
       <td>2011-11-25T05:16</td>
       <td>198</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900631/">6900631</a></td>
@@ -19162,7 +19162,7 @@ datatable: true
       <td>2009-03-01T17:33</td>
       <td>78</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900632/">6900632</a></td>
@@ -19173,7 +19173,7 @@ datatable: true
       <td>2009-05-18T20:02</td>
       <td>91</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900642/">6900642</a></td>
@@ -19184,7 +19184,7 @@ datatable: true
       <td>2013-10-31T05:51</td>
       <td>197</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900643/">6900643</a></td>
@@ -19195,7 +19195,7 @@ datatable: true
       <td>2013-09-24T05:48</td>
       <td>193</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900760/">6900760</a></td>
@@ -19206,7 +19206,7 @@ datatable: true
       <td>2013-05-03T00:34</td>
       <td>98</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900764/">6900764</a></td>
@@ -19217,7 +19217,7 @@ datatable: true
       <td>2013-09-19T09:15</td>
       <td>96</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900784/">6900784</a></td>
@@ -19228,7 +19228,7 @@ datatable: true
       <td>2012-08-16T20:46</td>
       <td>72</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900785/">6900785</a></td>
@@ -19239,7 +19239,7 @@ datatable: true
       <td>2012-06-08T06:48</td>
       <td>65</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900791/">6900791</a></td>
@@ -19250,7 +19250,7 @@ datatable: true
       <td>2024-12-21T07:41</td>
       <td>139</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900792/">6900792</a></td>
@@ -19261,7 +19261,7 @@ datatable: true
       <td>2024-04-27T07:01</td>
       <td>122</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900793/">6900793</a></td>
@@ -19272,7 +19272,7 @@ datatable: true
       <td>2024-12-20T07:01</td>
       <td>139</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900796/">6900796</a></td>
@@ -19283,7 +19283,7 @@ datatable: true
       <td>2013-01-19T00:16</td>
       <td>133</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900797/">6900797</a></td>
@@ -19294,7 +19294,7 @@ datatable: true
       <td>2011-04-08T18:31</td>
       <td>31</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900798/">6900798</a></td>
@@ -19305,7 +19305,7 @@ datatable: true
       <td>2015-09-13T23:45</td>
       <td>314</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900799/">6900799</a></td>
@@ -19316,7 +19316,7 @@ datatable: true
       <td>2013-09-20T22:47</td>
       <td>156</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900804/">6900804</a></td>
@@ -19327,7 +19327,7 @@ datatable: true
       <td>2013-07-01T08:37</td>
       <td>166</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900807/">6900807</a></td>
@@ -19338,7 +19338,7 @@ datatable: true
       <td>2018-09-08T22:46</td>
       <td>518</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900868/">6900868</a></td>
@@ -19349,7 +19349,7 @@ datatable: true
       <td>2013-05-22T08:51</td>
       <td>79</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900869/">6900869</a></td>
@@ -19360,7 +19360,7 @@ datatable: true
       <td>2014-04-07T13:04</td>
       <td>111</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900870/">6900870</a></td>
@@ -19371,7 +19371,7 @@ datatable: true
       <td>2016-04-26T17:28</td>
       <td>186</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900871/">6900871</a></td>
@@ -19382,7 +19382,7 @@ datatable: true
       <td>2015-08-08T08:53</td>
       <td>159</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900872/">6900872</a></td>
@@ -19393,7 +19393,7 @@ datatable: true
       <td>2014-05-27T10:28</td>
       <td>116</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900873/">6900873</a></td>
@@ -19404,7 +19404,7 @@ datatable: true
       <td>2013-08-30T13:58</td>
       <td>88</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900874/">6900874</a></td>
@@ -19415,7 +19415,7 @@ datatable: true
       <td>2014-11-03T17:20</td>
       <td>132</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900875/">6900875</a></td>
@@ -19426,7 +19426,7 @@ datatable: true
       <td>2014-07-14T08:51</td>
       <td>120</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900876/">6900876</a></td>
@@ -19437,7 +19437,7 @@ datatable: true
       <td>2017-01-30T07:02</td>
       <td>175</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900877/">6900877</a></td>
@@ -19448,7 +19448,7 @@ datatable: true
       <td>2016-12-26T12:19</td>
       <td>133</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900889/">6900889</a></td>
@@ -19459,7 +19459,7 @@ datatable: true
       <td>2018-04-16T12:08</td>
       <td>262</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900890/">6900890</a></td>
@@ -19470,7 +19470,7 @@ datatable: true
       <td>2017-02-28T20:50</td>
       <td>259</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900891/">6900891</a></td>
@@ -19481,7 +19481,7 @@ datatable: true
       <td>2016-07-08T18:43</td>
       <td>123</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900896/">6900896</a></td>
@@ -19492,7 +19492,7 @@ datatable: true
       <td>2016-04-30T20:52</td>
       <td>205</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900944/">6900944</a></td>
@@ -19503,7 +19503,7 @@ datatable: true
       <td>2012-11-13T23:52</td>
       <td>41</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900953/">6900953</a></td>
@@ -19514,7 +19514,7 @@ datatable: true
       <td>2014-11-07T02:03</td>
       <td>108</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6900954/">6900954</a></td>
@@ -19525,7 +19525,7 @@ datatable: true
       <td>2017-01-16T01:49</td>
       <td>188</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901004/">6901004</a></td>
@@ -19536,7 +19536,7 @@ datatable: true
       <td>2018-01-06T23:59</td>
       <td>351</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660 NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901021/">6901021</a></td>
@@ -19547,7 +19547,7 @@ datatable: true
       <td>2017-09-30T23:07</td>
       <td>194</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901022/">6901022</a></td>
@@ -19558,7 +19558,7 @@ datatable: true
       <td>2018-01-17T23:07</td>
       <td>204</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901023/">6901023</a></td>
@@ -19569,7 +19569,7 @@ datatable: true
       <td>2018-04-19T22:59</td>
       <td>213</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901024/">6901024</a></td>
@@ -19580,7 +19580,7 @@ datatable: true
       <td>2014-03-13T22:54</td>
       <td>63</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901025/">6901025</a></td>
@@ -19591,7 +19591,7 @@ datatable: true
       <td>2017-12-12T21:36</td>
       <td>200</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901026/">6901026</a></td>
@@ -19602,7 +19602,7 @@ datatable: true
       <td>2016-11-09T22:39</td>
       <td>160</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901027/">6901027</a></td>
@@ -19613,7 +19613,7 @@ datatable: true
       <td>2018-03-05T23:28</td>
       <td>208</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901028/">6901028</a></td>
@@ -19624,7 +19624,7 @@ datatable: true
       <td>2013-04-21T22:36</td>
       <td>30</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901029/">6901029</a></td>
@@ -19635,7 +19635,7 @@ datatable: true
       <td>2014-02-26T22:42</td>
       <td>61</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901030/">6901030</a></td>
@@ -19646,7 +19646,7 @@ datatable: true
       <td>2018-01-16T23:23</td>
       <td>203</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901032/">6901032</a></td>
@@ -19657,7 +19657,7 @@ datatable: true
       <td>2013-01-25T11:56</td>
       <td>26</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901151/">6901151</a></td>
@@ -19668,7 +19668,7 @@ datatable: true
       <td>2015-08-08T13:40</td>
       <td>214</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 BBP532</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901152/">6901152</a></td>
@@ -19679,7 +19679,7 @@ datatable: true
       <td>2017-10-09T13:51</td>
       <td>392</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 BBP532</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901174/">6901174</a></td>
@@ -19690,7 +19690,7 @@ datatable: true
       <td>2019-05-23T13:37</td>
       <td>333</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 BBP532</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901175/">6901175</a></td>
@@ -19701,7 +19701,7 @@ datatable: true
       <td>2018-10-06T13:39</td>
       <td>309</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 BBP532</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901180/">6901180</a></td>
@@ -19712,7 +19712,7 @@ datatable: true
       <td>2020-05-22T13:54</td>
       <td>456</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 BBP532</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901181/">6901181</a></td>
@@ -19723,7 +19723,7 @@ datatable: true
       <td>2020-08-05T12:52</td>
       <td>494</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 BBP532</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901182/">6901182</a></td>
@@ -19734,7 +19734,7 @@ datatable: true
       <td>2022-10-04T16:03</td>
       <td>383</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 BBP532</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901183/">6901183</a></td>
@@ -19745,7 +19745,7 @@ datatable: true
       <td>2020-09-10T16:05</td>
       <td>369</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 BBP532</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901235/">6901235</a></td>
@@ -19756,7 +19756,7 @@ datatable: true
       <td>2017-08-06T08:07</td>
       <td>116</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901437/">6901437</a></td>
@@ -19767,7 +19767,7 @@ datatable: true
       <td>2018-12-05T13:07</td>
       <td>224</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901439/">6901439</a></td>
@@ -19778,7 +19778,7 @@ datatable: true
       <td>2014-02-06T13:41</td>
       <td>456</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901440/">6901440</a></td>
@@ -19789,7 +19789,7 @@ datatable: true
       <td>2012-12-10T06:49</td>
       <td>17</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660 NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901457/">6901457</a></td>
@@ -19800,7 +19800,7 @@ datatable: true
       <td>2018-03-29T23:04</td>
       <td>64</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901458/">6901458</a></td>
@@ -19811,7 +19811,7 @@ datatable: true
       <td>2018-12-11T21:44</td>
       <td>179</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901459/">6901459</a></td>
@@ -19822,7 +19822,7 @@ datatable: true
       <td>2018-02-05T21:19</td>
       <td>148</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901460/">6901460</a></td>
@@ -19833,7 +19833,7 @@ datatable: true
       <td>2015-07-27T06:13</td>
       <td>78</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901461/">6901461</a></td>
@@ -19844,7 +19844,7 @@ datatable: true
       <td>2019-04-17T22:44</td>
       <td>190</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901462/">6901462</a></td>
@@ -19855,7 +19855,7 @@ datatable: true
       <td>2015-01-01T05:55</td>
       <td>57</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901463/">6901463</a></td>
@@ -19866,7 +19866,7 @@ datatable: true
       <td>2015-08-02T06:21</td>
       <td>77</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901464/">6901464</a></td>
@@ -19877,7 +19877,7 @@ datatable: true
       <td>2015-12-04T05:55</td>
       <td>104</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901465/">6901465</a></td>
@@ -19888,7 +19888,7 @@ datatable: true
       <td>2017-04-29T06:24</td>
       <td>207</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901466/">6901466</a></td>
@@ -19899,7 +19899,7 @@ datatable: true
       <td>2015-08-29T05:12</td>
       <td>76</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901467/">6901467</a></td>
@@ -19910,7 +19910,7 @@ datatable: true
       <td>2014-06-02T06:14</td>
       <td>206</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901468/">6901468</a></td>
@@ -19921,7 +19921,7 @@ datatable: true
       <td>2013-01-15T06:57</td>
       <td>53</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901470/">6901470</a></td>
@@ -19932,7 +19932,7 @@ datatable: true
       <td>2014-05-23T05:42</td>
       <td>166</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901471/">6901471</a></td>
@@ -19943,7 +19943,7 @@ datatable: true
       <td>2013-08-21T05:52</td>
       <td>113</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901472/">6901472</a></td>
@@ -19954,7 +19954,7 @@ datatable: true
       <td>2018-10-19T15:19</td>
       <td>225</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901473/">6901473</a></td>
@@ -19965,7 +19965,7 @@ datatable: true
       <td>2016-06-25T10:00</td>
       <td>560</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901474/">6901474</a></td>
@@ -19976,7 +19976,7 @@ datatable: true
       <td>2015-06-26T08:52</td>
       <td>397</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660 NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901475/">6901475</a></td>
@@ -19998,7 +19998,7 @@ datatable: true
       <td>2015-12-07T05:24</td>
       <td>125</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901480/">6901480</a></td>
@@ -20042,7 +20042,7 @@ datatable: true
       <td>2014-03-27T10:39</td>
       <td>61</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901484/">6901484</a></td>
@@ -20053,7 +20053,7 @@ datatable: true
       <td>2014-04-12T15:36</td>
       <td>65</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901485/">6901485</a></td>
@@ -20064,7 +20064,7 @@ datatable: true
       <td>2016-03-04T15:24</td>
       <td>179</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901486/">6901486</a></td>
@@ -20075,7 +20075,7 @@ datatable: true
       <td>2017-07-20T14:53</td>
       <td>353</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901487/">6901487</a></td>
@@ -20086,7 +20086,7 @@ datatable: true
       <td>2013-12-19T05:56</td>
       <td>159</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901489/">6901489</a></td>
@@ -20108,7 +20108,7 @@ datatable: true
       <td>2013-07-07T10:46</td>
       <td>11</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901491/">6901491</a></td>
@@ -20174,7 +20174,7 @@ datatable: true
       <td>2014-03-13T11:38</td>
       <td>182</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901510/">6901510</a></td>
@@ -20185,7 +20185,7 @@ datatable: true
       <td>2015-05-26T10:35</td>
       <td>181</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901511/">6901511</a></td>
@@ -20207,7 +20207,7 @@ datatable: true
       <td>2014-05-04T11:35</td>
       <td>147</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901513/">6901513</a></td>
@@ -20229,7 +20229,7 @@ datatable: true
       <td>2013-06-21T13:36</td>
       <td>39</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901515/">6901515</a></td>
@@ -20240,7 +20240,7 @@ datatable: true
       <td>2014-03-02T15:29</td>
       <td>78</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901516/">6901516</a></td>
@@ -20284,7 +20284,7 @@ datatable: true
       <td>2015-04-08T14:36</td>
       <td>177</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901520/">6901520</a></td>
@@ -20306,7 +20306,7 @@ datatable: true
       <td>2014-04-06T15:42</td>
       <td>70</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901522/">6901522</a></td>
@@ -20317,7 +20317,7 @@ datatable: true
       <td>2013-05-18T11:41</td>
       <td>6</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901523/">6901523</a></td>
@@ -20328,7 +20328,7 @@ datatable: true
       <td>2015-06-22T14:20</td>
       <td>158</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901524/">6901524</a></td>
@@ -20383,7 +20383,7 @@ datatable: true
       <td>2015-05-23T09:40</td>
       <td>188</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901529/">6901529</a></td>
@@ -20405,7 +20405,7 @@ datatable: true
       <td>2017-02-19T09:45</td>
       <td>178</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901574/">6901574</a></td>
@@ -20449,7 +20449,7 @@ datatable: true
       <td>2016-02-29T09:44</td>
       <td>61</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901578/">6901578</a></td>
@@ -20460,7 +20460,7 @@ datatable: true
       <td>2019-01-10T02:54</td>
       <td>364</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901579/">6901579</a></td>
@@ -20471,7 +20471,7 @@ datatable: true
       <td>2016-09-09T07:43</td>
       <td>181</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901580/">6901580</a></td>
@@ -20482,7 +20482,7 @@ datatable: true
       <td>2016-07-30T04:42</td>
       <td>159</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901581/">6901581</a></td>
@@ -20493,7 +20493,7 @@ datatable: true
       <td>2017-09-15T04:03</td>
       <td>372</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901582/">6901582</a></td>
@@ -20504,7 +20504,7 @@ datatable: true
       <td>2018-09-29T11:07</td>
       <td>328</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660 NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901583/">6901583</a></td>
@@ -20515,7 +20515,7 @@ datatable: true
       <td>2018-11-15T01:48</td>
       <td>314</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660 NITRATE</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901584/">6901584</a></td>
@@ -20526,7 +20526,7 @@ datatable: true
       <td>2018-11-17T06:55</td>
       <td>364</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901585/">6901585</a></td>
@@ -20537,7 +20537,7 @@ datatable: true
       <td>2017-10-08T08:37</td>
       <td>227</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901592/">6901592</a></td>
@@ -20548,7 +20548,7 @@ datatable: true
       <td>2016-12-06T22:39</td>
       <td>93</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901593/">6901593</a></td>
@@ -20559,7 +20559,7 @@ datatable: true
       <td>2017-11-28T23:09</td>
       <td>129</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901595/">6901595</a></td>
@@ -20570,7 +20570,7 @@ datatable: true
       <td>2016-01-15T22:35</td>
       <td>23</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901596/">6901596</a></td>
@@ -20581,7 +20581,7 @@ datatable: true
       <td>2016-11-06T05:45</td>
       <td>163</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901597/">6901597</a></td>
@@ -20592,7 +20592,7 @@ datatable: true
       <td>2014-08-31T06:47</td>
       <td>23</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901600/">6901600</a></td>
@@ -20614,7 +20614,7 @@ datatable: true
       <td>2020-02-25T09:18</td>
       <td>61</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901602/">6901602</a></td>
@@ -20625,7 +20625,7 @@ datatable: true
       <td>2016-05-28T07:09</td>
       <td>34</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901603/">6901603</a></td>
@@ -20636,7 +20636,7 @@ datatable: true
       <td>2017-11-26T07:00</td>
       <td>13</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901604/">6901604</a></td>
@@ -20647,7 +20647,7 @@ datatable: true
       <td>2020-11-21T06:59</td>
       <td>15</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901605/">6901605</a></td>
@@ -20669,7 +20669,7 @@ datatable: true
       <td>2015-09-04T07:43</td>
       <td>178</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901628/">6901628</a></td>
@@ -20680,7 +20680,7 @@ datatable: true
       <td>2015-07-18T05:41</td>
       <td>8</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901631/">6901631</a></td>
@@ -20691,7 +20691,7 @@ datatable: true
       <td>2014-11-29T06:58</td>
       <td>33</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901632/">6901632</a></td>
@@ -20702,7 +20702,7 @@ datatable: true
       <td>2015-02-01T07:31</td>
       <td>64</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901646/">6901646</a></td>
@@ -20713,7 +20713,7 @@ datatable: true
       <td>2017-09-16T15:47</td>
       <td>261</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901647/">6901647</a></td>
@@ -20735,7 +20735,7 @@ datatable: true
       <td>2016-05-26T11:33</td>
       <td>191</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901649/">6901649</a></td>
@@ -20746,7 +20746,7 @@ datatable: true
       <td>2016-06-06T11:37</td>
       <td>193</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901650/">6901650</a></td>
@@ -20779,7 +20779,7 @@ datatable: true
       <td>2023-03-01T22:43</td>
       <td>17</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901653/">6901653</a></td>
@@ -20801,7 +20801,7 @@ datatable: true
       <td>2016-06-26T14:54</td>
       <td>418</td>
       <td>TEMP PSAL DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901655/">6901655</a></td>
@@ -20823,7 +20823,7 @@ datatable: true
       <td>2022-07-26T02:02</td>
       <td>334</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>P, I</td>
+      <td>Pacific, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901657/">6901657</a></td>
@@ -20834,7 +20834,7 @@ datatable: true
       <td>2019-11-12T10:25</td>
       <td>89</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901658/">6901658</a></td>
@@ -20845,7 +20845,7 @@ datatable: true
       <td>2017-07-13T23:46</td>
       <td>154</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901659/">6901659</a></td>
@@ -20856,7 +20856,7 @@ datatable: true
       <td>2016-01-10T21:40</td>
       <td>94</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901660/">6901660</a></td>
@@ -20889,7 +20889,7 @@ datatable: true
       <td>2020-03-30T04:46</td>
       <td>404</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901689/">6901689</a></td>
@@ -20900,7 +20900,7 @@ datatable: true
       <td>2015-04-25T07:09</td>
       <td>68</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901748/">6901748</a></td>
@@ -20911,7 +20911,7 @@ datatable: true
       <td>2015-02-23T12:52</td>
       <td>76</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE TURBIDITY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901749/">6901749</a></td>
@@ -20922,7 +20922,7 @@ datatable: true
       <td>2015-02-23T12:06</td>
       <td>76</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE TURBIDITY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901750/">6901750</a></td>
@@ -20933,7 +20933,7 @@ datatable: true
       <td>2020-11-25T22:19</td>
       <td>201</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901751/">6901751</a></td>
@@ -20944,7 +20944,7 @@ datatable: true
       <td>2020-05-22T23:23</td>
       <td>182</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901752/">6901752</a></td>
@@ -20955,7 +20955,7 @@ datatable: true
       <td>2020-08-14T00:36</td>
       <td>190</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901753/">6901753</a></td>
@@ -20966,7 +20966,7 @@ datatable: true
       <td>2021-07-27T23:12</td>
       <td>186</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901754/">6901754</a></td>
@@ -20977,7 +20977,7 @@ datatable: true
       <td>2021-09-14T23:59</td>
       <td>191</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901755/">6901755</a></td>
@@ -20988,7 +20988,7 @@ datatable: true
       <td>2017-06-05T22:49</td>
       <td>35</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901756/">6901756</a></td>
@@ -20999,7 +20999,7 @@ datatable: true
       <td>2021-11-09T16:25</td>
       <td>51</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901757/">6901757</a></td>
@@ -21010,7 +21010,7 @@ datatable: true
       <td>2016-02-21T07:12</td>
       <td>18</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901758/">6901758</a></td>
@@ -21021,7 +21021,7 @@ datatable: true
       <td>2017-03-24T07:28</td>
       <td>64</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901759/">6901759</a></td>
@@ -21032,7 +21032,7 @@ datatable: true
       <td>2015-10-11T07:49</td>
       <td>11</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901760/">6901760</a></td>
@@ -21043,7 +21043,7 @@ datatable: true
       <td>2016-07-11T14:41</td>
       <td>1</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901762/">6901762</a></td>
@@ -21054,7 +21054,7 @@ datatable: true
       <td>2018-04-24T07:53</td>
       <td>67</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901763/">6901763</a></td>
@@ -21065,7 +21065,7 @@ datatable: true
       <td>2022-02-03T07:01</td>
       <td>124</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901764/">6901764</a></td>
@@ -21076,7 +21076,7 @@ datatable: true
       <td>2019-03-08T09:31</td>
       <td>251</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901765/">6901765</a></td>
@@ -21087,7 +21087,7 @@ datatable: true
       <td>2018-06-11T10:51</td>
       <td>192</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901766/">6901766</a></td>
@@ -21098,7 +21098,7 @@ datatable: true
       <td>2019-01-06T09:26</td>
       <td>238</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901767/">6901767</a></td>
@@ -21109,7 +21109,7 @@ datatable: true
       <td>2018-06-23T09:40</td>
       <td>208</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901768/">6901768</a></td>
@@ -21120,7 +21120,7 @@ datatable: true
       <td>2018-06-20T09:40</td>
       <td>217</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901769/">6901769</a></td>
@@ -21131,7 +21131,7 @@ datatable: true
       <td>2018-01-02T10:33</td>
       <td>180</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901770/">6901770</a></td>
@@ -21142,7 +21142,7 @@ datatable: true
       <td>2018-06-14T09:37</td>
       <td>194</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901771/">6901771</a></td>
@@ -21153,7 +21153,7 @@ datatable: true
       <td>2017-05-23T10:36</td>
       <td>158</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901772/">6901772</a></td>
@@ -21164,7 +21164,7 @@ datatable: true
       <td>2022-08-25T10:54</td>
       <td>261</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901773/">6901773</a></td>
@@ -21175,7 +21175,7 @@ datatable: true
       <td>2020-02-22T09:46</td>
       <td>295</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901774/">6901774</a></td>
@@ -21186,7 +21186,7 @@ datatable: true
       <td>2022-03-09T10:20</td>
       <td>218</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901775/">6901775</a></td>
@@ -21197,7 +21197,7 @@ datatable: true
       <td>2022-08-18T10:58</td>
       <td>270</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901776/">6901776</a></td>
@@ -21208,7 +21208,7 @@ datatable: true
       <td>2015-04-09T11:34</td>
       <td>292</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901860/">6901860</a></td>
@@ -21274,7 +21274,7 @@ datatable: true
       <td>2015-05-14T10:35</td>
       <td>141</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901866/">6901866</a></td>
@@ -21285,7 +21285,7 @@ datatable: true
       <td>2019-07-07T10:03</td>
       <td>301</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE BISULFIDE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901881/">6901881</a></td>
@@ -21296,7 +21296,7 @@ datatable: true
       <td>2014-06-14T06:07</td>
       <td>47</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901886/">6901886</a></td>
@@ -21307,7 +21307,7 @@ datatable: true
       <td>2015-12-17T08:18</td>
       <td>76</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901888/">6901888</a></td>
@@ -21318,7 +21318,7 @@ datatable: true
       <td>2016-01-04T11:01</td>
       <td>34</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901895/">6901895</a></td>
@@ -21329,7 +21329,7 @@ datatable: true
       <td>2017-01-26T18:22</td>
       <td>256</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901896/">6901896</a></td>
@@ -21340,7 +21340,7 @@ datatable: true
       <td>2014-10-05T17:50</td>
       <td>87</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901897/">6901897</a></td>
@@ -21351,7 +21351,7 @@ datatable: true
       <td>2016-08-04T06:19</td>
       <td>199</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901898/">6901898</a></td>
@@ -21362,7 +21362,7 @@ datatable: true
       <td>2015-04-22T06:03</td>
       <td>105</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901899/">6901899</a></td>
@@ -21373,7 +21373,7 @@ datatable: true
       <td>2014-11-10T18:27</td>
       <td>40</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901900/">6901900</a></td>
@@ -21384,7 +21384,7 @@ datatable: true
       <td>2016-07-22T17:50</td>
       <td>164</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901933/">6901933</a></td>
@@ -21395,7 +21395,7 @@ datatable: true
       <td>2024-10-04T15:07</td>
       <td>196</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6901939/">6901939</a></td>
@@ -21406,7 +21406,7 @@ datatable: true
       <td>2024-02-20T01:09</td>
       <td>103</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902014/">6902014</a></td>
@@ -21417,7 +21417,7 @@ datatable: true
       <td>2014-08-21T20:46</td>
       <td>93</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902018/">6902018</a></td>
@@ -21428,7 +21428,7 @@ datatable: true
       <td>2014-11-13T23:03</td>
       <td>50</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902019/">6902019</a></td>
@@ -21439,7 +21439,7 @@ datatable: true
       <td>2015-08-05T09:46</td>
       <td>63</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902020/">6902020</a></td>
@@ -21450,7 +21450,7 @@ datatable: true
       <td>2016-08-03T03:57</td>
       <td>68</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902021/">6902021</a></td>
@@ -21461,7 +21461,7 @@ datatable: true
       <td>2016-05-13T02:27</td>
       <td>43</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902024/">6902024</a></td>
@@ -21472,7 +21472,7 @@ datatable: true
       <td>2017-06-15T05:53</td>
       <td>62</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902025/">6902025</a></td>
@@ -21483,7 +21483,7 @@ datatable: true
       <td>2018-10-02T22:55</td>
       <td>105</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902027/">6902027</a></td>
@@ -21494,7 +21494,7 @@ datatable: true
       <td>2018-10-15T07:44</td>
       <td>101</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902028/">6902028</a></td>
@@ -21505,7 +21505,7 @@ datatable: true
       <td>2018-09-04T10:49</td>
       <td>59</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902544/">6902544</a></td>
@@ -21516,7 +21516,7 @@ datatable: true
       <td>2018-04-11T23:13</td>
       <td>205</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902545/">6902545</a></td>
@@ -21527,7 +21527,7 @@ datatable: true
       <td>2020-04-29T02:13</td>
       <td>228</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902546/">6902546</a></td>
@@ -21538,7 +21538,7 @@ datatable: true
       <td>2014-01-21T11:47</td>
       <td>2</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 BBP532</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902547/">6902547</a></td>
@@ -21549,7 +21549,7 @@ datatable: true
       <td>2016-05-11T11:59</td>
       <td>368</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 BBP532</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902548/">6902548</a></td>
@@ -21560,7 +21560,7 @@ datatable: true
       <td>2018-02-01T23:08</td>
       <td>233</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902549/">6902549</a></td>
@@ -21571,7 +21571,7 @@ datatable: true
       <td>2018-02-07T23:14</td>
       <td>229</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902550/">6902550</a></td>
@@ -21582,7 +21582,7 @@ datatable: true
       <td>2017-12-09T22:11</td>
       <td>224</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902666/">6902666</a></td>
@@ -21593,7 +21593,7 @@ datatable: true
       <td>2017-09-27T15:00</td>
       <td>70</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902667/">6902667</a></td>
@@ -21604,7 +21604,7 @@ datatable: true
       <td>2016-10-31T15:28</td>
       <td>99</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902668/">6902668</a></td>
@@ -21615,7 +21615,7 @@ datatable: true
       <td>2016-10-31T15:26</td>
       <td>99</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902669/">6902669</a></td>
@@ -21626,7 +21626,7 @@ datatable: true
       <td>2017-11-03T15:24</td>
       <td>100</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902670/">6902670</a></td>
@@ -21637,7 +21637,7 @@ datatable: true
       <td>2017-11-04T16:32</td>
       <td>103</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902671/">6902671</a></td>
@@ -21648,7 +21648,7 @@ datatable: true
       <td>2018-10-04T09:02</td>
       <td>155</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902680/">6902680</a></td>
@@ -21659,7 +21659,7 @@ datatable: true
       <td>2016-02-09T12:27</td>
       <td>223</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE TURBIDITY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902686/">6902686</a></td>
@@ -21670,7 +21670,7 @@ datatable: true
       <td>2022-08-13T07:19</td>
       <td>186</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902687/">6902687</a></td>
@@ -21681,7 +21681,7 @@ datatable: true
       <td>2018-10-17T06:24</td>
       <td>176</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902688/">6902688</a></td>
@@ -21692,7 +21692,7 @@ datatable: true
       <td>2018-06-27T06:22</td>
       <td>155</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902700/">6902700</a></td>
@@ -21703,7 +21703,7 @@ datatable: true
       <td>2016-01-16T11:50</td>
       <td>56</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902701/">6902701</a></td>
@@ -21714,7 +21714,7 @@ datatable: true
       <td>2020-11-14T22:03</td>
       <td>325</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902732/">6902732</a></td>
@@ -21736,7 +21736,7 @@ datatable: true
       <td>2018-01-19T11:41</td>
       <td>99</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902734/">6902734</a></td>
@@ -21747,7 +21747,7 @@ datatable: true
       <td>2020-01-07T04:57</td>
       <td>393</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902735/">6902735</a></td>
@@ -21758,7 +21758,7 @@ datatable: true
       <td>2019-10-01T06:01</td>
       <td>371</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902736/">6902736</a></td>
@@ -21769,7 +21769,7 @@ datatable: true
       <td>2019-12-10T02:57</td>
       <td>407</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902737/">6902737</a></td>
@@ -21780,7 +21780,7 @@ datatable: true
       <td>2019-11-17T04:59</td>
       <td>394</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902738/">6902738</a></td>
@@ -21791,7 +21791,7 @@ datatable: true
       <td>2017-02-18T06:44</td>
       <td>65</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902739/">6902739</a></td>
@@ -21802,7 +21802,7 @@ datatable: true
       <td>2019-08-30T01:59</td>
       <td>361</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902740/">6902740</a></td>
@@ -21813,7 +21813,7 @@ datatable: true
       <td>2024-12-18T12:53</td>
       <td>323</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902742/">6902742</a></td>
@@ -21824,7 +21824,7 @@ datatable: true
       <td>2017-04-28T11:58</td>
       <td>144</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902743/">6902743</a></td>
@@ -21835,7 +21835,7 @@ datatable: true
       <td>2017-02-10T06:59</td>
       <td>90</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902798/">6902798</a></td>
@@ -21846,7 +21846,7 @@ datatable: true
       <td>2020-03-23T11:45</td>
       <td>140</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902799/">6902799</a></td>
@@ -21857,7 +21857,7 @@ datatable: true
       <td>2024-03-16T15:48</td>
       <td>276</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902800/">6902800</a></td>
@@ -21868,7 +21868,7 @@ datatable: true
       <td>2024-12-17T14:17</td>
       <td>239</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902801/">6902801</a></td>
@@ -21879,7 +21879,7 @@ datatable: true
       <td>2017-10-05T06:11</td>
       <td>20</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902802/">6902802</a></td>
@@ -21890,7 +21890,7 @@ datatable: true
       <td>2022-10-24T06:58</td>
       <td>159</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902803/">6902803</a></td>
@@ -21901,7 +21901,7 @@ datatable: true
       <td>2021-11-21T02:54</td>
       <td>338</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902804/">6902804</a></td>
@@ -21912,7 +21912,7 @@ datatable: true
       <td>2021-06-23T03:01</td>
       <td>311</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902805/">6902805</a></td>
@@ -21923,7 +21923,7 @@ datatable: true
       <td>2021-05-01T06:18</td>
       <td>140</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902806/">6902806</a></td>
@@ -21934,7 +21934,7 @@ datatable: true
       <td>2023-11-05T15:16</td>
       <td>196</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902807/">6902807</a></td>
@@ -21945,7 +21945,7 @@ datatable: true
       <td>2024-12-04T19:45</td>
       <td>272</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902808/">6902808</a></td>
@@ -21956,7 +21956,7 @@ datatable: true
       <td>2019-10-07T06:16</td>
       <td>82</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902810/">6902810</a></td>
@@ -21967,7 +21967,7 @@ datatable: true
       <td>2017-08-08T07:03</td>
       <td>2</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902811/">6902811</a></td>
@@ -21978,7 +21978,7 @@ datatable: true
       <td>2020-12-03T07:47</td>
       <td>123</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902812/">6902812</a></td>
@@ -21989,7 +21989,7 @@ datatable: true
       <td>2017-08-09T16:06</td>
       <td>1</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902813/">6902813</a></td>
@@ -22000,7 +22000,7 @@ datatable: true
       <td>2021-03-29T20:39</td>
       <td>116</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902814/">6902814</a></td>
@@ -22011,7 +22011,7 @@ datatable: true
       <td>2021-11-02T20:33</td>
       <td>133</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, P</td>
+      <td>Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902815/">6902815</a></td>
@@ -22022,7 +22022,7 @@ datatable: true
       <td>2024-12-19T01:07</td>
       <td>60</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902816/">6902816</a></td>
@@ -22033,7 +22033,7 @@ datatable: true
       <td>2024-03-04T00:56</td>
       <td>51</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902818/">6902818</a></td>
@@ -22044,7 +22044,7 @@ datatable: true
       <td>2022-02-24T20:51</td>
       <td>135</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902819/">6902819</a></td>
@@ -22055,7 +22055,7 @@ datatable: true
       <td>2019-09-22T07:02</td>
       <td>79</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902820/">6902820</a></td>
@@ -22066,7 +22066,7 @@ datatable: true
       <td>2024-05-24T00:39</td>
       <td>47</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902826/">6902826</a></td>
@@ -22099,7 +22099,7 @@ datatable: true
       <td>2017-09-12T17:00</td>
       <td>352</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902829/">6902829</a></td>
@@ -22110,7 +22110,7 @@ datatable: true
       <td>2018-04-09T15:30</td>
       <td>101</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902868/">6902868</a></td>
@@ -22121,7 +22121,7 @@ datatable: true
       <td>2020-04-23T06:36</td>
       <td>68</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902869/">6902869</a></td>
@@ -22132,7 +22132,7 @@ datatable: true
       <td>2021-12-03T06:43</td>
       <td>127</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902870/">6902870</a></td>
@@ -22143,7 +22143,7 @@ datatable: true
       <td>2022-11-21T06:01</td>
       <td>277</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902871/">6902871</a></td>
@@ -22154,7 +22154,7 @@ datatable: true
       <td>2019-07-05T05:36</td>
       <td>38</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902872/">6902872</a></td>
@@ -22165,7 +22165,7 @@ datatable: true
       <td>2022-04-11T05:39</td>
       <td>285</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902873/">6902873</a></td>
@@ -22176,7 +22176,7 @@ datatable: true
       <td>2022-04-05T05:54</td>
       <td>239</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902874/">6902874</a></td>
@@ -22187,7 +22187,7 @@ datatable: true
       <td>2021-04-01T05:38</td>
       <td>210</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902875/">6902875</a></td>
@@ -22198,7 +22198,7 @@ datatable: true
       <td>2022-11-06T05:30</td>
       <td>274</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902876/">6902876</a></td>
@@ -22209,7 +22209,7 @@ datatable: true
       <td>2023-01-03T02:45</td>
       <td>262</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902877/">6902877</a></td>
@@ -22220,7 +22220,7 @@ datatable: true
       <td>2024-12-24T20:13</td>
       <td>108</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902878/">6902878</a></td>
@@ -22231,7 +22231,7 @@ datatable: true
       <td>2024-12-26T05:19</td>
       <td>247</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902879/">6902879</a></td>
@@ -22242,7 +22242,7 @@ datatable: true
       <td>2018-04-17T06:31</td>
       <td>95</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902880/">6902880</a></td>
@@ -22253,7 +22253,7 @@ datatable: true
       <td>2019-05-27T06:28</td>
       <td>149</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902881/">6902881</a></td>
@@ -22264,7 +22264,7 @@ datatable: true
       <td>2022-05-29T20:24</td>
       <td>144</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902882/">6902882</a></td>
@@ -22275,7 +22275,7 @@ datatable: true
       <td>2022-09-06T06:27</td>
       <td>154</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902883/">6902883</a></td>
@@ -22286,7 +22286,7 @@ datatable: true
       <td>2024-02-22T01:01</td>
       <td>5</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902884/">6902884</a></td>
@@ -22297,7 +22297,7 @@ datatable: true
       <td>2018-12-15T09:06</td>
       <td>3</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902885/">6902885</a></td>
@@ -22308,7 +22308,7 @@ datatable: true
       <td>2024-12-17T17:21</td>
       <td>34</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902886/">6902886</a></td>
@@ -22319,7 +22319,7 @@ datatable: true
       <td>2024-02-07T17:07</td>
       <td>128</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902887/">6902887</a></td>
@@ -22330,7 +22330,7 @@ datatable: true
       <td>2024-12-18T08:30</td>
       <td>23</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902888/">6902888</a></td>
@@ -22341,7 +22341,7 @@ datatable: true
       <td>2023-12-09T21:10</td>
       <td>122</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902889/">6902889</a></td>
@@ -22352,7 +22352,7 @@ datatable: true
       <td>2024-03-19T11:35</td>
       <td>80</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902890/">6902890</a></td>
@@ -22363,7 +22363,7 @@ datatable: true
       <td>2022-01-09T11:08</td>
       <td>2</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902891/">6902891</a></td>
@@ -22374,7 +22374,7 @@ datatable: true
       <td>2024-12-19T23:36</td>
       <td>34</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902892/">6902892</a></td>
@@ -22385,7 +22385,7 @@ datatable: true
       <td>2023-09-26T05:21</td>
       <td>114</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902893/">6902893</a></td>
@@ -22396,7 +22396,7 @@ datatable: true
       <td>2024-04-28T11:52</td>
       <td>73</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902894/">6902894</a></td>
@@ -22407,7 +22407,7 @@ datatable: true
       <td>2023-12-25T06:00</td>
       <td>123</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902895/">6902895</a></td>
@@ -22418,7 +22418,7 @@ datatable: true
       <td>2024-12-25T19:30</td>
       <td>96</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902896/">6902896</a></td>
@@ -22429,7 +22429,7 @@ datatable: true
       <td>2019-05-20T16:08</td>
       <td>128</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902897/">6902897</a></td>
@@ -22440,7 +22440,7 @@ datatable: true
       <td>2019-10-12T15:58</td>
       <td>186</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902898/">6902898</a></td>
@@ -22473,7 +22473,7 @@ datatable: true
       <td>2019-03-11T09:24</td>
       <td>55</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902901/">6902901</a></td>
@@ -22484,7 +22484,7 @@ datatable: true
       <td>2019-06-12T09:40</td>
       <td>71</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902902/">6902902</a></td>
@@ -22506,7 +22506,7 @@ datatable: true
       <td>2020-03-15T09:38</td>
       <td>134</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902904/">6902904</a></td>
@@ -22517,7 +22517,7 @@ datatable: true
       <td>2022-02-24T09:50</td>
       <td>244</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902905/">6902905</a></td>
@@ -22528,7 +22528,7 @@ datatable: true
       <td>2022-01-31T03:02</td>
       <td>423</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902906/">6902906</a></td>
@@ -22539,7 +22539,7 @@ datatable: true
       <td>2024-12-26T14:52</td>
       <td>514</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902907/">6902907</a></td>
@@ -22550,7 +22550,7 @@ datatable: true
       <td>2024-12-18T16:00</td>
       <td>576</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902908/">6902908</a></td>
@@ -22561,7 +22561,7 @@ datatable: true
       <td>2024-10-06T00:52</td>
       <td>570</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902909/">6902909</a></td>
@@ -22572,7 +22572,7 @@ datatable: true
       <td>2024-12-25T01:38</td>
       <td>478</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902931/">6902931</a></td>
@@ -22583,7 +22583,7 @@ datatable: true
       <td>2018-08-08T12:20</td>
       <td>30</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE TURBIDITY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902933/">6902933</a></td>
@@ -22594,7 +22594,7 @@ datatable: true
       <td>2021-06-22T11:12</td>
       <td>124</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902934/">6902934</a></td>
@@ -22605,7 +22605,7 @@ datatable: true
       <td>2024-12-21T19:20</td>
       <td>253</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902935/">6902935</a></td>
@@ -22616,7 +22616,7 @@ datatable: true
       <td>2020-05-03T02:48</td>
       <td>65</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902936/">6902936</a></td>
@@ -22627,7 +22627,7 @@ datatable: true
       <td>2020-07-25T02:35</td>
       <td>81</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902937/">6902937</a></td>
@@ -22638,7 +22638,7 @@ datatable: true
       <td>2023-11-01T01:47</td>
       <td>324</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902953/">6902953</a></td>
@@ -22649,7 +22649,7 @@ datatable: true
       <td>2019-07-29T15:48</td>
       <td>29</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902954/">6902954</a></td>
@@ -22660,7 +22660,7 @@ datatable: true
       <td>2020-03-04T08:34</td>
       <td>96</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902956/">6902956</a></td>
@@ -22671,7 +22671,7 @@ datatable: true
       <td>2021-11-24T01:25</td>
       <td>35</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902957/">6902957</a></td>
@@ -22682,7 +22682,7 @@ datatable: true
       <td>2020-10-29T03:14</td>
       <td>127</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902958/">6902958</a></td>
@@ -22693,7 +22693,7 @@ datatable: true
       <td>2024-12-22T10:21</td>
       <td>246</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902959/">6902959</a></td>
@@ -22704,7 +22704,7 @@ datatable: true
       <td>2024-12-20T17:17</td>
       <td>76</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902960/">6902960</a></td>
@@ -22715,7 +22715,7 @@ datatable: true
       <td>2023-04-08T04:26</td>
       <td>108</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902961/">6902961</a></td>
@@ -22726,7 +22726,7 @@ datatable: true
       <td>2024-12-24T01:15</td>
       <td>196</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902962/">6902962</a></td>
@@ -22737,7 +22737,7 @@ datatable: true
       <td>2024-12-27T07:10</td>
       <td>128</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902963/">6902963</a></td>
@@ -22748,7 +22748,7 @@ datatable: true
       <td>2024-12-26T06:14</td>
       <td>225</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902964/">6902964</a></td>
@@ -22759,7 +22759,7 @@ datatable: true
       <td>2022-07-14T02:21</td>
       <td>170</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902965/">6902965</a></td>
@@ -22770,7 +22770,7 @@ datatable: true
       <td>2021-02-24T02:32</td>
       <td>35</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902966/">6902966</a></td>
@@ -22781,7 +22781,7 @@ datatable: true
       <td>2020-10-16T07:57</td>
       <td>224</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902967/">6902967</a></td>
@@ -22792,7 +22792,7 @@ datatable: true
       <td>2020-10-20T16:11</td>
       <td>191</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902968/">6902968</a></td>
@@ -22814,7 +22814,7 @@ datatable: true
       <td>2021-06-27T10:41</td>
       <td>177</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902970/">6902970</a></td>
@@ -22825,7 +22825,7 @@ datatable: true
       <td>2023-12-03T02:25</td>
       <td>122</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902971/">6902971</a></td>
@@ -22836,7 +22836,7 @@ datatable: true
       <td>2020-09-16T06:59</td>
       <td>8</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902972/">6902972</a></td>
@@ -22847,7 +22847,7 @@ datatable: true
       <td>2023-10-30T21:38</td>
       <td>123</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902973/">6902973</a></td>
@@ -22858,7 +22858,7 @@ datatable: true
       <td>2023-09-21T07:35</td>
       <td>118</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902974/">6902974</a></td>
@@ -22869,7 +22869,7 @@ datatable: true
       <td>2023-11-16T07:07</td>
       <td>124</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902975/">6902975</a></td>
@@ -22880,7 +22880,7 @@ datatable: true
       <td>2024-01-19T07:01</td>
       <td>139</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902976/">6902976</a></td>
@@ -22891,7 +22891,7 @@ datatable: true
       <td>2023-11-06T20:03</td>
       <td>119</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902977/">6902977</a></td>
@@ -22902,7 +22902,7 @@ datatable: true
       <td>2023-03-11T07:05</td>
       <td>94</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902978/">6902978</a></td>
@@ -22913,7 +22913,7 @@ datatable: true
       <td>2023-12-18T07:10</td>
       <td>127</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902979/">6902979</a></td>
@@ -22924,7 +22924,7 @@ datatable: true
       <td>2023-11-26T06:28</td>
       <td>120</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902980/">6902980</a></td>
@@ -22935,7 +22935,7 @@ datatable: true
       <td>2024-02-28T12:12</td>
       <td>71</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902981/">6902981</a></td>
@@ -22946,7 +22946,7 @@ datatable: true
       <td>2023-12-07T06:34</td>
       <td>121</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902982/">6902982</a></td>
@@ -22957,7 +22957,7 @@ datatable: true
       <td>2022-12-19T06:55</td>
       <td>58</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902983/">6902983</a></td>
@@ -22968,7 +22968,7 @@ datatable: true
       <td>2022-06-12T18:08</td>
       <td>126</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902984/">6902984</a></td>
@@ -22979,7 +22979,7 @@ datatable: true
       <td>2022-03-28T06:01</td>
       <td>117</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903024/">6903024</a></td>
@@ -22990,7 +22990,7 @@ datatable: true
       <td>2023-03-26T23:06</td>
       <td>410</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903025/">6903025</a></td>
@@ -23001,7 +23001,7 @@ datatable: true
       <td>2022-02-28T22:44</td>
       <td>211</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903026/">6903026</a></td>
@@ -23012,7 +23012,7 @@ datatable: true
       <td>2020-12-25T00:40</td>
       <td>194</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903028/">6903028</a></td>
@@ -23023,7 +23023,7 @@ datatable: true
       <td>2024-07-04T06:16</td>
       <td>116</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903029/">6903029</a></td>
@@ -23034,7 +23034,7 @@ datatable: true
       <td>2023-12-03T07:25</td>
       <td>122</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903030/">6903030</a></td>
@@ -23045,7 +23045,7 @@ datatable: true
       <td>2024-01-06T07:30</td>
       <td>125</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903031/">6903031</a></td>
@@ -23056,7 +23056,7 @@ datatable: true
       <td>2024-12-17T23:01</td>
       <td>80</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903032/">6903032</a></td>
@@ -23067,7 +23067,7 @@ datatable: true
       <td>2023-10-17T23:35</td>
       <td>117</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903033/">6903033</a></td>
@@ -23078,7 +23078,7 @@ datatable: true
       <td>2022-11-27T23:02</td>
       <td>2</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903034/">6903034</a></td>
@@ -23089,7 +23089,7 @@ datatable: true
       <td>2024-01-06T07:39</td>
       <td>125</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903035/">6903035</a></td>
@@ -23100,7 +23100,7 @@ datatable: true
       <td>2024-06-03T05:59</td>
       <td>114</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903036/">6903036</a></td>
@@ -23111,7 +23111,7 @@ datatable: true
       <td>2021-06-24T01:03</td>
       <td>3</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903038/">6903038</a></td>
@@ -23122,7 +23122,7 @@ datatable: true
       <td>2021-09-27T09:32</td>
       <td>12</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903039/">6903039</a></td>
@@ -23133,7 +23133,7 @@ datatable: true
       <td>2024-12-27T07:07</td>
       <td>143</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903040/">6903040</a></td>
@@ -23144,7 +23144,7 @@ datatable: true
       <td>2023-05-04T07:03</td>
       <td>70</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903041/">6903041</a></td>
@@ -23155,7 +23155,7 @@ datatable: true
       <td>2024-12-14T19:15</td>
       <td>129</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903042/">6903042</a></td>
@@ -23166,7 +23166,7 @@ datatable: true
       <td>2024-09-19T06:08</td>
       <td>123</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903065/">6903065</a></td>
@@ -23177,7 +23177,7 @@ datatable: true
       <td>2024-12-21T23:06</td>
       <td>159</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903066/">6903066</a></td>
@@ -23188,7 +23188,7 @@ datatable: true
       <td>2024-12-23T23:20</td>
       <td>249</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903067/">6903067</a></td>
@@ -23199,7 +23199,7 @@ datatable: true
       <td>2024-12-21T02:13</td>
       <td>138</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903068/">6903068</a></td>
@@ -23210,7 +23210,7 @@ datatable: true
       <td>2023-08-11T15:10</td>
       <td>164</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903069/">6903069</a></td>
@@ -23221,7 +23221,7 @@ datatable: true
       <td>2020-07-27T11:40</td>
       <td>19</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903070/">6903070</a></td>
@@ -23232,7 +23232,7 @@ datatable: true
       <td>2022-10-24T11:37</td>
       <td>202</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL CP660</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903071/">6903071</a></td>
@@ -23243,7 +23243,7 @@ datatable: true
       <td>2024-07-04T06:13</td>
       <td>129</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903072/">6903072</a></td>
@@ -23254,7 +23254,7 @@ datatable: true
       <td>2024-07-04T06:20</td>
       <td>128</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903080/">6903080</a></td>
@@ -23265,7 +23265,7 @@ datatable: true
       <td>2024-09-19T06:49</td>
       <td>128</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903081/">6903081</a></td>
@@ -23276,7 +23276,7 @@ datatable: true
       <td>2024-05-31T05:59</td>
       <td>113</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903082/">6903082</a></td>
@@ -23287,7 +23287,7 @@ datatable: true
       <td>2024-12-19T13:53</td>
       <td>130</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903083/">6903083</a></td>
@@ -23298,7 +23298,7 @@ datatable: true
       <td>2024-11-14T01:18</td>
       <td>135</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903084/">6903084</a></td>
@@ -23309,7 +23309,7 @@ datatable: true
       <td>2024-12-18T09:33</td>
       <td>77</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903085/">6903085</a></td>
@@ -23320,7 +23320,7 @@ datatable: true
       <td>2024-05-20T09:58</td>
       <td>109</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903086/">6903086</a></td>
@@ -23331,7 +23331,7 @@ datatable: true
       <td>2024-12-22T20:41</td>
       <td>130</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903088/">6903088</a></td>
@@ -23342,7 +23342,7 @@ datatable: true
       <td>2024-12-26T14:48</td>
       <td>80</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903090/">6903090</a></td>
@@ -23353,7 +23353,7 @@ datatable: true
       <td>2024-12-24T11:44</td>
       <td>250</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903091/">6903091</a></td>
@@ -23364,7 +23364,7 @@ datatable: true
       <td>2024-12-20T12:30</td>
       <td>316</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903093/">6903093</a></td>
@@ -23375,7 +23375,7 @@ datatable: true
       <td>2023-05-24T17:48</td>
       <td>156</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL CP660</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903094/">6903094</a></td>
@@ -23386,7 +23386,7 @@ datatable: true
       <td>2023-02-10T06:58</td>
       <td>149</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL CP660 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903095/">6903095</a></td>
@@ -23397,7 +23397,7 @@ datatable: true
       <td>2022-09-17T22:55</td>
       <td>185</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903096/">6903096</a></td>
@@ -23408,7 +23408,7 @@ datatable: true
       <td>2022-04-26T04:37</td>
       <td>118</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903124/">6903124</a></td>
@@ -23419,7 +23419,7 @@ datatable: true
       <td>2021-06-23T06:51</td>
       <td>74</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903125/">6903125</a></td>
@@ -23430,7 +23430,7 @@ datatable: true
       <td>2022-08-17T10:19</td>
       <td>104</td>
       <td>PRES TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903126/">6903126</a></td>
@@ -23441,7 +23441,7 @@ datatable: true
       <td>2022-08-16T15:27</td>
       <td>126</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903127/">6903127</a></td>
@@ -23452,7 +23452,7 @@ datatable: true
       <td>2024-10-19T06:01</td>
       <td>343</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903128/">6903128</a></td>
@@ -23485,7 +23485,7 @@ datatable: true
       <td>2021-11-30T10:12</td>
       <td>38</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903152/">6903152</a></td>
@@ -23496,7 +23496,7 @@ datatable: true
       <td>2016-05-28T09:46</td>
       <td>62</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903153/">6903153</a></td>
@@ -23507,7 +23507,7 @@ datatable: true
       <td>2018-03-15T05:47</td>
       <td>194</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903178/">6903178</a></td>
@@ -23518,7 +23518,7 @@ datatable: true
       <td>2018-02-14T02:10</td>
       <td>193</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903180/">6903180</a></td>
@@ -23529,7 +23529,7 @@ datatable: true
       <td>2017-04-21T11:59</td>
       <td>67</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903183/">6903183</a></td>
@@ -23540,7 +23540,7 @@ datatable: true
       <td>2022-06-06T02:17</td>
       <td>190</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, A, I</td>
+      <td>Pacific, Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903190/">6903190</a></td>
@@ -23551,7 +23551,7 @@ datatable: true
       <td>2017-04-13T13:48</td>
       <td>47</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903191/">6903191</a></td>
@@ -23562,7 +23562,7 @@ datatable: true
       <td>2016-05-25T13:38</td>
       <td>13</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903197/">6903197</a></td>
@@ -23573,7 +23573,7 @@ datatable: true
       <td>2017-02-10T10:37</td>
       <td>86</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903200/">6903200</a></td>
@@ -23584,7 +23584,7 @@ datatable: true
       <td>2016-08-03T05:55</td>
       <td>11</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903203/">6903203</a></td>
@@ -23595,7 +23595,7 @@ datatable: true
       <td>2018-04-18T06:10</td>
       <td>82</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903204/">6903204</a></td>
@@ -23606,7 +23606,7 @@ datatable: true
       <td>2018-02-21T04:45</td>
       <td>87</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903222/">6903222</a></td>
@@ -23617,7 +23617,7 @@ datatable: true
       <td>2018-04-06T02:10</td>
       <td>91</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903225/">6903225</a></td>
@@ -23628,7 +23628,7 @@ datatable: true
       <td>2018-03-14T03:38</td>
       <td>61</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903233/">6903233</a></td>
@@ -23639,7 +23639,7 @@ datatable: true
       <td>2023-01-01T04:36</td>
       <td>178</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903235/">6903235</a></td>
@@ -23661,7 +23661,7 @@ datatable: true
       <td>2022-11-22T06:03</td>
       <td>344</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903238/">6903238</a></td>
@@ -23672,7 +23672,7 @@ datatable: true
       <td>2021-03-07T05:58</td>
       <td>218</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903240/">6903240</a></td>
@@ -23683,7 +23683,7 @@ datatable: true
       <td>2022-07-13T04:58</td>
       <td>648</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE BISULFIDE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903246/">6903246</a></td>
@@ -23694,7 +23694,7 @@ datatable: true
       <td>2020-08-16T06:26</td>
       <td>133</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903247/">6903247</a></td>
@@ -23705,7 +23705,7 @@ datatable: true
       <td>2023-09-08T09:51</td>
       <td>796</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903249/">6903249</a></td>
@@ -23716,7 +23716,7 @@ datatable: true
       <td>2021-01-22T11:45</td>
       <td>366</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903250/">6903250</a></td>
@@ -23727,7 +23727,7 @@ datatable: true
       <td>2021-01-16T11:50</td>
       <td>356</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903262/">6903262</a></td>
@@ -23738,7 +23738,7 @@ datatable: true
       <td>2023-07-26T03:05</td>
       <td>328</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903263/">6903263</a></td>
@@ -23749,7 +23749,7 @@ datatable: true
       <td>2024-12-24T12:07</td>
       <td>420</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903265/">6903265</a></td>
@@ -23760,7 +23760,7 @@ datatable: true
       <td>2019-04-15T06:05</td>
       <td>97</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903266/">6903266</a></td>
@@ -23771,7 +23771,7 @@ datatable: true
       <td>2023-08-31T11:17</td>
       <td>465</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903267/">6903267</a></td>
@@ -23782,7 +23782,7 @@ datatable: true
       <td>2019-07-30T21:01</td>
       <td>7</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903268/">6903268</a></td>
@@ -23793,7 +23793,7 @@ datatable: true
       <td>2021-11-27T06:19</td>
       <td>155</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903273/">6903273</a></td>
@@ -23804,7 +23804,7 @@ datatable: true
       <td>2021-07-19T00:35</td>
       <td>217</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903275/">6903275</a></td>
@@ -23815,7 +23815,7 @@ datatable: true
       <td>2016-12-04T12:37</td>
       <td>42</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903283/">6903283</a></td>
@@ -23826,7 +23826,7 @@ datatable: true
       <td>2019-10-27T11:04</td>
       <td>95</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903286/">6903286</a></td>
@@ -23837,7 +23837,7 @@ datatable: true
       <td>2019-08-08T11:24</td>
       <td>5</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903288/">6903288</a></td>
@@ -23859,7 +23859,7 @@ datatable: true
       <td>2022-06-13T11:39</td>
       <td>230</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903550/">6903550</a></td>
@@ -23870,7 +23870,7 @@ datatable: true
       <td>2021-05-15T11:36</td>
       <td>147</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903551/">6903551</a></td>
@@ -23881,7 +23881,7 @@ datatable: true
       <td>2021-01-29T11:18</td>
       <td>124</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903552/">6903552</a></td>
@@ -23892,7 +23892,7 @@ datatable: true
       <td>2023-12-31T12:04</td>
       <td>59</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903553/">6903553</a></td>
@@ -23903,7 +23903,7 @@ datatable: true
       <td>2021-02-25T11:33</td>
       <td>113</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903554/">6903554</a></td>
@@ -23914,7 +23914,7 @@ datatable: true
       <td>2021-06-13T09:22</td>
       <td>152</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903555/">6903555</a></td>
@@ -23925,7 +23925,7 @@ datatable: true
       <td>2020-05-08T11:38</td>
       <td>70</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903556/">6903556</a></td>
@@ -23936,7 +23936,7 @@ datatable: true
       <td>2023-05-14T06:04</td>
       <td>111</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903557/">6903557</a></td>
@@ -23947,7 +23947,7 @@ datatable: true
       <td>2022-10-03T07:13</td>
       <td>125</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903558/">6903558</a></td>
@@ -23958,7 +23958,7 @@ datatable: true
       <td>2023-01-30T07:41</td>
       <td>128</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903567/">6903567</a></td>
@@ -23969,7 +23969,7 @@ datatable: true
       <td>2023-02-08T08:58</td>
       <td>176</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 DOWN_IRRADIANCE670</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903568/">6903568</a></td>
@@ -23980,7 +23980,7 @@ datatable: true
       <td>2021-08-06T08:38</td>
       <td>89</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 DOWN_IRRADIANCE670</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903569/">6903569</a></td>
@@ -23991,7 +23991,7 @@ datatable: true
       <td>2022-06-14T10:06</td>
       <td>164</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 DOWN_IRRADIANCE670</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903570/">6903570</a></td>
@@ -24002,7 +24002,7 @@ datatable: true
       <td>2023-04-13T08:35</td>
       <td>194</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 DOWN_IRRADIANCE670</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903571/">6903571</a></td>
@@ -24013,7 +24013,7 @@ datatable: true
       <td>2024-07-16T00:14</td>
       <td>164</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903572/">6903572</a></td>
@@ -24024,7 +24024,7 @@ datatable: true
       <td>2023-10-12T01:35</td>
       <td>116</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903573/">6903573</a></td>
@@ -24035,7 +24035,7 @@ datatable: true
       <td>2024-05-22T23:15</td>
       <td>141</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903574/">6903574</a></td>
@@ -24046,7 +24046,7 @@ datatable: true
       <td>2023-05-18T11:28</td>
       <td>287</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903575/">6903575</a></td>
@@ -24057,7 +24057,7 @@ datatable: true
       <td>2023-05-19T11:38</td>
       <td>306</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903576/">6903576</a></td>
@@ -24068,7 +24068,7 @@ datatable: true
       <td>2023-02-15T11:22</td>
       <td>104</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903577/">6903577</a></td>
@@ -24079,7 +24079,7 @@ datatable: true
       <td>2024-01-24T11:34</td>
       <td>398</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903578/">6903578</a></td>
@@ -24090,7 +24090,7 @@ datatable: true
       <td>2023-11-12T11:46</td>
       <td>372</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903579/">6903579</a></td>
@@ -24101,7 +24101,7 @@ datatable: true
       <td>2023-11-08T11:21</td>
       <td>404</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903580/">6903580</a></td>
@@ -24112,7 +24112,7 @@ datatable: true
       <td>2023-03-10T23:21</td>
       <td>70</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903581/">6903581</a></td>
@@ -24123,7 +24123,7 @@ datatable: true
       <td>2022-12-05T02:42</td>
       <td>202</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903582/">6903582</a></td>
@@ -24134,7 +24134,7 @@ datatable: true
       <td>2024-12-18T04:16</td>
       <td>134</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903588/">6903588</a></td>
@@ -24145,7 +24145,7 @@ datatable: true
       <td>2024-10-13T12:34</td>
       <td>353</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903589/">6903589</a></td>
@@ -24156,7 +24156,7 @@ datatable: true
       <td>2023-09-10T06:37</td>
       <td>187</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903590/">6903590</a></td>
@@ -24167,7 +24167,7 @@ datatable: true
       <td>2024-12-04T11:29</td>
       <td>364</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903591/">6903591</a></td>
@@ -24178,7 +24178,7 @@ datatable: true
       <td>2024-12-24T11:28</td>
       <td>370</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903592/">6903592</a></td>
@@ -24189,7 +24189,7 @@ datatable: true
       <td>2025-04-21T11:00</td>
       <td>407</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903695/">6903695</a></td>
@@ -24211,7 +24211,7 @@ datatable: true
       <td>2019-08-17T10:31</td>
       <td>63</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903699/">6903699</a></td>
@@ -24222,7 +24222,7 @@ datatable: true
       <td>2021-05-21T03:15</td>
       <td>144</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903700/">6903700</a></td>
@@ -24233,7 +24233,7 @@ datatable: true
       <td>2021-06-07T03:04</td>
       <td>125</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903701/">6903701</a></td>
@@ -24244,7 +24244,7 @@ datatable: true
       <td>2021-05-19T09:37</td>
       <td>131</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903704/">6903704</a></td>
@@ -24255,7 +24255,7 @@ datatable: true
       <td>2022-02-17T22:12</td>
       <td>116</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903705/">6903705</a></td>
@@ -24277,7 +24277,7 @@ datatable: true
       <td>2022-04-07T08:01</td>
       <td>85</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903707/">6903707</a></td>
@@ -24288,7 +24288,7 @@ datatable: true
       <td>2022-09-21T20:20</td>
       <td>76</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903708/">6903708</a></td>
@@ -24299,7 +24299,7 @@ datatable: true
       <td>2023-09-18T17:45</td>
       <td>133</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903711/">6903711</a></td>
@@ -24310,7 +24310,7 @@ datatable: true
       <td>2023-06-07T21:43</td>
       <td>109</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903765/">6903765</a></td>
@@ -24321,7 +24321,7 @@ datatable: true
       <td>2024-05-11T00:18</td>
       <td>391</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903767/">6903767</a></td>
@@ -24332,7 +24332,7 @@ datatable: true
       <td>2024-12-19T18:02</td>
       <td>182</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903768/">6903768</a></td>
@@ -24343,7 +24343,7 @@ datatable: true
       <td>2024-12-19T17:50</td>
       <td>182</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P, A</td>
+      <td>Pacific, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903777/">6903777</a></td>
@@ -24354,7 +24354,7 @@ datatable: true
       <td>2024-12-21T05:55</td>
       <td>148</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A, I, P</td>
+      <td>Atlantic, Indian, Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903781/">6903781</a></td>
@@ -24365,7 +24365,7 @@ datatable: true
       <td>2021-01-17T05:55</td>
       <td>43</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903786/">6903786</a></td>
@@ -24376,7 +24376,7 @@ datatable: true
       <td>2021-11-26T06:00</td>
       <td>89</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903799/">6903799</a></td>
@@ -24387,7 +24387,7 @@ datatable: true
       <td>2024-12-22T06:17</td>
       <td>287</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903802/">6903802</a></td>
@@ -24398,7 +24398,7 @@ datatable: true
       <td>2023-08-14T05:03</td>
       <td>147</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903803/">6903803</a></td>
@@ -24409,7 +24409,7 @@ datatable: true
       <td>2024-12-25T12:31</td>
       <td>237</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903804/">6903804</a></td>
@@ -24420,7 +24420,7 @@ datatable: true
       <td>2023-08-27T15:12</td>
       <td>143</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903805/">6903805</a></td>
@@ -24431,7 +24431,7 @@ datatable: true
       <td>2022-01-28T11:34</td>
       <td>50</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903818/">6903818</a></td>
@@ -24442,7 +24442,7 @@ datatable: true
       <td>2024-05-24T04:55</td>
       <td>310</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903822/">6903822</a></td>
@@ -24453,7 +24453,7 @@ datatable: true
       <td>2024-12-25T10:03</td>
       <td>186</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903823/">6903823</a></td>
@@ -24464,7 +24464,7 @@ datatable: true
       <td>2024-12-24T11:34</td>
       <td>320</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903824/">6903824</a></td>
@@ -24475,7 +24475,7 @@ datatable: true
       <td>2024-12-22T13:59</td>
       <td>150</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903825/">6903825</a></td>
@@ -24486,7 +24486,7 @@ datatable: true
       <td>2024-12-23T11:43</td>
       <td>304</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903826/">6903826</a></td>
@@ -24497,7 +24497,7 @@ datatable: true
       <td>2024-12-26T07:45</td>
       <td>148</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903828/">6903828</a></td>
@@ -24508,7 +24508,7 @@ datatable: true
       <td>2024-12-25T11:34</td>
       <td>300</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903867/">6903867</a></td>
@@ -24519,7 +24519,7 @@ datatable: true
       <td>2024-12-05T05:24</td>
       <td>236</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903869/">6903869</a></td>
@@ -24530,7 +24530,7 @@ datatable: true
       <td>2021-07-02T01:43</td>
       <td>4</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903870/">6903870</a></td>
@@ -24541,7 +24541,7 @@ datatable: true
       <td>2024-11-15T07:28</td>
       <td>127</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903871/">6903871</a></td>
@@ -24552,7 +24552,7 @@ datatable: true
       <td>2024-12-20T11:08</td>
       <td>130</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903872/">6903872</a></td>
@@ -24563,7 +24563,7 @@ datatable: true
       <td>2024-12-22T19:36</td>
       <td>130</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903873/">6903873</a></td>
@@ -24574,7 +24574,7 @@ datatable: true
       <td>2024-08-31T07:05</td>
       <td>120</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903874/">6903874</a></td>
@@ -24585,7 +24585,7 @@ datatable: true
       <td>2024-12-23T11:24</td>
       <td>302</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903875/">6903875</a></td>
@@ -24596,7 +24596,7 @@ datatable: true
       <td>2024-12-22T17:20</td>
       <td>296</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903876/">6903876</a></td>
@@ -24607,7 +24607,7 @@ datatable: true
       <td>2024-12-26T11:24</td>
       <td>318</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903877/">6903877</a></td>
@@ -24618,7 +24618,7 @@ datatable: true
       <td>2024-12-26T09:11</td>
       <td>318</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903878/">6903878</a></td>
@@ -24629,7 +24629,7 @@ datatable: true
       <td>2024-12-22T12:21</td>
       <td>296</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904110/">6904110</a></td>
@@ -24640,7 +24640,7 @@ datatable: true
       <td>2024-12-25T11:23</td>
       <td>206</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904111/">6904111</a></td>
@@ -24651,7 +24651,7 @@ datatable: true
       <td>2024-12-26T11:15</td>
       <td>206</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904112/">6904112</a></td>
@@ -24662,7 +24662,7 @@ datatable: true
       <td>2024-12-25T11:16</td>
       <td>204</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904113/">6904113</a></td>
@@ -24673,7 +24673,7 @@ datatable: true
       <td>2022-01-12T12:17</td>
       <td>74</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904114/">6904114</a></td>
@@ -24684,7 +24684,7 @@ datatable: true
       <td>2024-12-20T11:20</td>
       <td>178</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904115/">6904115</a></td>
@@ -24695,7 +24695,7 @@ datatable: true
       <td>2022-08-24T11:22</td>
       <td>70</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904116/">6904116</a></td>
@@ -24706,7 +24706,7 @@ datatable: true
       <td>2022-03-30T03:24</td>
       <td>390</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE BISULFIDE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904117/">6904117</a></td>
@@ -24717,7 +24717,7 @@ datatable: true
       <td>2021-11-12T10:28</td>
       <td>402</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE BISULFIDE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904118/">6904118</a></td>
@@ -24728,7 +24728,7 @@ datatable: true
       <td>2024-12-20T11:09</td>
       <td>173</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>A, I</td>
+      <td>Atlantic, Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904134/">6904134</a></td>
@@ -24739,7 +24739,7 @@ datatable: true
       <td>2021-09-17T07:46</td>
       <td>66</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 BBP532 PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904139/">6904139</a></td>
@@ -24750,7 +24750,7 @@ datatable: true
       <td>2022-03-23T10:53</td>
       <td>90</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904182/">6904182</a></td>
@@ -24761,7 +24761,7 @@ datatable: true
       <td>2024-12-16T14:35</td>
       <td>159</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP700 CDOM PH_IN_SITU_TOTAL NITRATE CHLA_FLUORESCENCE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904183/">6904183</a></td>
@@ -24772,7 +24772,7 @@ datatable: true
       <td>2024-12-26T06:55</td>
       <td>153</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP700 CDOM PH_IN_SITU_TOTAL NITRATE CHLA_FLUORESCENCE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904184/">6904184</a></td>
@@ -24783,7 +24783,7 @@ datatable: true
       <td>2024-12-18T13:15</td>
       <td>150</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP700 CDOM PH_IN_SITU_TOTAL NITRATE CHLA_FLUORESCENCE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904185/">6904185</a></td>
@@ -24794,7 +24794,7 @@ datatable: true
       <td>2024-02-22T09:01</td>
       <td>110</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP700 CDOM PH_IN_SITU_TOTAL NITRATE CHLA_FLUORESCENCE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904186/">6904186</a></td>
@@ -24805,7 +24805,7 @@ datatable: true
       <td>2024-12-23T11:27</td>
       <td>116</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP700 CDOM PH_IN_SITU_TOTAL NITRATE CHLA_FLUORESCENCE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904187/">6904187</a></td>
@@ -24816,7 +24816,7 @@ datatable: true
       <td>2024-12-24T22:26</td>
       <td>115</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP700 CDOM PH_IN_SITU_TOTAL NITRATE CHLA_FLUORESCENCE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904188/">6904188</a></td>
@@ -24827,7 +24827,7 @@ datatable: true
       <td>2024-12-19T02:21</td>
       <td>111</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP700 CDOM PH_IN_SITU_TOTAL NITRATE CHLA_FLUORESCENCE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904189/">6904189</a></td>
@@ -24838,7 +24838,7 @@ datatable: true
       <td>2024-12-19T12:37</td>
       <td>109</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP700 CDOM PH_IN_SITU_TOTAL NITRATE CHLA_FLUORESCENCE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904226/">6904226</a></td>
@@ -24849,7 +24849,7 @@ datatable: true
       <td>2022-07-16T07:24</td>
       <td>119</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904231/">6904231</a></td>
@@ -24860,7 +24860,7 @@ datatable: true
       <td>2024-12-27T07:07</td>
       <td>151</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904235/">6904235</a></td>
@@ -24871,7 +24871,7 @@ datatable: true
       <td>2024-05-03T11:30</td>
       <td>162</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904240/">6904240</a></td>
@@ -24882,7 +24882,7 @@ datatable: true
       <td>2024-12-20T14:01</td>
       <td>97</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660 DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904241/">6904241</a></td>
@@ -24893,7 +24893,7 @@ datatable: true
       <td>2023-12-03T14:11</td>
       <td>58</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660 DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990503/">6990503</a></td>
@@ -24904,7 +24904,7 @@ datatable: true
       <td>2024-12-24T06:45</td>
       <td>101</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CP660 DOXY PH_IN_SITU_TOTAL</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990504/">6990504</a></td>
@@ -24915,7 +24915,7 @@ datatable: true
       <td>2024-12-23T07:51</td>
       <td>80</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990505/">6990505</a></td>
@@ -24926,7 +24926,7 @@ datatable: true
       <td>2024-12-23T11:08</td>
       <td>83</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990514/">6990514</a></td>
@@ -24937,7 +24937,7 @@ datatable: true
       <td>2024-12-24T06:59</td>
       <td>81</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CP660 DOXY PH_IN_SITU_TOTAL</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990516/">6990516</a></td>
@@ -24948,7 +24948,7 @@ datatable: true
       <td>2023-03-25T15:10</td>
       <td>13</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL DOXY NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990526/">6990526</a></td>
@@ -24959,7 +24959,7 @@ datatable: true
       <td>2024-12-26T11:14</td>
       <td>65</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990528/">6990528</a></td>
@@ -24970,7 +24970,7 @@ datatable: true
       <td>2024-12-25T10:39</td>
       <td>262</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990538/">6990538</a></td>
@@ -24981,7 +24981,7 @@ datatable: true
       <td>2024-12-26T02:29</td>
       <td>57</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990580/">6990580</a></td>
@@ -24992,7 +24992,7 @@ datatable: true
       <td>2024-12-23T13:03</td>
       <td>64</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990582/">6990582</a></td>
@@ -25003,7 +25003,7 @@ datatable: true
       <td>2024-06-04T03:57</td>
       <td>14</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990583/">6990583</a></td>
@@ -25014,7 +25014,7 @@ datatable: true
       <td>2024-12-19T23:31</td>
       <td>30</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990584/">6990584</a></td>
@@ -25025,7 +25025,7 @@ datatable: true
       <td>2024-12-26T00:03</td>
       <td>43</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990585/">6990585</a></td>
@@ -25036,7 +25036,7 @@ datatable: true
       <td>2024-12-09T11:16</td>
       <td>41</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990587/">6990587</a></td>
@@ -25047,7 +25047,7 @@ datatable: true
       <td>2024-12-25T21:14</td>
       <td>35</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990588/">6990588</a></td>
@@ -25058,7 +25058,7 @@ datatable: true
       <td>2024-12-26T07:07</td>
       <td>29</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990592/">6990592</a></td>
@@ -25069,7 +25069,7 @@ datatable: true
       <td>2024-05-25T14:23</td>
       <td>19</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990593/">6990593</a></td>
@@ -25080,7 +25080,7 @@ datatable: true
       <td>2024-12-20T00:42</td>
       <td>3</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990594/">6990594</a></td>
@@ -25091,7 +25091,7 @@ datatable: true
       <td>2024-12-19T05:47</td>
       <td>2</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990595/">6990595</a></td>
@@ -25102,7 +25102,7 @@ datatable: true
       <td>2024-12-22T21:17</td>
       <td>31</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990623/">6990623</a></td>
@@ -25113,7 +25113,7 @@ datatable: true
       <td>2024-03-04T12:41</td>
       <td>8</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990636/">6990636</a></td>
@@ -25124,7 +25124,7 @@ datatable: true
       <td>2024-12-19T05:34</td>
       <td>45</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM CP660 DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990638/">6990638</a></td>
@@ -25135,7 +25135,7 @@ datatable: true
       <td>2024-12-23T10:46</td>
       <td>80</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990658/">6990658</a></td>
@@ -25146,7 +25146,7 @@ datatable: true
       <td>2024-12-22T05:43</td>
       <td>16</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990660/">6990660</a></td>
@@ -25157,7 +25157,7 @@ datatable: true
       <td>2024-12-22T04:30</td>
       <td>22</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990661/">6990661</a></td>
@@ -25168,7 +25168,7 @@ datatable: true
       <td>2024-12-22T21:58</td>
       <td>18</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990662/">6990662</a></td>
@@ -25179,7 +25179,7 @@ datatable: true
       <td>2024-12-25T01:11</td>
       <td>17</td>
       <td>TEMP PSAL DOXY BBP700 CHLA CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990663/">6990663</a></td>
@@ -25190,7 +25190,7 @@ datatable: true
       <td>2024-12-19T01:50</td>
       <td>17</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6990668/">6990668</a></td>
@@ -25201,7 +25201,7 @@ datatable: true
       <td>2024-12-23T02:34</td>
       <td>44</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900095/">7900095</a></td>
@@ -25212,7 +25212,7 @@ datatable: true
       <td>2008-08-22T23:36</td>
       <td>51</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900132/">7900132</a></td>
@@ -25223,7 +25223,7 @@ datatable: true
       <td>2007-04-29T13:44</td>
       <td>14</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900133/">7900133</a></td>
@@ -25234,7 +25234,7 @@ datatable: true
       <td>2007-08-10T07:39</td>
       <td>29</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900340/">7900340</a></td>
@@ -25245,7 +25245,7 @@ datatable: true
       <td>2011-03-16T02:00</td>
       <td>9</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900341/">7900341</a></td>
@@ -25256,7 +25256,7 @@ datatable: true
       <td>2011-04-06T02:29</td>
       <td>11</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900343/">7900343</a></td>
@@ -25267,7 +25267,7 @@ datatable: true
       <td>2011-03-08T16:28</td>
       <td>8</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900344/">7900344</a></td>
@@ -25278,7 +25278,7 @@ datatable: true
       <td>2012-03-02T22:05</td>
       <td>33</td>
       <td>PSAL TEMP DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900347/">7900347</a></td>
@@ -25289,7 +25289,7 @@ datatable: true
       <td>2011-08-13T19:23</td>
       <td>11</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900351/">7900351</a></td>
@@ -25300,7 +25300,7 @@ datatable: true
       <td>2011-04-09T00:04</td>
       <td>10</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900354/">7900354</a></td>
@@ -25311,7 +25311,7 @@ datatable: true
       <td>2011-01-13T07:48</td>
       <td>1</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900392/">7900392</a></td>
@@ -25344,7 +25344,7 @@ datatable: true
       <td>2011-12-28T11:31</td>
       <td>119</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900466/">7900466</a></td>
@@ -25355,7 +25355,7 @@ datatable: true
       <td>2012-11-27T12:22</td>
       <td>185</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900559/">7900559</a></td>
@@ -25366,7 +25366,7 @@ datatable: true
       <td>2020-12-11T11:34</td>
       <td>181</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900560/">7900560</a></td>
@@ -25377,7 +25377,7 @@ datatable: true
       <td>2021-03-12T12:01</td>
       <td>118</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900561/">7900561</a></td>
@@ -25388,7 +25388,7 @@ datatable: true
       <td>2021-04-19T05:52</td>
       <td>129</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900562/">7900562</a></td>
@@ -25399,7 +25399,7 @@ datatable: true
       <td>2022-12-18T11:46</td>
       <td>243</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900563/">7900563</a></td>
@@ -25410,7 +25410,7 @@ datatable: true
       <td>2021-06-15T04:40</td>
       <td>120</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900566/">7900566</a></td>
@@ -25421,7 +25421,7 @@ datatable: true
       <td>2022-09-11T12:09</td>
       <td>107</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900579/">7900579</a></td>
@@ -25432,7 +25432,7 @@ datatable: true
       <td>2022-04-12T05:52</td>
       <td>165</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900580/">7900580</a></td>
@@ -25443,7 +25443,7 @@ datatable: true
       <td>2022-02-25T10:25</td>
       <td>168</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900583/">7900583</a></td>
@@ -25454,7 +25454,7 @@ datatable: true
       <td>2022-10-22T04:18</td>
       <td>39</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900584/">7900584</a></td>
@@ -25465,7 +25465,7 @@ datatable: true
       <td>2024-12-19T09:57</td>
       <td>124</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900585/">7900585</a></td>
@@ -25476,7 +25476,7 @@ datatable: true
       <td>2024-07-21T06:35</td>
       <td>266</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900586/">7900586</a></td>
@@ -25487,7 +25487,7 @@ datatable: true
       <td>2022-03-08T12:12</td>
       <td>150</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900587/">7900587</a></td>
@@ -25498,7 +25498,7 @@ datatable: true
       <td>2022-03-08T10:41</td>
       <td>155</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900588/">7900588</a></td>
@@ -25520,7 +25520,7 @@ datatable: true
       <td>2022-09-14T12:19</td>
       <td>115</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900591/">7900591</a></td>
@@ -25531,7 +25531,7 @@ datatable: true
       <td>2020-02-20T09:52</td>
       <td>266</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 BBP532</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900592/">7900592</a></td>
@@ -25542,7 +25542,7 @@ datatable: true
       <td>2014-10-25T09:03</td>
       <td>82</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 BBP532</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900593/">7900593</a></td>
@@ -25553,7 +25553,7 @@ datatable: true
       <td>2015-04-15T04:43</td>
       <td>59</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900594/">7900594</a></td>
@@ -25564,7 +25564,7 @@ datatable: true
       <td>2017-06-02T00:00</td>
       <td>140</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900596/">7900596</a></td>
@@ -25575,7 +25575,7 @@ datatable: true
       <td>2023-04-10T05:49</td>
       <td>124</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900617/">7900617</a></td>
@@ -25597,7 +25597,7 @@ datatable: true
       <td>2024-07-12T18:51</td>
       <td>105</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900824/">7900824</a></td>
@@ -25608,7 +25608,7 @@ datatable: true
       <td>2024-03-12T00:37</td>
       <td>79</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900825/">7900825</a></td>
@@ -25619,7 +25619,7 @@ datatable: true
       <td>2024-03-07T17:00</td>
       <td>63</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900826/">7900826</a></td>
@@ -25630,7 +25630,7 @@ datatable: true
       <td>2023-03-06T16:20</td>
       <td>5</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900827/">7900827</a></td>
@@ -25641,7 +25641,7 @@ datatable: true
       <td>2024-02-27T07:25</td>
       <td>79</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900863/">7900863</a></td>
@@ -25652,7 +25652,7 @@ datatable: true
       <td>2019-06-11T16:17</td>
       <td>14</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900874/">7900874</a></td>
@@ -25663,7 +25663,7 @@ datatable: true
       <td>2023-03-30T19:33</td>
       <td>4</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900875/">7900875</a></td>
@@ -25674,7 +25674,7 @@ datatable: true
       <td>2024-12-23T10:28</td>
       <td>32</td>
       <td>TEMP PSAL DOXY</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900878/">7900878</a></td>
@@ -25685,7 +25685,7 @@ datatable: true
       <td>2024-12-16T11:58</td>
       <td>21</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900881/">7900881</a></td>
@@ -25696,7 +25696,7 @@ datatable: true
       <td>2023-11-09T17:33</td>
       <td>52</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900907/">7900907</a></td>
@@ -25707,7 +25707,7 @@ datatable: true
       <td>2021-11-30T06:55</td>
       <td>38</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL NITRATE DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP470 BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900915/">7900915</a></td>
@@ -25718,7 +25718,7 @@ datatable: true
       <td>2021-05-08T06:47</td>
       <td>14</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL NITRATE DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP470 BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900918/">7900918</a></td>
@@ -25729,7 +25729,7 @@ datatable: true
       <td>2021-05-20T07:00</td>
       <td>14</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL NITRATE DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA BBP470 BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900943/">7900943</a></td>
@@ -25740,7 +25740,7 @@ datatable: true
       <td>2024-12-24T05:39</td>
       <td>78</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR BBP700 CDOM CHLA PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900947/">7900947</a></td>
@@ -25751,7 +25751,7 @@ datatable: true
       <td>2024-12-21T15:13</td>
       <td>69</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR BBP700 CDOM CHLA PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, A</td>
+      <td>Indian, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900961/">7900961</a></td>
@@ -25762,7 +25762,7 @@ datatable: true
       <td>2024-12-24T11:51</td>
       <td>67</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900962/">7900962</a></td>
@@ -25773,7 +25773,7 @@ datatable: true
       <td>2024-03-06T07:44</td>
       <td>4</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900964/">7900964</a></td>
@@ -25784,7 +25784,7 @@ datatable: true
       <td>2024-12-03T16:53</td>
       <td>62</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900965/">7900965</a></td>
@@ -25795,7 +25795,7 @@ datatable: true
       <td>2024-12-24T23:29</td>
       <td>53</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900967/">7900967</a></td>
@@ -25806,7 +25806,7 @@ datatable: true
       <td>2024-03-28T09:24</td>
       <td>3</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900973/">7900973</a></td>
@@ -25861,7 +25861,7 @@ datatable: true
       <td>2023-03-27T11:30</td>
       <td>112</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 BBP532 PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901006/">7901006</a></td>
@@ -25872,7 +25872,7 @@ datatable: true
       <td>2024-12-27T07:12</td>
       <td>372</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901007/">7901007</a></td>
@@ -25883,7 +25883,7 @@ datatable: true
       <td>2024-12-26T10:22</td>
       <td>324</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901009/">7901009</a></td>
@@ -25894,7 +25894,7 @@ datatable: true
       <td>2024-12-22T15:59</td>
       <td>55</td>
       <td>TEMP PSAL DOXY BBP700 CHLA CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901013/">7901013</a></td>
@@ -25905,7 +25905,7 @@ datatable: true
       <td>2024-12-25T22:51</td>
       <td>89</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901019/">7901019</a></td>
@@ -25916,7 +25916,7 @@ datatable: true
       <td>2023-03-08T07:44</td>
       <td>2</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901023/">7901023</a></td>
@@ -25927,7 +25927,7 @@ datatable: true
       <td>2024-12-19T15:23</td>
       <td>54</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CDOM DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901027/">7901027</a></td>
@@ -25938,7 +25938,7 @@ datatable: true
       <td>2024-12-22T11:22</td>
       <td>68</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901028/">7901028</a></td>
@@ -25949,7 +25949,7 @@ datatable: true
       <td>2024-12-26T05:24</td>
       <td>126</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL CP660 NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901036/">7901036</a></td>
@@ -25960,7 +25960,7 @@ datatable: true
       <td>2024-12-26T09:39</td>
       <td>56</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901037/">7901037</a></td>
@@ -25971,7 +25971,7 @@ datatable: true
       <td>2024-02-19T18:01</td>
       <td>25</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901065/">7901065</a></td>
@@ -25982,7 +25982,7 @@ datatable: true
       <td>2024-12-20T11:44</td>
       <td>120</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM NITRATE BISULFIDE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901095/">7901095</a></td>
@@ -25993,7 +25993,7 @@ datatable: true
       <td>2024-12-24T21:40</td>
       <td>48</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901097/">7901097</a></td>
@@ -26004,7 +26004,7 @@ datatable: true
       <td>2024-12-07T05:41</td>
       <td>43</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901098/">7901098</a></td>
@@ -26015,7 +26015,7 @@ datatable: true
       <td>2024-12-25T04:14</td>
       <td>45</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901099/">7901099</a></td>
@@ -26026,7 +26026,7 @@ datatable: true
       <td>2023-12-09T15:21</td>
       <td>7</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901102/">7901102</a></td>
@@ -26037,7 +26037,7 @@ datatable: true
       <td>2024-12-18T08:10</td>
       <td>25</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901103/">7901103</a></td>
@@ -26048,7 +26048,7 @@ datatable: true
       <td>2024-12-26T12:23</td>
       <td>24</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901106/">7901106</a></td>
@@ -26059,7 +26059,7 @@ datatable: true
       <td>2024-12-21T12:12</td>
       <td>131</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901107/">7901107</a></td>
@@ -26070,7 +26070,7 @@ datatable: true
       <td>2024-12-20T02:26</td>
       <td>28</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901108/">7901108</a></td>
@@ -26081,7 +26081,7 @@ datatable: true
       <td>2024-12-18T17:36</td>
       <td>28</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWNWELLING_PAR</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901111/">7901111</a></td>
@@ -26092,7 +26092,7 @@ datatable: true
       <td>2024-12-24T18:19</td>
       <td>8</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901112/">7901112</a></td>
@@ -26103,7 +26103,7 @@ datatable: true
       <td>2024-12-21T11:33</td>
       <td>4</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901113/">7901113</a></td>
@@ -26114,7 +26114,7 @@ datatable: true
       <td>2024-12-19T01:12</td>
       <td>25</td>
       <td>TEMP PSAL DOXY</td>
-      <td>I, A</td>
+      <td>Indian, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901124/">7901124</a></td>
@@ -26125,7 +26125,7 @@ datatable: true
       <td>2024-11-07T15:31</td>
       <td>77</td>
       <td>TEMP PSAL CHLA CHLA_FLUORESCENCE BBP700 CP660 DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901134/">7901134</a></td>
@@ -26136,7 +26136,7 @@ datatable: true
       <td>2024-12-26T14:29</td>
       <td>14</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901135/">7901135</a></td>
@@ -26147,7 +26147,7 @@ datatable: true
       <td>2024-11-09T21:57</td>
       <td>66</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901136/">7901136</a></td>
@@ -26158,7 +26158,7 @@ datatable: true
       <td>2024-12-17T13:21</td>
       <td>75</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902100/">7902100</a></td>
@@ -26169,7 +26169,7 @@ datatable: true
       <td>2024-12-25T21:03</td>
       <td>24</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902101/">7902101</a></td>
@@ -26180,7 +26180,7 @@ datatable: true
       <td>2024-12-18T07:43</td>
       <td>18</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902102/">7902102</a></td>
@@ -26191,7 +26191,7 @@ datatable: true
       <td>2024-12-22T03:31</td>
       <td>18</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902103/">7902103</a></td>
@@ -26202,7 +26202,7 @@ datatable: true
       <td>2024-12-19T12:20</td>
       <td>17</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902104/">7902104</a></td>
@@ -26213,7 +26213,7 @@ datatable: true
       <td>2024-12-21T02:17</td>
       <td>17</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902105/">7902105</a></td>
@@ -26224,7 +26224,7 @@ datatable: true
       <td>2024-12-24T15:04</td>
       <td>17</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902106/">7902106</a></td>
@@ -26235,7 +26235,7 @@ datatable: true
       <td>2024-12-16T21:54</td>
       <td>15</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902107/">7902107</a></td>
@@ -26246,7 +26246,7 @@ datatable: true
       <td>2024-12-20T15:43</td>
       <td>16</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902108/">7902108</a></td>
@@ -26257,7 +26257,7 @@ datatable: true
       <td>2024-12-24T08:43</td>
       <td>16</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902109/">7902109</a></td>
@@ -26268,7 +26268,7 @@ datatable: true
       <td>2024-12-19T12:36</td>
       <td>14</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902110/">7902110</a></td>
@@ -26279,7 +26279,7 @@ datatable: true
       <td>2024-12-21T12:52</td>
       <td>14</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902111/">7902111</a></td>
@@ -26290,7 +26290,7 @@ datatable: true
       <td>2024-12-24T22:08</td>
       <td>38</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902112/">7902112</a></td>
@@ -26301,7 +26301,7 @@ datatable: true
       <td>2024-12-26T00:43</td>
       <td>34</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL DOWN_IRRADIANCE380 DOWN_IRRADIANCE443 DOWN_IRRADIANCE490 DOWN_IRRADIANCE555 NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902113/">7902113</a></td>
@@ -26312,7 +26312,7 @@ datatable: true
       <td>2024-12-22T20:55</td>
       <td>7</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902114/">7902114</a></td>
@@ -26323,7 +26323,7 @@ datatable: true
       <td>2024-12-21T01:49</td>
       <td>4</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902116/">7902116</a></td>
@@ -26334,7 +26334,7 @@ datatable: true
       <td>2024-12-21T19:57</td>
       <td>9</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902117/">7902117</a></td>
@@ -26345,7 +26345,7 @@ datatable: true
       <td>2024-11-27T01:52</td>
       <td>6</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902118/">7902118</a></td>
@@ -26356,7 +26356,7 @@ datatable: true
       <td>2024-12-19T06:24</td>
       <td>8</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902119/">7902119</a></td>
@@ -26367,7 +26367,7 @@ datatable: true
       <td>2024-12-11T08:11</td>
       <td>7</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902120/">7902120</a></td>
@@ -26378,7 +26378,7 @@ datatable: true
       <td>2024-12-04T14:17</td>
       <td>10</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902121/">7902121</a></td>
@@ -26389,7 +26389,7 @@ datatable: true
       <td>2024-12-18T13:03</td>
       <td>7</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902122/">7902122</a></td>
@@ -26400,7 +26400,7 @@ datatable: true
       <td>2024-12-19T14:09</td>
       <td>7</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902123/">7902123</a></td>
@@ -26411,7 +26411,7 @@ datatable: true
       <td>2024-11-20T10:37</td>
       <td>2</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902124/">7902124</a></td>
@@ -26422,7 +26422,7 @@ datatable: true
       <td>2024-11-22T15:42</td>
       <td>2</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I, A</td>
+      <td>Indian, Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902125/">7902125</a></td>
@@ -26433,7 +26433,7 @@ datatable: true
       <td>2024-11-28T22:29</td>
       <td>2</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902126/">7902126</a></td>
@@ -26444,7 +26444,7 @@ datatable: true
       <td>2024-12-02T05:39</td>
       <td>2</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902127/">7902127</a></td>
@@ -26455,7 +26455,7 @@ datatable: true
       <td>2024-12-25T06:57</td>
       <td>4</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902128/">7902128</a></td>
@@ -26466,7 +26466,7 @@ datatable: true
       <td>2024-12-18T21:09</td>
       <td>3</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902129/">7902129</a></td>
@@ -26477,7 +26477,7 @@ datatable: true
       <td>2024-12-20T14:09</td>
       <td>3</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902130/">7902130</a></td>
@@ -26488,7 +26488,7 @@ datatable: true
       <td>2024-12-23T20:21</td>
       <td>3</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902131/">7902131</a></td>
@@ -26499,7 +26499,7 @@ datatable: true
       <td>2024-12-16T11:13</td>
       <td>2</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902132/">7902132</a></td>
@@ -26510,7 +26510,7 @@ datatable: true
       <td>2025-01-30T01:24</td>
       <td>6</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902133/">7902133</a></td>
@@ -26521,7 +26521,7 @@ datatable: true
       <td>2024-12-17T13:36</td>
       <td>2</td>
       <td>TEMP PSAL DOXY CHLA BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902134/">7902134</a></td>
@@ -26532,7 +26532,7 @@ datatable: true
       <td>2025-01-01T22:21</td>
       <td>4</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902135/">7902135</a></td>
@@ -26554,7 +26554,7 @@ datatable: true
       <td>2024-12-25T17:43</td>
       <td>5</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902137/">7902137</a></td>
@@ -26587,7 +26587,7 @@ datatable: true
       <td>2024-11-25T05:22</td>
       <td>1</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700 PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902170/">7902170</a></td>
@@ -26598,7 +26598,7 @@ datatable: true
       <td>2024-12-24T02:47</td>
       <td>24</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902171/">7902171</a></td>
@@ -26609,7 +26609,7 @@ datatable: true
       <td>2024-11-18T09:44</td>
       <td>41</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902190/">7902190</a></td>
@@ -26620,7 +26620,7 @@ datatable: true
       <td>2024-12-19T07:19</td>
       <td>18</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL DOXY NITRATE CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902191/">7902191</a></td>
@@ -26631,7 +26631,7 @@ datatable: true
       <td>2024-12-23T05:05</td>
       <td>20</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902194/">7902194</a></td>
@@ -26642,7 +26642,7 @@ datatable: true
       <td>2024-12-25T07:34</td>
       <td>102</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902195/">7902195</a></td>
@@ -26653,7 +26653,7 @@ datatable: true
       <td>2024-12-26T18:12</td>
       <td>42</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902196/">7902196</a></td>
@@ -26664,7 +26664,7 @@ datatable: true
       <td>2024-12-21T09:43</td>
       <td>19</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902197/">7902197</a></td>
@@ -26675,7 +26675,7 @@ datatable: true
       <td>2024-12-24T12:35</td>
       <td>23</td>
       <td>TEMP PSAL DOXY</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902198/">7902198</a></td>
@@ -26686,7 +26686,7 @@ datatable: true
       <td>2024-12-04T06:24</td>
       <td>31</td>
       <td>TEMP PSAL DOXY PH_IN_SITU_TOTAL BBP700 CHLA CDOM DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902199/">7902199</a></td>
@@ -26697,7 +26697,7 @@ datatable: true
       <td>2024-12-20T02:53</td>
       <td>23</td>
       <td>TEMP PSAL DOXY BBP700 CHLA CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>P</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902200/">7902200</a></td>
@@ -26708,7 +26708,7 @@ datatable: true
       <td>2024-12-06T20:23</td>
       <td>12</td>
       <td>TEMP PSAL PH_IN_SITU_TOTAL DOXY CHLA BBP700</td>
-      <td>I</td>
+      <td>Indian</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902203/">7902203</a></td>
@@ -26719,7 +26719,7 @@ datatable: true
       <td>2024-12-26T11:22</td>
       <td>82</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902215/">7902215</a></td>
@@ -26730,7 +26730,7 @@ datatable: true
       <td>2024-12-23T06:57</td>
       <td>18</td>
       <td>TEMP PSAL DOXY DOXY2</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7902223/">7902223</a></td>
@@ -26741,7 +26741,7 @@ datatable: true
       <td>2024-12-21T11:35</td>
       <td>21</td>
       <td>TEMP PSAL DOXY DOWN_IRRADIANCE380 DOWN_IRRADIANCE412 DOWN_IRRADIANCE490 DOWNWELLING_PAR CHLA CHLA_FLUORESCENCE BBP700 CDOM PH_IN_SITU_TOTAL NITRATE</td>
-      <td>A</td>
+      <td>Atlantic</td>
     </tr>
   </tbody>
 </table>
