@@ -5,5 +5,4 @@ To update the BGC-Argo+ website after a new set of processing:
     - Create a new  "website_float_outlier_meta_" + dataset_version + ".csv"
     - from that table, create a markdown page containing all float metadata
     - Make new markdown pages for each float (will automatically read in figure titles)
-    - Copy figures into ftp site after first deleting old figures (note that this is incredibly slow, currently doing this via FileZilla. Not sure if there is a better way. Maybe if I have all files in one directory it would be faster.
-    - 
+    - Copy figures into ftp site after first deleting old figures. Do this from the lab-pc or your desktop, but not remotely as it will be too slow
