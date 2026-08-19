@@ -23,10 +23,10 @@ The **BGC-Argo+ dataset** is a product of the HI-Cycles group at the University 
 
 - Calculate common derived or ancillary parameters
 
-- Correct deep oxygen bias first noted in [Bushinsky et al. (2016)](https://doi.org/10.1002/lom3.10107) and [Drucker and Riser (2016)](https://doi.org/10.1016/j.mio.2016.09.007). Subsequently seen in [Gouretski et al. (2024)](https://essd.copernicus.org/articles/16/5503/2024/) and [Bushinsky et al. (2025)](https://doi.org/10.1029/2024GB008185). The approach for finding this bias is described in [Bushinsky et al. (2025)](https://doi.org/10.1029/2024GB008185). Our bias correction approach will be described in Nachod et al. (in prep.)
+- **Future work, Nachod et al. (in prep.):** Correct deep oxygen bias first noted in [Bushinsky et al. (2016)](https://doi.org/10.1002/lom3.10107) and [Drucker and Riser (2016)](https://doi.org/10.1016/j.mio.2016.09.007). Subsequently seen in [Gouretski et al. (2024)](https://essd.copernicus.org/articles/16/5503/2024/) and [Bushinsky et al. (2025)](https://doi.org/10.1029/2024GB008185). The approach for finding this bias is described in [Bushinsky et al. (2025)](https://doi.org/10.1029/2024GB008185).
 
 
-As part of this effort we are informing individual float PIs and data centers of the issues that we find. Eventually we hope that this sort of secondary QC effort is no longer necessary. For now we believe it is important to keep looking into the data in as much detail as possible to improve its utility for all users. It is one thing to deploy new floats, but improving existing data adds measurements we can never make again. Both are necessary to move this area of oceanography forward. 
+As part of this effort we are discussing these issues with float PIs and researchers involved in the current QC at the DAC levels. Eventually we hope that this sort of secondary QC effort is no longer necessary. For now we believe it is important to keep looking into the data in as much detail as possible to improve its utility for all users. It is one thing to deploy new floats, but improving existing data adds measurements we can never make again. Both are necessary to move this area of oceanography forward. 
 
 Please send an email to [seth.bushinsky at hawaii.edu](mailto:seth.bushinsky@hawaii.edu) with any errors, issues, or concerns. If you'd like to find out more about the work that the HI-Cycles group does, please take a look at our [group website](https://bushinskyoceanlab.org).
 
