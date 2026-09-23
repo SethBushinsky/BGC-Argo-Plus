@@ -17,7 +17,7 @@ author_profile: false
 **- Submitted [code archive](https://doi.org/10.5281/zenodo.19705310)**
 
 
-# Data files - version v1.0
+# Data files - v1.0
 **Float files are grouped by region or individually, one file per float, similar format as GDAC files (details below). Gridded files are on an X x Y x Z grid, not mapped or interpolated.**
 
 Version notes: v1.0 - finalized version for revised manuscript. Fixed / added attribute information for float netcdf files
@@ -89,6 +89,6 @@ ocean | Ocean basin(s) where the float has drifted, from the synthetic Argo prof
 
 
 ## Past version notes
-[v1.0_2026_08](data-download/past_versions/v0.1_2026_04/) - Additional outlier removals, cleaned up data files, gridded files added, manuscript submitted.\
+[v0.1_2026_04](past_versions/v0.1_2026_04/) - Additional outlier removals, cleaned up data files, gridded files added, manuscript submitted.\
 v0.1_2025_12 - Changed to "BGCArgoPlus" variable suffixes. \
 v0.0 - Preliminary upload. 
