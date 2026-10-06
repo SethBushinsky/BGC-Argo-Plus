@@ -13,8 +13,8 @@ author_profile: false
 
 **We have submitted the BGC-Argo+ manuscript to ESSD:**\
 **- Manuscript [Preprint](https://doi.org/10.5194/essd-2026-311)**\
-**- Submitted [dataset archive](https://doi.org/10.5281/zenodo.19709012)**\
-**- Submitted [code archive](https://doi.org/10.5281/zenodo.19705310)**
+**- Revised [dataset archive](https://doi.org/10.5281/zenodo.22839721)**\
+**- Revised [code archive](https://doi.org/10.5281/zenodo.19705309)**
 
 
 # Data files - v1.0
@@ -24,12 +24,12 @@ Version notes: v1.0 - finalized version for revised manuscript. Fixed / added at
 
 Type | Region/Variable | Link | Backup link | File Size | Date Updated
 --- | --- | --- | --- | --- | ---
-Tar ball of all float files  | Global | [BGC_Argo_Plus_Global](https://ftp.soest.hawaii.edu/bgc_argo_plus/outliers_removed/v1.0_2026_08/BGC_Argo_Plus_Global_v1.0_2026_08.tar.gz) | [link](https://www.dropbox.com/scl/fi/moz5187oelb4sp4lihl6z/BGC_Argo_Plus_v1.0_2026_08_08.tar.gz?rlkey=i75m2lxnysh2igf1quiu1iubf&dl=0)| 14.2 GB | 2026-08
-Individual float files       | Global | [FTP Directory](https://ftp.soest.hawaii.edu/bgc_argo_plus/outliers_removed/v1.0_2026_08/Individual_Floats/)|N/A | 2,427 files, 32.8 GB total | 2026-08
-Gridded                      | Oxygen | [Tar.gz file](https://ftp.soest.hawaii.edu/bgc_argo_plus/outliers_removed/v1.0_2026_08/Gridded/BGC_Argo_monthly_gridded_DOXY_ADJUSTED_BGCArgoPlus_v1.0_2026_08.nc)| [link](https://www.dropbox.com/scl/fi/nr4cvv4cy03zqndh02dcj/BGC_Argo_monthly_gridded_DOXY_ADJUSTED_BGCArgoPlus_v1.0_2026_08.nc?rlkey=2xzkmg6k2wi8zm7is63mpfaz7&dl=0) | 116 MB | 2026-08
-Gridded                      | Nitrate| [Tar.gz file](https://ftp.soest.hawaii.edu/bgc_argo_plus/outliers_removed/v1.0_2026_08/Gridded/BGC_Argo_monthly_gridded_NITRATE_ADJUSTED_BGCArgoPlus_v1.0_2026_08.nc)| [link](https://www.dropbox.com/scl/fi/2aq55ac6nbwopf47d2ctk/BGC_Argo_monthly_gridded_NITRATE_ADJUSTED_BGCArgoPlus_v1.0_2026_08.nc?rlkey=0o6aaganmzx53cc1f3oo42dj6&dl=0) | 293 MB | 2026-08
-Gridded                      | DIC    | [Tar.gz file](https://ftp.soest.hawaii.edu/bgc_argo_plus/outliers_removed/v1.0_2026_08/Gridded/BGC_Argo_monthly_gridded_DIC_BGCArgoPlus_v1.0_2026_08.nc)| [link](https://www.dropbox.com/scl/fi/jpia2lwu22z1521ipgoyi/BGC_Argo_monthly_gridded_DIC_BGCArgoPlus_v1.0_2026_08.nc?rlkey=uq6rnmcfespazmmd478xu5jaa&dl=0)| 65 MB | 2026-08
-.csv of outliers removed <sup>1</sup>      | Global | [CSV](https://ftp.soest.hawaii.edu/bgc_argo_plus/outliers_removed/v1.0_2026_08/merged_outlier_meta_with_latlon_V2026_08.csv)| [link](https://www.dropbox.com/scl/fi/n5f6d4yvvhkyd07w2pab0/merged_outlier_meta_with_latlon_v2026_08.csv?rlkey=dp644yzf5wwpoeqhjthmrhpb2&dl=0)| 139 MB | 2026-08
+Tar ball of all float files  | Global | [BGC_Argo_Plus_Global](https://ftp.soest.hawaii.edu/bgc_argo_plus/outliers_removed/v1.0/BGC_Argo_Plus_Global_v1.0_2026_08.tar.gz) | [link](https://www.dropbox.com/scl/fi/moz5187oelb4sp4lihl6z/BGC_Argo_Plus_v1.0_2026_08_08.tar.gz?rlkey=i75m2lxnysh2igf1quiu1iubf&dl=0)| 14.2 GB | 2026-08
+Individual float files       | Global | [FTP Directory](https://ftp.soest.hawaii.edu/bgc_argo_plus/outliers_removed/v1.0/Individual_Floats/)|N/A | 2,427 files, 32.8 GB total | 2026-08
+Gridded                      | Oxygen | [Tar.gz file](https://ftp.soest.hawaii.edu/bgc_argo_plus/outliers_removed/v1.0/Gridded/BGC_Argo_monthly_gridded_DOXY_ADJUSTED_BGCArgoPlus_v1.0_2026_08.nc)| [link](https://www.dropbox.com/scl/fi/nr4cvv4cy03zqndh02dcj/BGC_Argo_monthly_gridded_DOXY_ADJUSTED_BGCArgoPlus_v1.0_2026_08.nc?rlkey=2xzkmg6k2wi8zm7is63mpfaz7&dl=0) | 116 MB | 2026-08
+Gridded                      | Nitrate| [Tar.gz file](https://ftp.soest.hawaii.edu/bgc_argo_plus/outliers_removed/v1.0/Gridded/BGC_Argo_monthly_gridded_NITRATE_ADJUSTED_BGCArgoPlus_v1.0_2026_08.nc)| [link](https://www.dropbox.com/scl/fi/2aq55ac6nbwopf47d2ctk/BGC_Argo_monthly_gridded_NITRATE_ADJUSTED_BGCArgoPlus_v1.0_2026_08.nc?rlkey=0o6aaganmzx53cc1f3oo42dj6&dl=0) | 293 MB | 2026-08
+Gridded                      | DIC    | [Tar.gz file](https://ftp.soest.hawaii.edu/bgc_argo_plus/outliers_removed/v1.0/Gridded/BGC_Argo_monthly_gridded_DIC_BGCArgoPlus_v1.0_2026_08.nc)| [link](https://www.dropbox.com/scl/fi/jpia2lwu22z1521ipgoyi/BGC_Argo_monthly_gridded_DIC_BGCArgoPlus_v1.0_2026_08.nc?rlkey=uq6rnmcfespazmmd478xu5jaa&dl=0)| 65 MB | 2026-08
+.csv of outliers removed <sup>1</sup>      | Global | [CSV](https://ftp.soest.hawaii.edu/bgc_argo_plus/outliers_removed/v1.0/merged_outlier_meta_with_latlon_V2026_08.csv)| [link](https://www.dropbox.com/scl/fi/n5f6d4yvvhkyd07w2pab0/merged_outlier_meta_with_latlon_v2026_08.csv?rlkey=dp644yzf5wwpoeqhjthmrhpb2&dl=0)| 139 MB | 2026-08
 
 **When using these data, in addition to citing this work please make sure to follow the [Argo](https://argo.ucsd.edu/data/acknowledging-argo/), [GO-BGC](https://www.go-bgc.org/data/citing-go-bgc), or [SOCCOM](https://soccom.org/about-us/acknowledgment-text/) acknowledgments as appropriate.** \
 <sup>1</sup>Column headers: Float Number, Variable, N_PROF, Date, N_LEVELS, Pressure (dbar), Deletion reason, Variable_short, Variable_base, Project, Data_Centre, DOXY_MODEL, NITRATE_MODEL, PH_MODEL, Deployment_Date, Dep_Lat, Dep_Lon, Last_Date, Lat, Lon.
