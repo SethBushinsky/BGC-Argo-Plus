@@ -1,0 +1,197 @@
+<!--
+  Float table: lat/lon region filter + map.
+  Put this file in _includes/ and add an include tag for it
+  right after <div class="datatable-end"></div> on the table page.
+  (Never write a literal include tag inside this comment: Liquid still runs inside
+  HTML comments, so the file would include itself forever.)
+  The filter controls are moved above the table automatically; the map stays below it.
+-->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<style>
+  .float-filters { display: flex; flex-wrap: wrap; gap: 0.75em 1.25em; align-items: flex-end; margin: 1em 0; font-size: 0.8em; }
+  .float-filters fieldset { border: 1px solid #ddd; border-radius: 4px; padding: 0.4em 0.75em 0.6em; margin: 0; }
+  .float-filters legend { font-weight: bold; padding: 0 0.3em; margin: 0; }
+  .float-filters label { display: inline-block; margin: 0 0.5em 0 0; }
+  .float-filters input[type=number] { display: inline-block; width: 6.5em; margin: 0 0 0 0.25em; padding: 0.2em 0.4em; }
+  .float-filters button { background: #f2f3f3; border: 1px solid #ccc; border-radius: 4px; padding: 0.35em 0.8em; margin: 0 0.4em 0.2em 0; cursor: pointer; font-size: 1em; }
+  .float-filters button:hover { background: #e4e6e7; }
+  .float-filters-hint { flex-basis: 100%; margin: 0; color: #666; font-style: italic; }
+  #float-map { height: 500px; margin: 1.5em 0 0.4em; border: 1px solid #ccc; border-radius: 4px; }
+  #float-map-status { font-size: 0.8em; color: #666; margin-bottom: 1em; }
+</style>
+
+<div id="float-filters" class="float-filters">
+  <fieldset>
+    <legend>Deployment latitude</legend>
+    <label>Min<input type="number" id="flt-lat-min" step="any" min="-90" max="90" placeholder="-90"></label>
+    <label>Max<input type="number" id="flt-lat-max" step="any" min="-90" max="90" placeholder="90"></label>
+  </fieldset>
+  <fieldset>
+    <legend>Deployment longitude</legend>
+    <label>Min<input type="number" id="flt-lon-min" step="any" placeholder="-180"></label>
+    <label>Max<input type="number" id="flt-lon-max" step="any" placeholder="180"></label>
+  </fieldset>
+  <div>
+    <button type="button" id="flt-from-map">Use current map view</button>
+    <button type="button" id="flt-clear">Clear region</button>
+    <button type="button" id="flt-zoom">Zoom map to results</button>
+  </div>
+  <p class="float-filters-hint">
+    Longitude can be −180…180 or 0…360; a min larger than max wraps across the dateline (e.g. 150 to −140).
+    Tip: shift-drag on the map to zoom to a box, then click "Use current map view".
+  </p>
+</div>
+
+<div id="float-map"></div>
+<div id="float-map-status"></div>
+
+<script>
+(function () {
+  // ---- Settings: column positions in the table (0-based) ----
+  var TABLE_ID = 'my-table';
+  var COL = { wmo: 0, project: 1, depDate: 2, lat: 3, lon: 4, lastDate: 5, profiles: 6 };
+  var PACIFIC_CENTERED = true;   // false = map centered on Greenwich
+
+  var state = { latMin: null, latMax: null, lonMin: null, lonMax: null };
+
+  function readNum(id) {
+    var v = document.getElementById(id).value.trim();
+    if (v === '') return null;
+    var n = parseFloat(v);
+    return isNaN(n) ? null : n;
+  }
+  function normLon(x) { return ((x + 180) % 360 + 360) % 360 - 180; }   // -> [-180, 180)
+  function displayLon(x) { return PACIFIC_CENTERED && x < 0 ? x + 360 : x; }
+  function regionActive() {
+    return state.latMin !== null || state.latMax !== null || state.lonMin !== null || state.lonMax !== null;
+  }
+  function lonOK(lon) {
+    if (state.lonMin === null && state.lonMax === null) return true;
+    var lo = state.lonMin === null ? -180 : normLon(state.lonMin);
+    var hi = state.lonMax === null ? 180 : (state.lonMax === 180 ? 180 : normLon(state.lonMax));
+    lon = normLon(lon);
+    return lo <= hi ? (lon >= lo && lon <= hi) : (lon >= lo || lon <= hi);   // wraps the dateline
+  }
+
+  // ---- Custom DataTables filter (runs together with the search box) ----
+  // Registered only once the table exists, on the same jQuery/DataTables copy the
+  // table uses (the page may load jQuery more than once, e.g. via the theme's main.min.js).
+  function regionFilter(settings, data) {
+    if (settings.nTable.id !== TABLE_ID || !regionActive()) return true;
+    var lat = parseFloat(data[COL.lat]), lon = parseFloat(data[COL.lon]);
+    if (isNaN(lat) || isNaN(lon)) return false;
+    if (state.latMin !== null && lat < state.latMin) return false;
+    if (state.latMax !== null && lat > state.latMax) return false;
+    return lonOK(lon);
+  }
+
+  function whenTableReady(cb) {
+    (function check() {
+      if ($.fn.dataTable.isDataTable('#' + TABLE_ID)) cb($('#' + TABLE_ID).DataTable());
+      else setTimeout(check, 100);
+    })();
+  }
+
+  window.addEventListener('load', function () {
+    whenTableReady(function (table) {
+      var searchFns = $.fn.dataTable.ext.search;
+      if (searchFns.indexOf(regionFilter) === -1) searchFns.push(regionFilter);
+
+      // Move the filter controls above the table
+      var wrapper = document.getElementById(TABLE_ID + '_wrapper');
+      if (wrapper) wrapper.parentNode.insertBefore(document.getElementById('float-filters'), wrapper);
+
+      // ---- Map ----
+      var map = L.map('float-map', { preferCanvas: true, worldCopyJump: true })
+                 .setView([10, PACIFIC_CENTERED ? 200 : 0], 2);
+      L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}', {
+        maxZoom: 10,
+        attribution: 'Tiles &copy; Esri &mdash; Sources: GEBCO, NOAA, CHS, OSU, UNH, CSUMB, National Geographic, DeLorme, NAVTEQ, and Esri'
+      }).addTo(map);
+
+      var markerLayer = L.featureGroup().addTo(map);
+      var regionBox = null;
+      var markers = {};
+      var tmp = document.createElement('div');
+
+      table.rows().every(function (rowIdx) {
+        var d = this.data();
+        var lat = parseFloat(d[COL.lat]), lon = parseFloat(d[COL.lon]);
+        if (isNaN(lat) || isNaN(lon)) return;
+        tmp.innerHTML = d[COL.wmo];
+        var a = tmp.querySelector('a');
+        var wmoHtml = a ? '<a href="' + a.getAttribute('href') + '">' + a.textContent + '</a>' : tmp.textContent;
+        markers[rowIdx] = L.circleMarker([lat, displayLon(lon)], {
+          radius: 4, weight: 1, color: '#004a73', fillColor: '#007cba', fillOpacity: 0.8
+        }).bindPopup(
+          '<strong>' + wmoHtml + '</strong> (' + d[COL.project] + ')<br>' +
+          'Deployed: ' + d[COL.depDate] + '<br>' +
+          'Last profile: ' + d[COL.lastDate] + '<br>' +
+          'Profiles: ' + d[COL.profiles]
+        );
+      });
+      var total = Object.keys(markers).length;
+
+      function drawRegionBox() {
+        if (regionBox) { map.removeLayer(regionBox); regionBox = null; }
+        if (!regionActive()) return;
+        var s = state.latMin === null ? -85 : state.latMin;
+        var n = state.latMax === null ? 85 : state.latMax;
+        var w = state.lonMin === null ? -180 : displayLon(normLon(state.lonMin));
+        var e = state.lonMax === null ? 180 : displayLon(state.lonMax === 180 ? 180 : normLon(state.lonMax));
+        if (state.lonMin === null && state.lonMax === null && PACIFIC_CENTERED) { w = 20; e = 380; }
+        if (e < w) e += 360;
+        regionBox = L.rectangle([[s, w], [n, e]], { color: '#d73527', weight: 1.5, fill: false, dashArray: '4 4', interactive: false }).addTo(map);
+      }
+
+      function refreshMarkers() {
+        markerLayer.clearLayers();
+        var shown = 0;
+        table.rows({ search: 'applied' }).indexes().each(function (i) {
+          if (markers[i]) { markerLayer.addLayer(markers[i]); shown++; }
+        });
+        document.getElementById('float-map-status').textContent =
+          'Map: ' + shown + ' of ' + total + ' floats (deployment locations).';
+      }
+      table.on('draw', refreshMarkers);
+      refreshMarkers();
+
+      // ---- Controls ----
+      function applyInputs() {
+        state.latMin = readNum('flt-lat-min'); state.latMax = readNum('flt-lat-max');
+        state.lonMin = readNum('flt-lon-min'); state.lonMax = readNum('flt-lon-max');
+        drawRegionBox();
+        table.draw();
+      }
+      var timer;
+      ['flt-lat-min', 'flt-lat-max', 'flt-lon-min', 'flt-lon-max'].forEach(function (id) {
+        document.getElementById(id).addEventListener('input', function () {
+          clearTimeout(timer); timer = setTimeout(applyInputs, 300);
+        });
+      });
+
+      function setInput(id, v) { document.getElementById(id).value = v === null ? '' : (Math.round(v * 100) / 100); }
+
+      document.getElementById('flt-from-map').addEventListener('click', function () {
+        var b = map.getBounds();
+        setInput('flt-lat-min', Math.max(b.getSouth(), -90));
+        setInput('flt-lat-max', Math.min(b.getNorth(), 90));
+        if (b.getEast() - b.getWest() >= 360) { setInput('flt-lon-min', null); setInput('flt-lon-max', null); }
+        else { setInput('flt-lon-min', normLon(b.getWest())); setInput('flt-lon-max', normLon(b.getEast())); }
+        applyInputs();
+      });
+
+      document.getElementById('flt-clear').addEventListener('click', function () {
+        ['flt-lat-min', 'flt-lat-max', 'flt-lon-min', 'flt-lon-max'].forEach(function (id) { setInput(id, null); });
+        applyInputs();
+      });
+
+      document.getElementById('flt-zoom').addEventListener('click', function () {
+        if (markerLayer.getLayers().length) map.fitBounds(markerLayer.getBounds().pad(0.1), { maxZoom: 7 });
+      });
+    });
+  });
+})();
+</script>

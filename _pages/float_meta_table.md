@@ -7,7 +7,8 @@ last_modified_at: 2026-08-18
 toc: false
 datatable: true
 ---
- 
+{% include float_table_filters.html %}
+
 <div class="datatable-begin"></div>
 <table id="my-table">
   <thead>
