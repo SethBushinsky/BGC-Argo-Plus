@@ -3,6 +3,14 @@ source "https://rubygems.org"
 # GitHub Pages gem for Jekyll hosting (includes most plugins)
 gem "github-pages", group: :jekyll_plugins
 
+# Needed for local serving on Ruby 3.x
+gem "webrick"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
+gem "faraday-retry"
+
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
