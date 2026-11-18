@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /float_meta_table/
-title: "Float Table"
+title: "Float Table/Map"
 author_profile: false
 last_modified_at: 2026-08-18
 toc: false

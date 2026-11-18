@@ -6,12 +6,12 @@ main:
   #   url: /about/
   - title: "Data Download"
     url: /data-download/
-  - title: "Float Table"
+  - title: "Float Table/Map"
     url: /float_meta_table/
   - title: "Code Repository"
     url: /code-repository/
-  - title: "Maps"
-    url: /maps/
+  - title: "Figures/Images"
+    url: /Figures_Images/
   # to add - citation? 
   # - title: "Sitemap"
   #   url: /sitemap/
