@@ -40,7 +40,6 @@
   </div>
   <p class="float-filters-hint">
     Longitude can be −180…180 or 0…360; a min larger than max wraps across the dateline (e.g. 150 to −140).
-    Tip: shift-drag on the map to zoom to a box, then click "Use current map view".
   </p>
 </div>
 
@@ -67,12 +66,22 @@
   function regionActive() {
     return state.latMin !== null || state.latMax !== null || state.lonMin !== null || state.lonMax !== null;
   }
+  // Longitude range as [start, start + span], measured eastward from the min.
+  // Works for -180..180 or 0..360 input; min > max wraps across the dateline;
+  // a range of 360 or more (e.g. 0 to 360) means "all longitudes".
+  function lonRange() {
+    var lo = state.lonMin === null ? -180 : state.lonMin;
+    var hi = state.lonMax === null ? 180 : state.lonMax;
+    if (hi - lo >= 360) return null;            // full circle
+    var span = hi - lo;
+    if (span < 0) span += 360;
+    return { start: lo, span: span };
+  }
   function lonOK(lon) {
-    if (state.lonMin === null && state.lonMax === null) return true;
-    var lo = state.lonMin === null ? -180 : normLon(state.lonMin);
-    var hi = state.lonMax === null ? 180 : (state.lonMax === 180 ? 180 : normLon(state.lonMax));
-    lon = normLon(lon);
-    return lo <= hi ? (lon >= lo && lon <= hi) : (lon >= lo || lon <= hi);   // wraps the dateline
+    var r = lonRange();
+    if (!r) return true;
+    var d = ((lon - r.start) % 360 + 360) % 360;  // degrees east of the range start
+    return d <= r.span;
   }
 
   // ---- Custom DataTables filter (runs together with the search box) ----
@@ -104,8 +113,15 @@
       if (wrapper) wrapper.parentNode.insertBefore(document.getElementById('float-filters'), wrapper);
 
       // ---- Map ----
-      var map = L.map('float-map', { preferCanvas: true, worldCopyJump: true })
-                 .setView([10, PACIFIC_CENTERED ? 200 : 0], 2);
+      // One world only: no endless horizontal scrolling. With PACIFIC_CENTERED the
+      // map runs 0..360 E; otherwise -180..180.
+      var LON_WEST = PACIFIC_CENTERED ? 0 : -180;
+      var map = L.map('float-map', {
+        preferCanvas: true,
+        minZoom: 2,
+        maxBounds: [[-85, LON_WEST], [85, LON_WEST + 360]],
+        maxBoundsViscosity: 1.0      // hard stop at the edges
+      }).setView([10, PACIFIC_CENTERED ? 200 : 0], 2);
       L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}', {
         maxZoom: 10,
         attribution: 'Tiles &copy; Esri &mdash; Sources: GEBCO, NOAA, CHS, OSU, UNH, CSUMB, National Geographic, DeLorme, NAVTEQ, and Esri'
@@ -139,10 +155,9 @@
         if (!regionActive()) return;
         var s = state.latMin === null ? -85 : state.latMin;
         var n = state.latMax === null ? 85 : state.latMax;
-        var w = state.lonMin === null ? -180 : displayLon(normLon(state.lonMin));
-        var e = state.lonMax === null ? 180 : displayLon(state.lonMax === 180 ? 180 : normLon(state.lonMax));
-        if (state.lonMin === null && state.lonMax === null && PACIFIC_CENTERED) { w = 20; e = 380; }
-        if (e < w) e += 360;
+        var r = lonRange(), w, e;
+        if (!r) { w = LON_WEST; e = LON_WEST + 360; }
+        else { w = displayLon(normLon(r.start)); e = w + r.span; }
         regionBox = L.rectangle([[s, w], [n, e]], { color: '#d73527', weight: 1.5, fill: false, dashArray: '4 4', interactive: false }).addTo(map);
       }
 

@@ -28,7 +28,7 @@ The **BGC-Argo+ dataset** is a product of the HI-Cycles group at the University 
 
 As part of this effort we are discussing these issues with float PIs and researchers involved in the current QC at the DAC levels. Eventually we hope that this sort of secondary QC effort is no longer necessary. For now we believe it is important to keep looking into the data in as much detail as possible to improve its utility for all users. It is one thing to deploy new floats, but improving existing data adds measurements we can never make again. Both are necessary to move this area of oceanography forward. 
 
-Please send an email to [seth.bushinsky at hawaii.edu](mailto:seth.bushinsky@hawaii.edu) with any errors, issues, or concerns. If you'd like to find out more about the work that the HI-Cycles group does, please take a look at our [group website](https://bushinskyoceanlab.org).
+Please send an email to [seth.bushinsky at hawaii.edu](mailto:seth.bushinsky@hawaii.edu) with any errors, issues, or concerns. If you'd like to find out more about the work that the HI-Cycles group does, please take a look at our [group website](https://hi-cycles.org).
 
 This work was originally funded by NOAA grant NA21OAR4310260 to PIs Seth Bushinsky, Nancy Williams (USF), and Andrea Fassbender (NOAA-PMEL). Subsequent support has come from Schmidt Sciences via the Ocean Biogeochemistry Virtual Institute [InMOS Project](https://inmos-obvi.github.io/). 
 

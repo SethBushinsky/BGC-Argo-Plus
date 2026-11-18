@@ -1,12 +1,12 @@
 ---
-permalink: /maps/
-title: "Maps "
+permalink: /Figures_Images/
+title: "Figures/Images "
 excerpt: "Map placeholder"
 author_profile: false
 classes: single
 toc: true
 toc_sticky: true
-toc_label: "Map types"
+toc_label: "Figures"
 
 gallery2:
   - url: /assets/images/Logo_Mark_Backed.png
