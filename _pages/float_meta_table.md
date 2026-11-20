@@ -8,7 +8,7 @@ toc: false
 datatable: true
 ---
 {% include float_table_filters.html %}
- 
+
 <div class="datatable-begin"></div>
 <table id="my-table">
   <thead>
@@ -26754,7 +26754,8 @@ datatable: true
   </button>
   <button id="export-netcdf-script" class="btn btn-primary" style="background-color: #007cba; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer; margin-left: 10px;">
     📜 Shell Script to download selected floats netcdf files
-  </button>  <span id="export-status" style="margin-left: 10px; font-style: italic; color: #666;"></span>
+  </button>
+  <span id="export-status" style="margin-left: 10px; font-style: italic; color: #666;"></span>
 </div>
 
 <script>
@@ -26826,10 +26827,12 @@ $(document).ready(function(){
       statusSpan.text('Downloaded ' + filteredData.length + ' records').css('color', '#28a745');
       setTimeout(function() { statusSpan.text(''); }, 3000);
     });
+
     // Shell script that downloads the netCDF file of every filtered float (curl)
     $('#export-netcdf-script').on('click', function() {
       var statusSpan = $('#export-status');
       var filteredData = table.rows({ search: 'applied' }).data();
+
       if (filteredData.length === 0) {
         statusSpan.text('No data to export.').css('color', '#d73527');
         setTimeout(function() { statusSpan.text(''); }, 3000);
@@ -26844,9 +26847,10 @@ $(document).ready(function(){
         var wmo = $('<div>').html(rowData[0]).text().trim();
         if (/^\d+$/.test(wmo)) floats.push(wmo);
       });
+
       var script = [
         '#!/usr/bin/env bash',
-        '# Downloads the BGC-Argo+ netCDF files (Sprof, v1.0) for ' + floats.length + ' floats into .' + OUT_DIR,
+        '# Downloads the BGC-Argo+ netCDF files (Sprof, v1.0) for ' + floats.length + ' floats into ./' + OUT_DIR,
         '# Run with: bash <this file>   (requires curl: preinstalled on macOS, Windows 10+, and most Linux)',
         'set -u',
         "BASE_URL='" + BASE_URL + "'",
@@ -26866,8 +26870,9 @@ $(document).ready(function(){
         'done',
         'echo "Finished: ${#FLOATS[@]} floats, $failed failed."',
         'exit $((failed > 0))',
-        '',
+        ''
       ]).join('\n');
+
       var blob = new Blob([script], { type: 'application/x-sh;charset=utf-8;' });
       var searchTerm = table.search();
       var filename = 'download_bgc_argo_plus_netcdf';
@@ -26875,6 +26880,7 @@ $(document).ready(function(){
         filename += '_selected_' + searchTerm.replace(/[^a-zA-Z0-9]/g, '');
       }
       filename += '.sh';
+
       var link = document.createElement('a');
       if (link.download !== undefined) {
         var url = URL.createObjectURL(blob);
@@ -26885,7 +26891,10 @@ $(document).ready(function(){
         link.click();
         document.body.removeChild(link);
       }
+
       statusSpan.text('Downloaded script for ' + floats.length + ' floats').css('color', '#28a745');
-      setTimeout(function() { statusSpan.text(''); }, 3000);  }, 500); // Small delay to ensure DataTables is fully initialized
+      setTimeout(function() { statusSpan.text(''); }, 3000);
+    });
+  }, 500); // Small delay to ensure DataTables is fully initialized
 });
 </script>
