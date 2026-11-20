@@ -3,12 +3,12 @@ layout: splash
 permalink: /float_meta_table/
 title: "Float Table/Map"
 author_profile: false
-last_modified_at: 2026-08-18
+last_modified_at: 2026-11-20
 toc: false
 datatable: true
 ---
 {% include float_table_filters.html %}
-
+ 
 <div class="datatable-begin"></div>
 <table id="my-table">
   <thead>
@@ -577,7 +577,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/1902332/">1902332</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2019-12-18T12:33</td>
       <td>-12.028</td>
       <td>79.912</td>
@@ -2498,7 +2498,7 @@ datatable: true
       <td>2013-10-24T10:03</td>
       <td>128</td>
       <td>TEMP PSAL DOXY CHLA CHLA_FLUORESCENCE BBP700</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2902090/">2902090</a></td>
@@ -4163,7 +4163,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903175/">2903175</a></td>
-      <td>                                                               </td>
+      <td>nan</td>
       <td>2013-04-06T11:52</td>
       <td>41.143</td>
       <td>147.219</td>
@@ -4185,7 +4185,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903209/">2903209</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2017-07-25T01:29</td>
       <td>47.046</td>
       <td>160.044</td>
@@ -4196,7 +4196,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903210/">2903210</a></td>
-      <td>                                                               </td>
+      <td>nan</td>
       <td>2017-07-24T19:49</td>
       <td>47.074</td>
       <td>160.079</td>
@@ -4207,7 +4207,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903212/">2903212</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2017-12-01T23:14</td>
       <td>23.998</td>
       <td>164.808</td>
@@ -4218,7 +4218,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903213/">2903213</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2018-02-04T17:02</td>
       <td>28.015</td>
       <td>164.99</td>
@@ -4229,7 +4229,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903329/">2903329</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2018-01-28T19:28</td>
       <td>33.291</td>
       <td>142.516</td>
@@ -4240,7 +4240,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903330/">2903330</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2018-01-28T20:15</td>
       <td>33.3</td>
       <td>142.519</td>
@@ -4251,7 +4251,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903353/">2903353</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2018-07-26T05:05</td>
       <td>47.084</td>
       <td>160.039</td>
@@ -4262,7 +4262,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903354/">2903354</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2018-07-25T23:12</td>
       <td>47.0507</td>
       <td>160.0368</td>
@@ -4273,7 +4273,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903392/">2903392</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2020-08-21T08:57</td>
       <td>49.962</td>
       <td>165.034</td>
@@ -4284,7 +4284,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903393/">2903393</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2020-08-22T07:40</td>
       <td>47.139</td>
       <td>165.185</td>
@@ -4295,7 +4295,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903394/">2903394</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2019-05-26T00:15</td>
       <td>32.338</td>
       <td>144.231</td>
@@ -4306,7 +4306,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903395/">2903395</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2019-06-03T01:26</td>
       <td>47.032</td>
       <td>159.971</td>
@@ -4317,7 +4317,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903396/">2903396</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2019-08-26T19:24</td>
       <td>44.862</td>
       <td>155.183</td>
@@ -4614,7 +4614,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903613/">2903613</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2021-02-05T02:32</td>
       <td>25.9899</td>
       <td>145.0365</td>
@@ -4625,7 +4625,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903614/">2903614</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2021-02-05T23:06</td>
       <td>25.9944</td>
       <td>149.9936</td>
@@ -4636,7 +4636,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903615/">2903615</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2021-02-17T07:15</td>
       <td>28.9405</td>
       <td>136.0337</td>
@@ -4647,7 +4647,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903648/">2903648</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2021-02-17T21:07</td>
       <td>26.0097</td>
       <td>135.9338</td>
@@ -4658,7 +4658,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903650/">2903650</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2021-02-19T21:52</td>
       <td>26.0041</td>
       <td>155.0391</td>
@@ -4669,7 +4669,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903651/">2903651</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2021-02-20T18:37</td>
       <td>25.9768</td>
       <td>160.0246</td>
@@ -4680,7 +4680,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903652/">2903652</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2021-02-20T08:11</td>
       <td>25.9609</td>
       <td>139.9945</td>
@@ -4691,7 +4691,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903653/">2903653</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2021-02-22T05:30</td>
       <td>31.0496</td>
       <td>141.4937</td>
@@ -4702,7 +4702,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903654/">2903654</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2021-02-22T21:23</td>
       <td>31.0175</td>
       <td>144.9857</td>
@@ -4713,7 +4713,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903655/">2903655</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2021-08-21T06:36</td>
       <td>32.348</td>
       <td>154.754</td>
@@ -4724,7 +4724,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903656/">2903656</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2021-06-22T16:42</td>
       <td>31.0328</td>
       <td>160.2457</td>
@@ -4735,7 +4735,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903657/">2903657</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2021-06-16T21:00</td>
       <td>30.0676</td>
       <td>164.9872</td>
@@ -4746,7 +4746,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903666/">2903666</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2021-10-11T08:02</td>
       <td>49.969</td>
       <td>169.576</td>
@@ -4757,7 +4757,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903667/">2903667</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2022-04-19T17:02</td>
       <td>33.9723</td>
       <td>149.2378</td>
@@ -4768,7 +4768,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903669/">2903669</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2021-02-21T07:09</td>
       <td>46.979</td>
       <td>160.016</td>
@@ -4779,7 +4779,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903670/">2903670</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2021-02-21T07:02</td>
       <td>46.981</td>
       <td>160.015</td>
@@ -4790,7 +4790,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903672/">2903672</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2021-03-05T21:10</td>
       <td>32.338</td>
       <td>144.648</td>
@@ -4801,7 +4801,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903700/">2903700</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2022-05-02T05:19</td>
       <td>46.975</td>
       <td>160.012</td>
@@ -4812,7 +4812,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903762/">2903762</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2024-10-17T19:59</td>
       <td>46.96</td>
       <td>159.919</td>
@@ -4823,7 +4823,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/2903763/">2903763</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2024-10-11T14:38</td>
       <td>46.973</td>
       <td>169.954</td>
@@ -5974,7 +5974,7 @@ datatable: true
       <td>2020-08-14T07:36</td>
       <td>238</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/3901998/">3901998</a></td>
@@ -8009,7 +8009,7 @@ datatable: true
       <td>2022-05-21T12:42</td>
       <td>3</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902445/">4902445</a></td>
@@ -8020,7 +8020,7 @@ datatable: true
       <td>2022-01-31T05:41</td>
       <td>1</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902446/">4902446</a></td>
@@ -8031,7 +8031,7 @@ datatable: true
       <td>2022-02-03T05:36</td>
       <td>1</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902447/">4902447</a></td>
@@ -8042,7 +8042,7 @@ datatable: true
       <td>2022-05-20T12:29</td>
       <td>3</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902455/">4902455</a></td>
@@ -8350,7 +8350,7 @@ datatable: true
       <td>2022-05-21T12:07</td>
       <td>3</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902490/">4902490</a></td>
@@ -8361,7 +8361,7 @@ datatable: true
       <td>2022-05-20T12:00</td>
       <td>3</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902491/">4902491</a></td>
@@ -8372,7 +8372,7 @@ datatable: true
       <td>2022-05-20T12:09</td>
       <td>3</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902492/">4902492</a></td>
@@ -8405,7 +8405,7 @@ datatable: true
       <td>2022-05-21T12:07</td>
       <td>3</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902495/">4902495</a></td>
@@ -8416,7 +8416,7 @@ datatable: true
       <td>2022-05-21T11:31</td>
       <td>3</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902496/">4902496</a></td>
@@ -8438,7 +8438,7 @@ datatable: true
       <td>2022-02-01T08:20</td>
       <td>1</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902498/">4902498</a></td>
@@ -8592,7 +8592,7 @@ datatable: true
       <td>2022-01-31T04:42</td>
       <td>1</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902512/">4902512</a></td>
@@ -8680,7 +8680,7 @@ datatable: true
       <td>2022-05-21T23:59</td>
       <td>2</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902520/">4902520</a></td>
@@ -8702,7 +8702,7 @@ datatable: true
       <td>2022-02-02T22:50</td>
       <td>1</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902522/">4902522</a></td>
@@ -8724,7 +8724,7 @@ datatable: true
       <td>2022-01-30T04:41</td>
       <td>1</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902524/">4902524</a></td>
@@ -8779,7 +8779,7 @@ datatable: true
       <td>2022-05-20T12:49</td>
       <td>3</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902537/">4902537</a></td>
@@ -8790,7 +8790,7 @@ datatable: true
       <td>2022-05-20T12:53</td>
       <td>3</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902538/">4902538</a></td>
@@ -8812,7 +8812,7 @@ datatable: true
       <td>2022-05-21T12:56</td>
       <td>3</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902540/">4902540</a></td>
@@ -8856,7 +8856,7 @@ datatable: true
       <td>2022-01-31T05:54</td>
       <td>1</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902544/">4902544</a></td>
@@ -8867,7 +8867,7 @@ datatable: true
       <td>2022-02-04T10:46</td>
       <td>2</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902545/">4902545</a></td>
@@ -8999,7 +8999,7 @@ datatable: true
       <td>2022-05-21T03:59</td>
       <td>3</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902562/">4902562</a></td>
@@ -9021,7 +9021,7 @@ datatable: true
       <td>2022-05-20T07:56</td>
       <td>3</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902564/">4902564</a></td>
@@ -9043,7 +9043,7 @@ datatable: true
       <td>2022-05-20T06:01</td>
       <td>1</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902567/">4902567</a></td>
@@ -9054,7 +9054,7 @@ datatable: true
       <td>2022-05-20T06:00</td>
       <td>1</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902568/">4902568</a></td>
@@ -9065,7 +9065,7 @@ datatable: true
       <td>2022-05-21T17:55</td>
       <td>2</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902570/">4902570</a></td>
@@ -9076,7 +9076,7 @@ datatable: true
       <td>2022-05-22T04:07</td>
       <td>2</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902571/">4902571</a></td>
@@ -9109,7 +9109,7 @@ datatable: true
       <td>2022-05-20T08:54</td>
       <td>3</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902574/">4902574</a></td>
@@ -9120,7 +9120,7 @@ datatable: true
       <td>2022-05-22T08:02</td>
       <td>1</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902576/">4902576</a></td>
@@ -9285,7 +9285,7 @@ datatable: true
       <td>2022-05-20T06:03</td>
       <td>1</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902593/">4902593</a></td>
@@ -9296,7 +9296,7 @@ datatable: true
       <td>2022-05-20T06:00</td>
       <td>1</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902595/">4902595</a></td>
@@ -9307,7 +9307,7 @@ datatable: true
       <td>2022-05-21T21:03</td>
       <td>1</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902596/">4902596</a></td>
@@ -9872,7 +9872,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4902990/">4902990</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2021-08-04T17:11</td>
       <td>46.964</td>
       <td>-179.416</td>
@@ -10147,7 +10147,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903614/">4903614</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2024-11-09T01:13</td>
       <td>32.349</td>
       <td>144.372</td>
@@ -10158,7 +10158,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/4903615/">4903615</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2024-11-12T13:01</td>
       <td>26.738</td>
       <td>144.768</td>
@@ -14580,7 +14580,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905062/">5905062</a></td>
-      <td></td>
+      <td>nan</td>
       <td>NaT</td>
       <td>-45.048</td>
       <td>109.985</td>
@@ -15207,7 +15207,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905218/">5905218</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2018-01-07T19:42</td>
       <td>-54.998</td>
       <td>109.921</td>
@@ -15218,7 +15218,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905223/">5905223</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2018-08-27T00:13</td>
       <td>13.125</td>
       <td>136.872</td>
@@ -15229,7 +15229,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905229/">5905229</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2018-12-12T01:31</td>
       <td>-14.924</td>
       <td>108.402</td>
@@ -15240,7 +15240,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5905232/">5905232</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2018-01-30T18:18</td>
       <td>-63.272</td>
       <td>139.735</td>
@@ -18496,7 +18496,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906596/">5906596</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2023-08-09T00:17</td>
       <td>47.347</td>
       <td>160.457</td>
@@ -18507,7 +18507,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/5906597/">5906597</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2023-08-06T18:51</td>
       <td>46.986</td>
       <td>159.964</td>
@@ -22797,7 +22797,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6902968/">6902968</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2019-05-28T13:07</td>
       <td>43.3691</td>
       <td>7.9158</td>
@@ -23215,7 +23215,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903069/">6903069</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2020-07-16T07:50</td>
       <td>43.5489</td>
       <td>7.5916</td>
@@ -23849,7 +23849,7 @@ datatable: true
       <td>2020-10-05T18:42</td>
       <td>120</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903549/">6903549</a></td>
@@ -24267,7 +24267,7 @@ datatable: true
       <td>2021-11-12T09:45</td>
       <td>101</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6903706/">6903706</a></td>
@@ -24656,7 +24656,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/6904112/">6904112</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2021-07-30T21:26</td>
       <td>49.2402</td>
       <td>-41.6275</td>
@@ -25646,7 +25646,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900863/">7900863</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2019-01-11T15:45</td>
       <td>-61.027</td>
       <td>109.996</td>
@@ -25657,7 +25657,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900874/">7900874</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2023-02-07T20:51</td>
       <td>-65.283</td>
       <td>66.141</td>
@@ -25668,7 +25668,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900875/">7900875</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2023-10-29T04:03</td>
       <td>35.393</td>
       <td>178.986</td>
@@ -25679,7 +25679,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900878/">7900878</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2024-01-20T19:32</td>
       <td>-63.044</td>
       <td>111.674</td>
@@ -25690,7 +25690,7 @@ datatable: true
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900881/">7900881</a></td>
-      <td></td>
+      <td>nan</td>
       <td>2020-01-28T07:25</td>
       <td>-62.986</td>
       <td>114.917</td>
@@ -25818,7 +25818,7 @@ datatable: true
       <td>2022-02-13T10:08</td>
       <td>44</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900979/">7900979</a></td>
@@ -25829,7 +25829,7 @@ datatable: true
       <td>2022-04-18T23:45</td>
       <td>1</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900983/">7900983</a></td>
@@ -25840,7 +25840,7 @@ datatable: true
       <td>2022-04-15T23:57</td>
       <td>1</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7900990/">7900990</a></td>
@@ -25851,7 +25851,7 @@ datatable: true
       <td>2022-04-08T01:20</td>
       <td>5</td>
       <td>TEMP PSAL</td>
-      <td></td>
+      <td>nan</td>
     </tr>
     <tr>
       <td><a href="https://www.bgc-argo-plus.info/float_pages/7901001/">7901001</a></td>
@@ -26750,9 +26750,11 @@ datatable: true
 
 <div style="margin-top: 20px;">
   <button id="export-csv" class="btn btn-primary" style="background-color: #007cba; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">
-    📥 Download Filtered Results as CSV
+    📥 CSV file with selected results
   </button>
-  <span id="export-status" style="margin-left: 10px; font-style: italic; color: #666;"></span>
+  <button id="export-netcdf-script" class="btn btn-primary" style="background-color: #007cba; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer; margin-left: 10px;">
+    📜 Shell Script to download selected floats netcdf files
+  </button>  <span id="export-status" style="margin-left: 10px; font-style: italic; color: #666;"></span>
 </div>
 
 <script>
@@ -26824,6 +26826,66 @@ $(document).ready(function(){
       statusSpan.text('Downloaded ' + filteredData.length + ' records').css('color', '#28a745');
       setTimeout(function() { statusSpan.text(''); }, 3000);
     });
-  }, 500); // Small delay to ensure DataTables is fully initialized
+    // Shell script that downloads the netCDF file of every filtered float (curl)
+    $('#export-netcdf-script').on('click', function() {
+      var statusSpan = $('#export-status');
+      var filteredData = table.rows({ search: 'applied' }).data();
+      if (filteredData.length === 0) {
+        statusSpan.text('No data to export.').css('color', '#d73527');
+        setTimeout(function() { statusSpan.text(''); }, 3000);
+        return;
+      }
+
+      var BASE_URL = 'https://ftp.soest.hawaii.edu/bgc_argo_plus/outliers_removed/v1.0/Individual_Floats';
+      var OUT_DIR = 'bgc_argo_plus_netcdf';
+      var floats = [];
+      filteredData.each(function(rowData) {
+        // The WMO number is the text of the link in the first cell
+        var wmo = $('<div>').html(rowData[0]).text().trim();
+        if (/^\d+$/.test(wmo)) floats.push(wmo);
+      });
+      var script = [
+        '#!/usr/bin/env bash',
+        '# Downloads the BGC-Argo+ netCDF files (Sprof, v1.0) for ' + floats.length + ' floats into .' + OUT_DIR,
+        '# Run with: bash <this file>   (requires curl: preinstalled on macOS, Windows 10+, and most Linux)',
+        'set -u',
+        "BASE_URL='" + BASE_URL + "'",
+        "OUT_DIR='" + OUT_DIR + "'",
+        'FLOATS=('
+      ].concat(floats.map(function(wmo) { return '  ' + wmo; }), [
+        ')',
+        'mkdir -p "$OUT_DIR" || exit 1',
+        'failed=0',
+        'for wmo in "${FLOATS[@]}"; do',
+        '  file="${wmo}_Sprof_BGCArgoPlus.nc"',
+        '  echo "[$wmo] downloading $file"',
+        '  if ! curl -fL --retry 3 -o "$OUT_DIR/$file" "$BASE_URL/$file"; then',
+        '    echo "[$wmo] FAILED" >&2',
+        '    failed=$((failed + 1))',
+        '  fi',
+        'done',
+        'echo "Finished: ${#FLOATS[@]} floats, $failed failed."',
+        'exit $((failed > 0))',
+        '',
+      ]).join('\n');
+      var blob = new Blob([script], { type: 'application/x-sh;charset=utf-8;' });
+      var searchTerm = table.search();
+      var filename = 'download_bgc_argo_plus_netcdf';
+      if (searchTerm) {
+        filename += '_selected_' + searchTerm.replace(/[^a-zA-Z0-9]/g, '');
+      }
+      filename += '.sh';
+      var link = document.createElement('a');
+      if (link.download !== undefined) {
+        var url = URL.createObjectURL(blob);
+        link.setAttribute('href', url);
+        link.setAttribute('download', filename);
+        link.style.visibility = 'hidden';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+      }
+      statusSpan.text('Downloaded script for ' + floats.length + ' floats').css('color', '#28a745');
+      setTimeout(function() { statusSpan.text(''); }, 3000);  }, 500); // Small delay to ensure DataTables is fully initialized
 });
 </script>
