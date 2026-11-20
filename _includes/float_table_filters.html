@@ -168,7 +168,7 @@
           if (markers[i]) { markerLayer.addLayer(markers[i]); shown++; }
         });
         document.getElementById('float-map-status').textContent =
-          'Map: ' + shown + ' of ' + total + ' floats (deployment locations).';
+          'Selected: ' + shown + ' of ' + total + ' floats (deployment locations).';
       }
       table.on('draw', refreshMarkers);
       refreshMarkers();
